@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone Number_phone</name>
+   <tag></tag>
+   <elementGuidId>aa7b25d8-8fb8-4849-9e28-c5a5e2d1bcdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;phone&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='phone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32c38cd2-ab83-4d44-953d-357a5d4e4191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>f051bb6e-57da-43ef-a5e2-6b4935107c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component form-input</value>
+      <webElementGuid>d5668d53-4bd4-4116-b0d0-743167d38593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Phone Number</value>
+      <webElementGuid>d3995ce5-5d6f-4337-b6b7-fb73341b118a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1006a037-a3ac-42f7-97db-70e10fc691fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;call-entry-container&quot;]/div[@class=&quot;call-entry-customer-product-container&quot;]/div[@class=&quot;call-entry-customer-container&quot;]/form[1]/div[1]/div[@class=&quot;form-control&quot;]/div[@class=&quot;input-full-container&quot;]/div[@class=&quot;flex&quot;]/input[@class=&quot;p-inputtext p-component form-input&quot;]</value>
+      <webElementGuid>359c208a-708f-472a-922f-d5c282a158d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='phone']</value>
+      <webElementGuid>0f7a41a6-c527-4774-9ef2-c9a1f72902c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/form/div/div/div/div/input</value>
+      <webElementGuid>02e33030-fbd5-4e41-bf0a-e12614337a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::input[1]</value>
+      <webElementGuid>a6857c38-efb1-4dde-a7be-29857b81e254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Info'])[2]/following::input[1]</value>
+      <webElementGuid>f3108da5-b3a1-41c3-95a4-0ce298d6e001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::input[1]</value>
+      <webElementGuid>13a93690-c55f-4925-8cc1-1f9639a8148b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Name'])[1]/preceding::input[2]</value>
+      <webElementGuid>ed946c75-c09f-446a-b21c-a7c47e1fdd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/input</value>
+      <webElementGuid>67ad4fcf-5dba-4af4-b10a-f19f0d11528b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'phone' and @placeholder = 'Input Phone Number' and @type = 'text']</value>
+      <webElementGuid>e80a7124-112f-4219-91a9-b7ae20c0348a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

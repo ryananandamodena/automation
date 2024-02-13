@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cause</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a00a8770-9c04-4709-bec4-edcba2795080</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3454f5d6-3202-49cc-b197-a4776a767372</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a052bf27-efad-41d5-a2c7-d0fa8ff9e7ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b839114-8c03-45ae-8a19-5fb38f3a68b4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>3454f5d6-3202-49cc-b197-a4776a767372</id>
+      <masked>false</masked>
+      <name>Target</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>a052bf27-efad-41d5-a2c7-d0fa8ff9e7ee</id>
+      <masked>false</masked>
+      <name>contac</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>2b839114-8c03-45ae-8a19-5fb38f3a68b4</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

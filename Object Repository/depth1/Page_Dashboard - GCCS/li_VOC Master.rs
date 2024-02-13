@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_VOC Master</name>
+   <tag></tag>
+   <elementGuidId>c0084f05-5ea4-4dae-8442-37144700ff6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-sub-menu-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[4]/li/ul/a/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>41814c84-1763-4d6d-a129-5a65f4ffe5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-sub-menu-list</value>
+      <webElementGuid>a366c747-3adc-4ebf-bb22-47aad1706581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VOC Master</value>
+      <webElementGuid>bceb8de9-2184-42a7-a981-ddb3d41fe06e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[4]/li[@class=&quot;sub-menu-list&quot;]/ul[@class=&quot;sub-sub-menu&quot;]/a[1]/li[@class=&quot;sub-sub-menu-list&quot;]</value>
+      <webElementGuid>b57601fb-5706-42ad-aac1-fc233df889fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[4]/li/ul/a/li</value>
+      <webElementGuid>9118186c-4a20-4e0e-9ac4-553f3b67b50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOC'])[1]/following::li[1]</value>
+      <webElementGuid>9bb573a6-5ca2-492f-add1-2c156cc036a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::li[2]</value>
+      <webElementGuid>33de1453-5eeb-46cb-bbda-198a271be821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GATOT KUSNARIANTO'])[1]/preceding::li[2]</value>
+      <webElementGuid>b9771914-1ec8-4c3c-a147-1802b25535db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li/ul/a/li</value>
+      <webElementGuid>773de632-3a48-4f58-8970-d1deb046a21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'VOC Master' or . = 'VOC Master')]</value>
+      <webElementGuid>40ebc064-67a1-4bc1-96d4-6c3523d8bed1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

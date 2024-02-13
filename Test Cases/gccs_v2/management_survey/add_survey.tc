@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add_survey</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7da17835-797c-48d4-ac17-8303e1cce564</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40b38282-a3d3-472c-89f6-3b7e3f4e675e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40b38282-a3d3-472c-89f6-3b7e3f4e675e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

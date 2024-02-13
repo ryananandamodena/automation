@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_VOC Master</name>
+   <tag></tag>
+   <elementGuidId>4197a4b6-680d-4600-8b56-e657f3b63b35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[4]/li/ul/a/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-sub-menu-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3ff42c87-ae42-49db-898c-3eba08bbf307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-sub-menu-list</value>
+      <webElementGuid>4ffe7ad7-dbb2-4f1a-acd8-5926eaf3e067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VOC Master</value>
+      <webElementGuid>40c53ed0-52de-4984-99e5-900e2089cedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[4]/li[@class=&quot;sub-menu-list&quot;]/ul[@class=&quot;sub-sub-menu&quot;]/a[1]/li[@class=&quot;sub-sub-menu-list&quot;]</value>
+      <webElementGuid>ddd47b9b-0b2f-4c31-bb4f-4911ac24a780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[4]/li/ul/a/li</value>
+      <webElementGuid>dc899f39-fd1f-4330-b5c3-e3edde8ff481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOC'])[1]/following::li[1]</value>
+      <webElementGuid>d8cc5d60-7e6c-4fc6-88ca-8e9efa29a213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::li[2]</value>
+      <webElementGuid>18fea96f-7fba-43e1-a7e0-3d890223899a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROSDINI'])[1]/preceding::li[2]</value>
+      <webElementGuid>eb1dd9e3-78ed-4a46-bdef-3568680b444b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li/ul/a/li</value>
+      <webElementGuid>654530dc-1697-40ec-a4a9-6716044280e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'VOC Master' or . = 'VOC Master')]</value>
+      <webElementGuid>2838e3c2-6bc8-435f-8ed7-0288cbf233b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

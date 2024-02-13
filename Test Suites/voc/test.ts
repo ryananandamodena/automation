@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1bb92d40-ebe9-4fb4-a2d6-b35d33502b70</testSuiteGuid>
+   <testCaseLink>
+      <guid>4c29bb1d-085e-4efb-a678-4dc53c1713c3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/gccs_v2_VOC/Voc_Master/Cause1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a91a4f9f-84be-4367-8856-72fa95f47ebd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/VOC/1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a91a4f9f-84be-4367-8856-72fa95f47ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Cause Name</value>
+         <variableId>6116d455-a4ae-4816-9fce-4afa14d8a978</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a91a4f9f-84be-4367-8856-72fa95f47ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Target</value>
+         <variableId>d191bf1f-09cf-44aa-bfa4-900b9324467d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a91a4f9f-84be-4367-8856-72fa95f47ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Contact</value>
+         <variableId>e7b0525a-9b51-479e-ad58-605cabd5af8d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a91a4f9f-84be-4367-8856-72fa95f47ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Status</value>
+         <variableId>5b7879cd-3a7f-480d-9244-aaff2effcb60</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
