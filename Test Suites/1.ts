@@ -15,7 +15,7 @@
       <guid>00a2f1d4-1515-4fbf-b798-f86108d3c600</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/gccs_v2/login/login</testCaseId>
+      <testCaseId>Test Cases/GCCS/gccs_v2/login/login</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>60c11e3e-0139-4778-9f6b-c76db66ff4a7</id>

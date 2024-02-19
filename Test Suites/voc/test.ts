@@ -15,7 +15,7 @@
       <guid>4c29bb1d-085e-4efb-a678-4dc53c1713c3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/gccs_v2_VOC/Voc_Master/Cause1</testCaseId>
+      <testCaseId>Test Cases/GCCS/gccs_v2_VOC/Voc_Master/Cause1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>a91a4f9f-84be-4367-8856-72fa95f47ebd</id>

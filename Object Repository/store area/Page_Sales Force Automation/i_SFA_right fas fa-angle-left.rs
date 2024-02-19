@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_SFA_right fas fa-angle-left</name>
+   <tag></tag>
+   <elementGuidId>5d156a7c-d921-4e9f-bc9d-913585cb6aed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/aside/div/nav/ul/li[2]/a/p/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.right.fas.fa-angle-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>47b13f55-cd97-4fbf-8986-2387a9a79ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right fas fa-angle-left</value>
+      <webElementGuid>ffdcf8b3-f52b-4470-8cbf-be20315ee115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar elevation-4 sidebar-dark-primary&quot;]/div[@class=&quot;sidebar&quot;]/nav[@class=&quot;mt-2&quot;]/ul[@class=&quot;nav nav-pills nav-sidebar flex-column&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/p[1]/i[@class=&quot;right fas fa-angle-left&quot;]</value>
+      <webElementGuid>7f5a599b-f23c-4075-9fd6-4e1a37904ed6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/aside/div/nav/ul/li[2]/a/p/i</value>
+      <webElementGuid>2cabc1dc-ba32-4c4a-849d-a48f3934f804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/i</value>
+      <webElementGuid>a3dad5c9-65d1-457a-9f1b-c48d693c5e40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
