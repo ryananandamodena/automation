@@ -17,3 +17,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://salesmobiledev.modena.com/')
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/div_Password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/p_SCC Master Data'))
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/p_Stores'))
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/button_Add'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/store/Page_Sales Force Automation/select_Select AreaBANDUNGBANJARMASINBATAMBO_9aa89c'), 
+    '32', true)
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Search Location_search'), 'bogor')
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/span_Bogor Utara, Bogor City, West Java, Indonesia'))
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Store Code_store_code'), '1220')
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Store Name_store_name'), 'modena bogor2')
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/textarea_Address_address'), 'bogor utara')
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/button_Save'))
+
+WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/button_OK'))
+
+WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_List of Store Data_search'), '1220')
+
