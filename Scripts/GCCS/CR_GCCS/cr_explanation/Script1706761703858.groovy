@@ -21,39 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/cr_gccs/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
+WebUI.setText(findTestObject('Object Repository/gccs/cr_gccs/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/cr_gccs/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/cr_gccs/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Login - GCCS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Dashboard - GCCS/span_Call Center'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Dashboard - GCCS/span_Call Center'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Dashboard - GCCS/div_Call Entry'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Dashboard - GCCS/div_Call Entry'))
 
-WebUI.setText(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), '087770666214')
+WebUI.setText(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), '087770666214')
 
-WebUI.sendKeys(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/path'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/path'))
 
-WebUI.setText(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/textarea_test1'), 'test1')
+WebUI.setText(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/textarea_test1'), 'test1')
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/span_Select Status'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/span_Select Status'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/li_Pending'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/li_Pending'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/span_Select Explanation Type'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/span_Select Explanation Type'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/li_Lokasi Service Center'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/li_Lokasi Service Center'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/input_Agent Name_callbackAgentUsername'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Agent Name_callbackAgentUsername'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/path_1'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/path_1'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/button_Select'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/button_Select'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/svg'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/svg'))
 
-WebUI.click(findTestObject('Object Repository/cr_gccs/Page_Call Entry - GCCS/button_Save'))
+WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/button_Save'))
 

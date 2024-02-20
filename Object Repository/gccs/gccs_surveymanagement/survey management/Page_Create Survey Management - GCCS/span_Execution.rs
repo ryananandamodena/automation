@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Execution</name>
+   <tag></tag>
+   <elementGuidId>c3758481-219b-4e2c-bc57-60992b491ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/form/div/div/div/div[4]/div[2]/div/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2e22a8b-2f52-440e-9b52-13cbdb20089c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>2aabf856-7118-42ad-be01-e4d73a6fdd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Execution</value>
+      <webElementGuid>f352cc36-605a-4d78-8bd1-9886371f6368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/form[1]/div[@class=&quot;create-edit-user-container&quot;]/div[@class=&quot;flex justify-content-between&quot;]/div[1]/div[@class=&quot;create-edit-user-container&quot;]/div[@class=&quot;flex justify-content-between&quot;]/div[1]/div[@class=&quot;form-control&quot;]/div[@class=&quot;input-full-container&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper form-select&quot;]/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>d5d3ec06-691d-4708-a300-9922c737dc17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/form/div/div/div/div[4]/div[2]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>5d40fcf8-36bc-4b2a-94a8-64ae93033a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution'])[1]/following::span[1]</value>
+      <webElementGuid>b050f82e-ec2f-4b54-bcf6-bfe613dfbf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Batch'])[2]/following::span[2]</value>
+      <webElementGuid>9599cf09-4b8b-4184-9527-06f6678b1a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[2]</value>
+      <webElementGuid>d508c62c-2d18-428b-834d-da4f119cbd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questionnaire'])[1]/preceding::span[2]</value>
+      <webElementGuid>9c560a2e-661d-40a1-8dba-fdfd80e0b6d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>f182c9be-f3a5-42e3-9d04-caea25fa6888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Execution' or . = 'Execution')]</value>
+      <webElementGuid>61ccfbce-859f-4878-9c85-b9b7947b8a81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

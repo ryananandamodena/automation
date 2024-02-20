@@ -21,32 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://salesmobiledev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/button_Login'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/p_Master Data SCC'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/p_Master Data SCC'))
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/p_Sales'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/p_Sales'))
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/button_Add'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Add'))
 
-WebUI.setText(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Email_email'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email_email'), a)
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/span_preddy.desmonmodena.com'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/span_preddy.desmonmodena.com'))
 
-WebUI.setText(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Username_username'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Username_username'), a)
 
-WebUI.setText(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Sales Code_sales_code'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Sales Code_sales_code'), a)
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/input_Join Date_join_date'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Join Date_join_date'))
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/td_13'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/td_13'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/sales/Page_Sales Force Automation/select_Select RoleSalesConsultantCoordinator'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/select_Select RoleSalesConsultantCoordinator'), 
     '65bb56a3347b24603ce40761', true)
 
-WebUI.click(findTestObject('Object Repository/sales/Page_Sales Force Automation/button_Save'))
+WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Save'))
 

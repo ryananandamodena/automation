@@ -21,86 +21,86 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
 
 WebUI.delay(1)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), 
     'QiSQiLhspCy/AIcOjDjVqQ==')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/button_Login'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Dashboard - GCCS/div_Customer Survey'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Dashboard - GCCS/div_Customer Survey'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Dashboard - GCCS/div_Survey Management'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Dashboard - GCCS/div_Survey Management'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Survey Management - GCCS/button_Add Survey'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Survey Management - GCCS/button_Add Survey'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Survey Type'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Survey Type'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Visit In-Home'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Visit In-Home'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'))
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Survey Title_surveyTitle'), 
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Survey Title_surveyTitle'), 
     'test 26')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Target Type'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Target Type'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Daily Batch'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Daily Batch'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Equipment'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Equipment'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Phone'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Phone'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Execution'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/span_Execution'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Yes'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/li_Yes'))
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test 2'), 
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test 2'), 
     'test 26')
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'), 
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'), 
     'test survey 1')
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test_1_2'), 
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test_1_2'), 
     'test Survey 1')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/button_Save'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/button_Save'))
 
 WebUI.closeBrowser()
 

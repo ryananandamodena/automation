@@ -21,35 +21,35 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/voc/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
+WebUI.setText(findTestObject('Object Repository/gccs/voc/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/voc/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/voc/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
 
-WebUI.click(findTestObject('Object Repository/voc/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_Login - GCCS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/voc/Page_Dashboard - GCCS/li_Setup'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('Object Repository/voc/Page_Dashboard - GCCS/div_VOC'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_Dashboard - GCCS/li_Setup'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/voc/Page_Dashboard - GCCS/li_VOC Master'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_Dashboard - GCCS/div_VOC'))
 
-WebUI.click(findTestObject('Object Repository/voc/Page_VOC Master - GCCS/span_COUSE'))
+WebUI.delay(1)
 
-WebUI.setText(findTestObject('Object Repository/voc/Page_VOC Master - GCCS/input_Couse Name_couseName'), 'qa')
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_Dashboard - GCCS/li_VOC Master'))
 
-WebUI.click(findTestObject('voc/Page_VOC Master - GCCS/div_empty'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_VOC Master - GCCS/span_COUSE'))
 
-WebUI.selectOptionByLabel(findTestObject('voc/Page_VOC Master - GCCS/li_Service'), Target, false)
+WebUI.setText(findTestObject('Object Repository/gccs/voc/Page_VOC Master - GCCS/input_Couse Name_couseName'), 'qa')
 
-WebUI.click(findTestObject('voc/Page_VOC Master - GCCS/div_empty1'))
+WebUI.click(findTestObject('gccs/voc/Page_VOC Master - GCCS/div_empty'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/voc/Page_VOC Master - GCCS/li_SUKRON'), contac, false)
+WebUI.selectOptionByLabel(findTestObject('gccs/voc/Page_VOC Master - GCCS/li_Service'), Target, false)
 
-WebUI.selectOptionByLabel(findTestObject('voc/voc_select_variabel/Page_VOC Master - GCCS/status'), status, false)
+WebUI.click(findTestObject('gccs/voc/Page_VOC Master - GCCS/div_empty1'))
 
-WebUI.click(findTestObject('Object Repository/voc/Page_VOC Master - GCCS/button_Save'))
+WebUI.selectOptionByLabel(findTestObject('Object Repository/gccs/voc/Page_VOC Master - GCCS/li_SUKRON'), contac, false)
+
+WebUI.selectOptionByLabel(findTestObject('gccs/voc/voc_select_variabel/Page_VOC Master - GCCS/status'), status, false)
+
+WebUI.click(findTestObject('Object Repository/gccs/voc/Page_VOC Master - GCCS/button_Save'))
 

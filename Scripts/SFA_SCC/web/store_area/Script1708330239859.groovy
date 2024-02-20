@@ -21,21 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://salesmobiledev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
+WebUI.setText(findTestObject('Object Repository/scc/store/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/store/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/scc/store/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/button_Login'))
+WebUI.click(findTestObject('Object Repository/scc/store/Page_Sales Force Automation/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/store/Page_Sales Force Automation/p_SCC Master Data'))
+WebUI.click(findTestObject('Object Repository/scc/store/Page_Sales Force Automation/p_SCC Master Data'))
 
-WebUI.click(findTestObject('store area/Page_Sales Force Automation/button_Add'))
+WebUI.click(findTestObject('scc/store area/Page_Sales Force Automation/button_Add'))
 
-WebUI.setText(findTestObject('store area/Page_Sales Force Automation/input_Area_area'), '')
+WebUI.setText(findTestObject('scc/store area/Page_Sales Force Automation/input_Area_area'), '')
 
-WebUI.click(findTestObject('store area/Page_Sales Force Automation/button_Save'))
+WebUI.click(findTestObject('scc/store area/Page_Sales Force Automation/button_Save'))
 
-WebUI.click(findTestObject('store area/Page_Sales Force Automation/button_OK'))
+WebUI.click(findTestObject('scc/store area/Page_Sales Force Automation/button_OK'))
 
-WebUI.setText(findTestObject('store area/Page_Sales Force Automation/input_List of Store Areas Data_search'), '')
+WebUI.setText(findTestObject('scc/store area/Page_Sales Force Automation/input_List of Store Areas Data_search'), '')
 

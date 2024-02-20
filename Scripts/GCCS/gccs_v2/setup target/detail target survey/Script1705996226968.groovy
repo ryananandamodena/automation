@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey target/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey target/Page_Dashboard - GCCS/span_Customer Survey'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Dashboard - GCCS/span_Customer Survey'))
 
-WebUI.click(findTestObject('Object Repository/gccs_surveymanagement/survey target/Page_Dashboard - GCCS/div_Setup Target'))
+WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Dashboard - GCCS/div_Setup Target'))
 
-WebUI.click(findTestObject('gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_detail target'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_detail target'))
 

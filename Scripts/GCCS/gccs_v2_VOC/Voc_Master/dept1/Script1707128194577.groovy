@@ -21,25 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/depth1/Page_Login - GCCS/input_Username_userName'), 'sa_cc001')
+WebUI.setText(findTestObject('Object Repository/gccs/voc/depth1/Page_Login - GCCS/input_Username_userName'), 'sa_cc001')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/depth1/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/voc/depth1/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_Login - GCCS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_Dashboard - GCCS/div_Setup'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_Dashboard - GCCS/div_Setup'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_Dashboard - GCCS/div_VOC'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_Dashboard - GCCS/div_VOC'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_Dashboard - GCCS/li_VOC Master'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_Dashboard - GCCS/li_VOC Master'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_VOC Master - GCCS/span_DEPTH 1'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_VOC Master - GCCS/span_DEPTH 1'))
 
-WebUI.setText(findTestObject('Object Repository/depth1/Page_VOC Master - GCCS/input_Dept 1_depthSatu'), 'test')
+WebUI.setText(findTestObject('Object Repository/gccs/voc/depth1/Page_VOC Master - GCCS/input_Dept 1_depthSatu'), 'test')
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_VOC Master - GCCS/span_Active'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_VOC Master - GCCS/span_Active'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_VOC Master - GCCS/li_Active'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_VOC Master - GCCS/li_Active'))
 
-WebUI.click(findTestObject('Object Repository/depth1/Page_VOC Master - GCCS/button_Save'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/depth1/Page_VOC Master - GCCS/button_Save'))
+
+WebUI.verifyElementText(findTestObject(null), '')
 

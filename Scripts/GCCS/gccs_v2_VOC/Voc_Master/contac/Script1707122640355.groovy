@@ -21,34 +21,34 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/voc/contac/contac/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
+WebUI.setText(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/voc/contac/contac/Page_Login - GCCS/input_Password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Login - GCCS/input_Password_password'), 
     'QiSQiLhspCy/AIcOjDjVqQ==')
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_Login - GCCS/button_Login'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Login - GCCS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_Dashboard - GCCS/div_Setup'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Dashboard - GCCS/div_Setup'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_Dashboard - GCCS/div_VOC'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Dashboard - GCCS/div_VOC'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_Dashboard - GCCS/li_VOC Master'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_Dashboard - GCCS/li_VOC Master'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/span_CONTACT'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/span_CONTACT'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/span_empty_p-dropdown-trigger-icon p-clicka_bedf43'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/span_empty_p-dropdown-trigger-icon p-clicka_bedf43'))
 
-WebUI.click(findTestObject('voc/contac/contac/Page_VOC Master - GCCS/name1'))
+WebUI.click(findTestObject('gccs/voc/contac/contac/Page_VOC Master - GCCS/name1'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/div_empty'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/div_empty'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/li_Transfer Sub'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/li_Transfer Sub'))
 
-WebUI.click(findTestObject('voc/contac/contac/Page_VOC Master - GCCS/div_empty1'))
+WebUI.click(findTestObject('gccs/voc/contac/contac/Page_VOC Master - GCCS/div_empty1'))
 
-WebUI.click(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/li_Service'))
+WebUI.click(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/li_Service'))
 
-WebUI.setText(findTestObject('Object Repository/voc/contac/contac/Page_VOC Master - GCCS/input_Keterangan_remarks'), 'TEST')
+WebUI.setText(findTestObject('Object Repository/gccs/voc/contac/contac/Page_VOC Master - GCCS/input_Keterangan_remarks'), 'TEST')
 
-WebUI.click(findTestObject('voc/contac/contac/Page_VOC Master - GCCS/button_Save'))
+WebUI.click(findTestObject('gccs/voc/contac/contac/Page_VOC Master - GCCS/button_Save'))
 
