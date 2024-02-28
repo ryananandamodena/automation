@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ALL</name>
+   <tag></tag>
+   <elementGuidId>b414e50f-492a-48ae-ab91-5060b2f7e5b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f70d5c14-8390-4947-9d9c-bc1ff4467445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext</value>
+      <webElementGuid>157efa86-a0af-4646-ad64-73ce5d61f6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALL</value>
+      <webElementGuid>f6ac8bef-184d-4449-a71f-ab41a7444d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;wo-monitoring-filter-container&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper p-inputwrapper-filled&quot;]/span[@class=&quot;p-dropdown-label p-inputtext&quot;]</value>
+      <webElementGuid>d800cef2-bbd9-47f0-8973-ab256f0cdc7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>871831ea-fc09-47c2-8097-729ae17def20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>df10d50e-e93c-4672-a4a1-ba0fec22cecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ALL' or . = 'ALL')]</value>
+      <webElementGuid>5db4331b-6b70-46ca-bb57-b97dc5158d77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

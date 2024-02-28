@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>JAWABAN</name>
+   <tag></tag>
+   <elementGuidId>6f2b04e4-825a-4ebe-95ee-e03efcf37eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.btn.btn-primary.btn-regular > span.p-button-label.p-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pr_id_12_content&quot;]/div[2]/div/div/div[2]/div[8]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ccd022e-0741-42fa-97d0-beb7ea1249ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label p-c</value>
+      <webElementGuid>c96c77c8-9942-48ba-b071-477bdd02c08b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Survey</value>
+      <webElementGuid>67f80cf2-9ca2-40e7-9cd2-d0f8bc62ee68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_14_content&quot;)/div[2]/div[@class=&quot;flex justify-content-end&quot;]/button[@class=&quot;p-button p-component btn btn-primary  btn-regular&quot;]/span[@class=&quot;p-button-label p-c&quot;]</value>
+      <webElementGuid>50802c30-1692-4127-9a8f-0e95cc762ebe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_14_content']/div[2]/div/button/span</value>
+      <webElementGuid>242591ba-2eb3-4428-b31f-3a11b290d8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Customer Start'])[1]/following::span[1]</value>
+      <webElementGuid>37f0e197-d86b-474e-8c0c-4712d292eb73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/button/span</value>
+      <webElementGuid>142b786e-3bfc-4c69-8dbc-5050a35ede4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start Survey' or . = 'Start Survey')]</value>
+      <webElementGuid>f4686a81-716e-4018-b788-739dfaa9fbdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

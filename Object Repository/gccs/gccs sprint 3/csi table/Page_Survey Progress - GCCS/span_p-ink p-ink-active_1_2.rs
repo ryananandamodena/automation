@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_p-ink p-ink-active_1_2</name>
+   <tag></tag>
+   <elementGuidId>230b86ad-6a6a-403b-bec2-b8245c4bc0c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/main/div[2]/div[1]/div/div/div[2]/div/div/div/div[2]/div[1]/div/div/div/div[2]/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>844867fe-c72c-41a6-8ef8-eade1eebcea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c953d41f-24f5-4940-af3d-fc53c5838087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>92586214-04cc-48c6-9199-eaca4d8f2b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[1]/div[@class=&quot;call-entry-list-product-membership-container&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;wo-monitoring-filter-container flex-row-reverse&quot;]/div[@class=&quot;item flex-row-reverse&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;p-button p-component btn btn-success ml-2 btn-regular&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>8d4a7fae-fbd8-4500-8bdd-41c4ba6f3e6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>/html/body/div/div/main/div[2]/div[1]/div/div/div[2]/div/div/div/div[2]/div[1]/div/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>8fe3d976-421a-43f7-bced-9a8e09f3bb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>c975e707-d98c-45a2-a361-90e3376774de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

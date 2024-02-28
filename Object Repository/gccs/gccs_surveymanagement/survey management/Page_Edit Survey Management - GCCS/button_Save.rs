@@ -6,12 +6,12 @@
    <elementGuidId>42646f02-b7a0-4f38-bd9f-a02f1ccb0628</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.p-button.p-component.btn.btn-primary.save-questionnaire-btn.btn-regular</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/main/div[2]/div[2]/div/div/div[2]/div/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>711b143b-5be2-4624-aacd-50299d3d0de5</webElementGuid>
+      <webElementGuid>773d6158-6c6b-46af-8e8e-4968ebb2344e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>aba6922e-38f4-4e97-b556-f26179a73ea8</webElementGuid>
+      <webElementGuid>21b210d5-8b13-4984-86a8-1c8ec2fa666d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button p-component btn btn-primary save-questionnaire-btn btn-regular</value>
-      <webElementGuid>13f2f488-eb28-4c68-b870-f68ed6360eea</webElementGuid>
+      <webElementGuid>73ff9ada-96b0-46c1-9cc4-17b1359cbc79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5fe5c7e4-b7ad-4a57-9f44-8425829858d2</webElementGuid>
+      <webElementGuid>7b049d41-7eb5-4f79-a141-6e45724a6a7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>80ea748e-2eab-4d25-8052-14dc38236a8d</webElementGuid>
+      <webElementGuid>73d83b94-744e-42ad-b80c-84a3a0822003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;questionnaire&quot;]/div[@class=&quot;add-question-buttons&quot;]/button[@class=&quot;p-button p-component btn btn-primary save-questionnaire-btn btn-regular&quot;]</value>
-      <webElementGuid>1711fcda-5691-464b-b1bf-56b87d7b57b3</webElementGuid>
+      <webElementGuid>d4a4e682-3e86-470c-8aae-f52b5cb19bc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>3145e2d6-e722-461f-a6c0-e417d814708d</webElementGuid>
+      <webElementGuid>c262d7ca-7951-49e7-a10e-82b288358303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div[6]/button</value>
-      <webElementGuid>407f7fc7-916c-46e1-878c-dee25c366fa4</webElementGuid>
+      <webElementGuid>1a5af0f9-5bf8-42ee-bb4b-df094ea4b1f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Teks'])[1]/following::button[1]</value>
-      <webElementGuid>4b990648-469c-4fff-a3d6-2bfdcac11fac</webElementGuid>
+      <webElementGuid>1751ab10-3c20-4e93-a0e2-60f6e1ff2d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add choise'])[1]/following::button[2]</value>
-      <webElementGuid>7927f96b-9f77-43d0-abec-26b59ddfde99</webElementGuid>
+      <webElementGuid>b4687bc8-9fc9-4727-9de3-cb3906c89465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button</value>
-      <webElementGuid>25c41317-ebfb-4f5c-8c7b-ac4d6c1c2f6f</webElementGuid>
+      <webElementGuid>16aa8936-6e10-4175-95d9-e60d1a79eaf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>177deb80-1090-452d-9be8-df4e7cafcde9</webElementGuid>
+      <webElementGuid>4b5d66cb-cf1d-4f56-acc3-d678e652cfb9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

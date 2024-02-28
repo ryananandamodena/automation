@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_p-ink p-ink-active</name>
+   <tag></tag>
+   <elementGuidId>85134b8c-7cac-4114-8704-757525bafef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/form/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b78298fe-9eb9-4293-b679-557a9b6f68d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>a892b6e0-d79d-4ae2-9a36-8a48176e0017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>882c4b2f-9246-4b8a-85a8-29741f22e146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex justify-content-center align-items-center login-container&quot;]/form[@class=&quot;p-fluid login-form&quot;]/div[@class=&quot;inner-form&quot;]/button[@class=&quot;p-button p-component btn btn-primary  btn-regular&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>d40eb76b-f2a8-4b57-a510-a969190cd431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/form/div/button/span[2]</value>
+      <webElementGuid>77c6ac6a-8742-47b1-b9ff-25478a11fa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>c84d8f60-22d4-40b7-a23c-35692bcaaa3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

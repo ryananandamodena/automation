@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer Survey</name>
+   <tag></tag>
+   <elementGuidId>f93a3691-39e6-4695-b636-9b0b8fa979cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dc1b2c4-a250-4170-9f2f-f1eb4dde38bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>f7faac7d-ae17-4d25-aca9-258cce4aab19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Customer Survey</value>
+      <webElementGuid>509595c0-a738-4497-ab59-debfedd73e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container false&quot;]/div[@class=&quot;menu&quot;]</value>
+      <webElementGuid>56cee3d6-78b1-416a-898d-3c6d60757188</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul/li[6]/div</value>
+      <webElementGuid>e2c0b050-99dc-420f-b6ec-b77817f15fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div</value>
+      <webElementGuid>f7e5b955-bbfb-49e7-a8e9-c53c029d344a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Customer Survey' or . = ' Customer Survey')]</value>
+      <webElementGuid>8855626b-bd4f-4918-984e-f6224bcf86c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

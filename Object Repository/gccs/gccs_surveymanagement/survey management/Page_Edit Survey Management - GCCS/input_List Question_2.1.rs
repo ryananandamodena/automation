@@ -6,12 +6,12 @@
    <elementGuidId>66c676f7-b287-499e-8fe8-399c8e95b2ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/main/div[2]/div[2]/div/div/div[2]/div/div[3]/div/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.p-inputtext.p-component.p-filled.question-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6c1a933f-6e49-45ef-89d2-03efab202e2c</webElementGuid>
+      <webElementGuid>54d01e26-c485-434f-9c12-7fc0c36c469f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>33940d53-05b2-49b4-935d-fe9adf386d0a</webElementGuid>
+      <webElementGuid>c6cc2b97-3249-4881-85cd-abce8e03082f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-inputtext p-component p-filled question-input</value>
-      <webElementGuid>f6cf6e87-e226-470f-bdd8-c0c3c0405052</webElementGuid>
+      <webElementGuid>c77ded64-a2be-4895-b195-8a0da815d20c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Pertanyaan 1</value>
-      <webElementGuid>dc3be99c-c2d9-4a24-8802-95ec9a38a898</webElementGuid>
+      <webElementGuid>17392426-2c23-4d63-953d-50a692a5250d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;questionnaire&quot;]/div[@class=&quot;question-container&quot;]/div[@class=&quot;question-actions&quot;]/input[@class=&quot;p-inputtext p-component p-filled question-input&quot;]</value>
-      <webElementGuid>0de52b2d-a8b7-42af-94f8-6a8c250c4cb2</webElementGuid>
+      <webElementGuid>4bd9bd93-3b0b-4e36-877a-7fd89441fc6d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Pertanyaan 1']</value>
-      <webElementGuid>dfbfe3e9-12db-481c-a0ed-d4f033abfafc</webElementGuid>
+      <webElementGuid>473d3324-2522-4f40-aba1-db3c49dada51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div/div/input</value>
-      <webElementGuid>334aa0e2-c1ac-4ecf-9883-5dd95887ba9e</webElementGuid>
+      <webElementGuid>ba9afced-d759-4dd6-a3d0-5749b9098da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>61aee42d-592e-4d13-9007-94f4ac241d38</webElementGuid>
+      <webElementGuid>fbee1322-8202-4da1-bfdf-387518ae1069</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>7bd70968-15f9-41bb-8d34-44630908f601</webElementGuid>
+      <webElementGuid>1f16803c-bc8d-46c3-ac37-4cf3465b1308</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_input jawaban</name>
+   <tag></tag>
+   <elementGuidId>00455d0d-0ef5-41ac-ac67-efd795a7f0da</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Edit Survey Management - GCCS/textarea_Save_p-inputtextarea p-inputtext p-component option-input.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.p-inputtextarea.p-inputtext.p-component.option-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//textarea[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Edit Survey Management - GCCS/textarea_Save_p-inputtextarea p-inputtext p-component option-input.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3f269bbb-28dd-4e42-8134-cbcc6a2c6e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>256d0c1d-df67-4458-85a0-79e9a5cd6ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtextarea p-inputtext p-component option-input</value>
+      <webElementGuid>411d12dc-a887-409b-a92f-fc3e298625a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;questionnaire&quot;]/div[3]/div[1]/div[@class=&quot;question-container&quot;]/div[2]/div[@class=&quot;option-container&quot;]/div[@class=&quot;flex justify-center&quot;]/textarea[@class=&quot;p-inputtextarea p-inputtext p-component option-input&quot;]</value>
+      <webElementGuid>32fddb3c-9877-40cc-9558-816b00d5fe09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//textarea[@type='text'])[2]</value>
+      <webElementGuid>a07bc471-1677-425f-ba8a-2ea5bdbded79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div/div/textarea</value>
+      <webElementGuid>e809238d-2178-4c81-a839-989fd5201192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::textarea[2]</value>
+      <webElementGuid>1403fc85-8447-4969-993e-16db66b45a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Teks'])[1]/following::textarea[2]</value>
+      <webElementGuid>08fd40a2-2005-49b1-8862-82efe450534c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Answer'])[1]/preceding::textarea[3]</value>
+      <webElementGuid>2e1f3f4a-7eca-4608-bd83-56ecada097f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(CSI)'])[1]/preceding::textarea[3]</value>
+      <webElementGuid>67741357-6ff5-46fe-b293-04a0f98f2cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/textarea</value>
+      <webElementGuid>8e41166f-6df9-4c36-9e0b-11e09ef4672d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@type = 'text']</value>
+      <webElementGuid>9e9ef1f8-1767-4f01-ae50-ffb4b3f33bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://salesmobiledev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email or Username_username'), 'arman.septian')
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email or Username_username'), 
+    'arman.septian')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Password_password'), 
+    'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Login'))
 
@@ -33,13 +35,13 @@ WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automat
 
 WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Add'))
 
-WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email_email'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Email_email'), 'ryan.ananda@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/span_preddy.desmonmodena.com'))
 
-WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Username_username'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Username_username'), 'mantapkali')
 
-WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Sales Code_sales_code'), a)
+WebUI.setText(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Sales Code_sales_code'), 'DS01')
 
 WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/input_Join Date_join_date'))
 
@@ -49,4 +51,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/scc/sales/Page_Sales
     '65bb56a3347b24603ce40761', true)
 
 WebUI.click(findTestObject('Object Repository/scc/sales/Page_Sales Force Automation/button_Save'))
+
+WebUI.verifyElementText(findTestObject('scc/sales/Page_Sales Force Automation/sukes'), 'Create sales success')
+
+WebUI.click(findTestObject('scc/sales/Page_Sales Force Automation/button_OK'))
 

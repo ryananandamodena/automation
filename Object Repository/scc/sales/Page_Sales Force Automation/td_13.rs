@@ -6,6 +6,10 @@
    <elementGuidId>3fa700cb-ec72-4227-9589-0f1ba5e9c967</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '13' or . = '13')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='join_date']/div/ul/li/div/div/table/tbody/tr[3]/td[3]</value>
       </entry>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>7042664c-817f-4581-b8dc-4200237968dc</webElementGuid>
+      <webElementGuid>792508cc-6dda-4223-8d8d-f7a404609dd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>selectDay</value>
-      <webElementGuid>0fc22f1e-4541-449e-8b1b-fe5ad00e7250</webElementGuid>
+      <webElementGuid>244e61d5-6215-499e-8ba9-32285055372d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-day</name>
       <type>Main</type>
       <value>02/13/2024</value>
-      <webElementGuid>42aad384-43a4-4571-8c6b-9b9183a28775</webElementGuid>
+      <webElementGuid>64d926b1-b0e6-4f5a-b877-18f99ccaf6c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>day active today</value>
-      <webElementGuid>66fce3f0-d2b5-4301-88bb-cd611b3bde89</webElementGuid>
+      <webElementGuid>e06275a9-a768-4c40-b5ab-44b006a58a5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>13</value>
-      <webElementGuid>a8a8240f-953e-42be-b88f-fe187039b36a</webElementGuid>
+      <webElementGuid>c3648d2f-a4b2-4f88-920a-ba1f0a1bcd3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;join_date&quot;)/div[@class=&quot;bootstrap-datetimepicker-widget dropdown-menu usetwentyfour top&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[@class=&quot;show&quot;]/div[@class=&quot;datepicker&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table table-sm&quot;]/tbody[1]/tr[3]/td[@class=&quot;day active today&quot;]</value>
-      <webElementGuid>6b9ed5b6-dee1-4b15-9cdf-5cd08d3b1328</webElementGuid>
+      <webElementGuid>138332b3-cf1e-4d19-b869-f58b5da98aa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='join_date']/div/ul/li/div/div/table/tbody/tr[3]/td[3]</value>
-      <webElementGuid>04a1e236-a262-4a99-afa5-26d61d1b7003</webElementGuid>
+      <webElementGuid>300a67cf-44c8-4b3c-a3fa-43f09984fcbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[17]</value>
-      <webElementGuid>82446d8a-af0a-4b7f-af96-3b862b508757</webElementGuid>
+      <webElementGuid>48c87336-d19a-4a15-945c-4cfc0dd0e9d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[17]</value>
-      <webElementGuid>1e928146-60a1-4e7f-8b25-2e81abdc9cda</webElementGuid>
+      <webElementGuid>6fbd60e7-9d00-43ab-8379-aa1a80f336c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::td[26]</value>
-      <webElementGuid>7a7ec12b-4f45-4651-91e5-81cecc4fdfeb</webElementGuid>
+      <webElementGuid>08d1a266-b6bc-4198-be52-12ff2b0da492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::td[26]</value>
-      <webElementGuid>ce91009e-2ec6-4392-ab0b-9dae603327f4</webElementGuid>
+      <webElementGuid>85cc8d4b-c23a-408d-8b7f-80544eeb683b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[3]</value>
-      <webElementGuid>3a6d136e-c0b6-40a8-8eae-f7407b40a80a</webElementGuid>
+      <webElementGuid>5b1dcad5-8195-4dd9-83e2-e2e9a7e46b02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '13' or . = '13')]</value>
-      <webElementGuid>7c4eaaad-18c4-4b1f-a82c-2d5fd63528e4</webElementGuid>
+      <webElementGuid>0f6d33c2-6a5e-410e-b11e-ab67d9fe925e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

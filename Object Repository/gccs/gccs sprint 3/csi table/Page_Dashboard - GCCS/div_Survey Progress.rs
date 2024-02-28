@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Survey Progress</name>
+   <tag></tag>
+   <elementGuidId>ebd15573-4854-4065-b80d-4de46fe4f656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[6]/ul/a[4]/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(4) > li.sub-menu-list > div.sub-menu-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f5cafce-5737-4f41-8083-1f140a140bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu-content</value>
+      <webElementGuid>f8261a7f-4736-4ca8-ba54-32ec97aeb847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Survey Progress</value>
+      <webElementGuid>c75b9607-8e04-482f-a163-684edb4c8a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[4]/li[@class=&quot;sub-menu-list&quot;]/div[@class=&quot;sub-menu-content&quot;]</value>
+      <webElementGuid>e5b95c03-c54b-4617-8f01-bf10fec781a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul/li[6]/ul/a[4]/li/div</value>
+      <webElementGuid>79589a56-d38b-4d85-b36b-49ec70c23951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/li/div</value>
+      <webElementGuid>d13f2849-1c32-4b92-b326-5979d4909e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Survey Progress' or . = 'Survey Progress')]</value>
+      <webElementGuid>d514ba13-3888-4772-907f-daba42e1ec54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

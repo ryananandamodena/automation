@@ -6,12 +6,13 @@
    <elementGuidId>27e48d94-7f01-432b-8f35-dbd623b90bf7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div/div[1]/div[2]/div/div/div[2]/div[1]/div[2]/div[2]/div[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#209</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pr_id_12_content&quot;]/div[2]/div/div/div[2]/div[1]/div[2]/div[10]/div[1]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2a51acd1-5320-43a4-901a-437e1fb3d2fb</webElementGuid>
+      <webElementGuid>ad93d9d3-a71f-4995-8772-0b089ba3ec51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>843d8938-9a9b-4d2e-90e6-a1fbfeeaec00</webElementGuid>
+      <webElementGuid>2b3966c2-eb2e-422d-9b7b-209a29b4a759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>209</value>
-      <webElementGuid>1ca62af5-6d70-4280-9097-d75b449acbc8</webElementGuid>
+      <webElementGuid>d6eca4a1-45da-4430-b5a5-7536b50a2fe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>209</value>
-      <webElementGuid>0e68cdb7-8bdd-4aef-bb04-940906367baf</webElementGuid>
+      <webElementGuid>bee53195-a01e-4b1a-8a77-c0954d62e9da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pr_id_12_content&quot;)/div[2]/div[@class=&quot;content&quot;]/div[@class=&quot;col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2&quot;]/div[2]/div[1]/div[2]/div[1]/div[1]/input[@id=&quot;209&quot;]</value>
-      <webElementGuid>4a33231f-dfd2-4333-b3ec-baa88785b164</webElementGuid>
+      <webElementGuid>5ca98dba-87fd-4b6e-a5a7-1db2b2eff062</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='209']</value>
-      <webElementGuid>deb31561-ffa9-434b-b196-515a695756e0</webElementGuid>
+      <webElementGuid>9ba1f89f-c615-40e8-8261-004699a59bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pr_id_12_content']/div[2]/div/div/div[2]/div/div[2]/div/div/input</value>
-      <webElementGuid>fa2599c1-17e3-411c-9b9c-8ac096e6765d</webElementGuid>
+      <webElementGuid>f7be2443-ab6f-4cf6-900e-14a06df33434</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='nama dealer'])[1]/following::input[1]</value>
-      <webElementGuid>15505569-70f1-4a77-89af-88ad12cf3e42</webElementGuid>
+      <webElementGuid>b2a12dc0-e4b7-4914-b2f8-b5e0a78c5b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::input[1]</value>
-      <webElementGuid>cacfff56-64fa-4fe9-af64-c2557f04151f</webElementGuid>
+      <webElementGuid>9046ecbb-8fb2-4f6d-85af-7aef199f255c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::input[1]</value>
-      <webElementGuid>e2c21fb0-0317-45e6-9daf-e5149fadeff6</webElementGuid>
+      <webElementGuid>acd54436-a20b-4ebb-9b08-338b4bbba07c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='b'])[1]/preceding::input[2]</value>
-      <webElementGuid>3f4adc06-2ab1-4ef3-a242-4fa6ce95a907</webElementGuid>
+      <webElementGuid>f2762079-38e5-436e-b93b-53657f3fed56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div/div[2]/div/div/input</value>
-      <webElementGuid>a13c316a-20b8-428f-86df-29d78d117a72</webElementGuid>
+      <webElementGuid>ffa9ea67-8ee5-408d-a8c9-6a5d6f23c1ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = '209' and @name = '209']</value>
-      <webElementGuid>600b7f31-f376-4188-913d-3a67b5d451f5</webElementGuid>
+      <webElementGuid>3fe0a3d7-2382-409a-9d45-942505575db8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

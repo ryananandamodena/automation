@@ -21,7 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 
+    'sa_CC004')
 
 WebUI.delay(1)
 
@@ -59,7 +60,7 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Survey Title_surveyTitle'), 
-    'test 26')
+    'Test 28')
 
 WebUI.delay(1)
 
@@ -88,7 +89,7 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test 2'), 
-    'test 26')
+    'test 28')
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'), 
     'test survey 1')

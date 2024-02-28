@@ -21,7 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 
+    'sa_CC004')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), 
     'QiSQiLhspCy/AIcOjDjVqQ==')
@@ -42,29 +43,32 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Add choise_1'))
 
-WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_1'))
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/survey management 1/Page_Edit Survey Management - GCCS/textarea_input pertanyaan'), 
+    'Nama product')
 
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_1'), 'Nama Model')
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/survey management 1/Page_Edit Survey Management - GCCS/textarea_input jawaban'), 
+    'R1')
 
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_1.1'), 'BH')
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/survey management 1/Page_Edit Survey Management - GCCS/textarea_input jawaban - Copy'), 
+    'R2')
 
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_1.2'), 'WF')
-
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_1.3'), 'DD')
-
-WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Add Teks'))
-
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2'), 'Nama konsumen ??')
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/survey management 1/Page_Edit Survey Management - GCCS/textarea_input jawaban - Copy - Copy'), 
+    'R3')
 
 WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Add Teks'))
 
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2.1'), 'alamat Consument')
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2'), 
+    'Nama konsumen ??')
 
 WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Add Teks'))
 
-WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2.2'), 'Nama Product')
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2.1'), 
+    'alamat Consument')
+
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Add Teks'))
+
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/input_List Question_2.2'), 
+    'Nama Product')
 
 WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey management/Page_Edit Survey Management - GCCS/button_Save'))
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

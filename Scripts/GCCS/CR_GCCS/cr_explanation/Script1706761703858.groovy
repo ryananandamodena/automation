@@ -33,7 +33,8 @@ WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Dashboard - GCCS
 
 WebUI.setText(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), '087770666214')
 
-WebUI.sendKeys(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/input_Phone Number_phone'), Keys.chord(
+        Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/gccs/cr_gccs/Page_Call Entry - GCCS/path'))
 

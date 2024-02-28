@@ -6,11 +6,11 @@
    <elementGuidId>979e6a6f-42c8-4673-a834-0d6f917c16f9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>/html/body/div/div/main/div[2]/div[2]/div/div/div[2]/div/div[1]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bb7bc790-f429-407e-a94c-51f393b20ce2</webElementGuid>
+      <webElementGuid>79697c7a-066b-4d6e-8c3a-e97556353d0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Add Teks</value>
-      <webElementGuid>4c127631-0298-424b-ba55-3c518a8fb1e8</webElementGuid>
+      <webElementGuid>0ea50a09-cb11-4c0b-8296-c8c2e8130920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-button p-component btn btn-info add-question-btn btn-regular</value>
-      <webElementGuid>b4e110e7-0a9c-425e-8c1a-7d4760529ac5</webElementGuid>
+      <webElementGuid>e816e850-7253-4a08-a8fb-75b0649dcf83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>196c6194-e877-45ae-993c-b13b43f74d3a</webElementGuid>
+      <webElementGuid>8279d699-53c9-43dc-8497-535d527aa6be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Teks</value>
-      <webElementGuid>375207c9-ca7a-4688-a7ef-5ef7d7045909</webElementGuid>
+      <webElementGuid>d80306ab-eba4-4bac-b8af-f11fdb58e30c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;questionnaire&quot;]/div[@class=&quot;add-question-buttons&quot;]/button[@class=&quot;p-button p-component btn btn-info add-question-btn btn-regular&quot;]</value>
-      <webElementGuid>cfde55ff-14d5-489b-a2dc-aed1b1b51780</webElementGuid>
+      <webElementGuid>3fe6c6b0-b62e-4be1-ac45-0808474d7e06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,15 +69,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>06906365-5754-4391-a25a-d41431becdcf</webElementGuid>
+      <webElementGuid>118b87f3-dfe0-413c-b298-4b511d0bf220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div[2]/button[2]</value>
-      <webElementGuid>070b2375-4c17-49b1-9777-cd138948d78c</webElementGuid>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div/button[2]/span[2]</value>
+      <webElementGuid>74870bbb-0b49-4d6f-aa77-d723a1bd0425</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add choise'])[1]/following::button[1]</value>
-      <webElementGuid>f025e979-2a67-4e04-95d4-5c1eca08cbc6</webElementGuid>
+      <webElementGuid>ec011c54-5216-4e98-99dd-2f39243e58e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Answer'])[1]/following::button[2]</value>
-      <webElementGuid>8814e0c8-7fd1-4b28-9c57-f9928f3644f8</webElementGuid>
+      <webElementGuid>dc0e37de-9158-4b76-8895-4b1691c56aea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::button[1]</value>
-      <webElementGuid>588c1ffe-5850-4ebf-a9c6-e5cacfd874c6</webElementGuid>
+      <webElementGuid>addbabae-efbe-4719-8a40-d2bee6dabf8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>03b0dbdd-7ae7-4e63-b02e-79dc4efcb536</webElementGuid>
+      <webElementGuid>d2cac09b-1b77-4aaa-8737-8b71a5544718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add Teks' or . = 'Add Teks')]</value>
-      <webElementGuid>ff429e69-a377-4c79-b310-2bc930eaf064</webElementGuid>
+      <webElementGuid>ebe07805-d07d-4ec0-9b42-8868c600126b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

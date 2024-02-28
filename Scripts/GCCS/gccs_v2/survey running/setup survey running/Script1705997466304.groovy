@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Login - GCCS/input_Username_userName'), 'sa_cc004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Login - GCCS/input_Username_userName'), 
+    'sa_cc004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Login - GCCS/input_Password_password'), 
+    'QiSQiLhspCy/AIcOjDjVqQ==')
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Login - GCCS/button_Login'))
 
@@ -37,15 +39,15 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Title'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_Visit Home'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/running1/Page_Dashboard - GCCS/span_test Ryan 1_p-ink'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Questionnaire'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select quesioner'))
 
-WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_Visit Home - Copy'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Questionnaire'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Target'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Target'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_SCT20240116000017'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/running1/Page_Dashboard - GCCS/span_SCT20240220000040_p-ink'))
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Apply'))
 
@@ -66,20 +68,28 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 //WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Save'))
 //
 //WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Close Survey'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/running1/Page_Dashboard - GCCS/span_Call'))
 
-WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Call - Copy'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/running1/Page_Dashboard - GCCS/span_Start Survey_p-ink'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Start Survey'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209 - Copy'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209 - Copy (1)'))
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_test'), 'test')
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209 - Copy (2)'))
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_test'), 'test')
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_checkbox'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210 - Copy'))
+
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210 - Copy (1)'))
+
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/JAWABAN'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_INPUT JAWABAN1'), 
+    'APA AJA TEST')
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Reason'))
 
@@ -89,51 +99,3 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Close Survey'))
 
-//WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Call - Copy (1)'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Start Survey'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210'))
-//
-//WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_test'), 'test')
-//
-//WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_test'), 'test')
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_checkbox'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Reason'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_Alamat TokoDelaer'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Alamat TokoDelaer'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_No. Telpon Salah'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Save'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Close Survey'))
-//
-//WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Call - Copy (2)'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Start Survey'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama dealer_209'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_nama product_210'))
-//
-//WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_ress'), 'ress')
-//
-//WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/textarea_rrrr'), 'rrrr')
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/input_checkbox'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/span_Select Reason'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/li_Garansi, tidak dikenakan biaya'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Save'))
-//
-//WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey running/Page_Dashboard - GCCS/button_Close Survey'))
-//
