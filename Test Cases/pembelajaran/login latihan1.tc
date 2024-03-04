@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login latihan1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a12918c2-7c04-43eb-b1df-f72683a1f34f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>185b1f53-16a4-46b7-8804-b49fe7ac5a19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bcadf01-ee35-42d3-8cff-c001bc379aa8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eede6530-6d91-40ed-bd55-4cfcd27b8c95</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07fa06bc-80b2-4d5a-b09d-4902d8a3ac85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aaed24ca-29fc-4142-85cc-e2fc2d9df277</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16cc26e7-e65b-4bf8-9de0-729eca6ed105</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>185b1f53-16a4-46b7-8804-b49fe7ac5a19</id>
+      <masked>false</masked>
+      <name>testtype1</name>
+   </variable>
+   <variable>
+      <defaultValue>'sa_cc004'</defaultValue>
+      <description></description>
+      <id>8bcadf01-ee35-42d3-8cff-c001bc379aa8</id>
+      <masked>false</masked>
+      <name>Username1</name>
+   </variable>
+   <variable>
+      <defaultValue>'modena123'</defaultValue>
+      <description></description>
+      <id>eede6530-6d91-40ed-bd55-4cfcd27b8c95</id>
+      <masked>false</masked>
+      <name>Password1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Username is required'</defaultValue>
+      <description></description>
+      <id>07fa06bc-80b2-4d5a-b09d-4902d8a3ac85</id>
+      <masked>false</masked>
+      <name>usernamewarningerror1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password is required'</defaultValue>
+      <description></description>
+      <id>aaed24ca-29fc-4142-85cc-e2fc2d9df277</id>
+      <masked>false</masked>
+      <name>passwordwarningerror1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Username or Password Invalid'</defaultValue>
+      <description></description>
+      <id>16cc26e7-e65b-4bf8-9de0-729eca6ed105</id>
+      <masked>false</masked>
+      <name>loginwarningerror1</name>
+   </variable>
+</TestCaseEntity>

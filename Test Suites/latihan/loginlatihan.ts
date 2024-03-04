@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>loginlatihan</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>be0f3962-ff92-492c-9ba0-febd73d655d4</testSuiteGuid>
+   <testCaseLink>
+      <guid>5340c0d9-c1c9-4f86-84e8-728bf167bd26</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GCCS/gccs_v2/login/login latihan</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b9978750-6779-41dc-8d11-d0a7af75999e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data login/login1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testtype</value>
+         <variableId>5167258e-44ed-45a2-90fe-b87f337805a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Usename </value>
+         <variableId>91e61ddc-2cd3-4564-a314-519ed16f4bef</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>1e16ac43-9b1a-4724-8701-bd0a2d5ef9fb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usernamewaringerror </value>
+         <variableId>1474ca9e-d3bc-4ac9-882e-7ade96ca0452</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>passwordwaringerror</value>
+         <variableId>0f75f791-1a21-4bc6-9f2c-c9e8321b4ddb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b9978750-6779-41dc-8d11-d0a7af75999e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>loginwarningerror</value>
+         <variableId>15e2d67a-255e-494c-b13e-ee7da2aae694</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

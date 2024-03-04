@@ -21,11 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), Username)
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 
+    Username)
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), Password)
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), 
+    Password)
 
 WebUI.delay(2)
 
