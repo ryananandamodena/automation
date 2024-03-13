@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Choose Your Company --Client Name 1</name>
+   <tag></tag>
+   <elementGuidId>2194eb9e-08b8-4da2-a980-54b9ad174dca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;client_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='client_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>468ed274-fcb9-4a08-8eaa-fa1b81210e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select custom-input</value>
+      <webElementGuid>58dad2f3-0b22-416d-9d5c-0124f90575c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>client_id</value>
+      <webElementGuid>8829aaea-74c9-4f21-907d-fdb3bf4eacdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Choose Your Company --Client Name 1</value>
+      <webElementGuid>b25672c4-0113-4ac1-9dce-fcad7fa8b0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-form&quot;]/div[@class=&quot;d-flex&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 offset-2&quot;]/div[@class=&quot;form-group mh-2&quot;]/div[@class=&quot;inputDiv&quot;]/select[@class=&quot;form-select custom-input&quot;]</value>
+      <webElementGuid>1ed476ee-c81e-473e-ba74-c279602da041</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='client_id']</value>
+      <webElementGuid>2ea9cf48-0e91-45ce-8a15-7349468ccbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div/div/div[4]/div/select</value>
+      <webElementGuid>9cf06918-4799-4291-b99b-7b2e12dfceae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::select[1]</value>
+      <webElementGuid>9047817e-ebf5-46be-9e44-526d3340dd27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Account'])[1]/following::select[1]</value>
+      <webElementGuid>f84b4034-1d69-45e6-a592-c69d868a0ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::select[1]</value>
+      <webElementGuid>3ce0405e-d623-43e5-b8ec-58d156131d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me?'])[1]/preceding::select[1]</value>
+      <webElementGuid>c9f5e835-e9c6-4102-ab5f-c8ddbe62dbd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>554f21e9-fcb9-417f-abc4-8f6ca0af67c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'client_id' and (text() = '-- Choose Your Company --Client Name 1' or . = '-- Choose Your Company --Client Name 1')]</value>
+      <webElementGuid>d4c8c6c0-6691-4eb3-b228-4efeba4a1cbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

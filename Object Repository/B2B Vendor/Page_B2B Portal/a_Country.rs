@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Country</name>
+   <tag></tag>
+   <elementGuidId>a00dda08-7384-44a8-9647-ce5b4a374cc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[6]/a[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfab1383-7262-443d-8bb7-6fda0fb9f135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav_sideitemChild__2qqTI sidenav_sideitem__1am6W</value>
+      <webElementGuid>7a6dae13-8835-43d9-9ac0-5cec834658d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/country</value>
+      <webElementGuid>796dabf6-b485-4004-afcc-d6729ecf7235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>df777824-5e6a-4fd5-8141-4728722180d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenavHover__2Ksz8&quot;]/div[@class=&quot;sidebar-placeholder&quot;]/a[@class=&quot;sidenav_sideitemChild__2qqTI sidenav_sideitem__1am6W&quot;]</value>
+      <webElementGuid>785d97b6-0560-4fca-83f4-c4af5702fe4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[6]/a[7]</value>
+      <webElementGuid>cda8f138-4ede-4bc5-9510-6e5979d39f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::a[1]</value>
+      <webElementGuid>0d28bce4-3e1c-4305-b7fc-d215b605e100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::a[2]</value>
+      <webElementGuid>263cb402-88f2-4a71-adc7-cc49a9c070d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/preceding::a[1]</value>
+      <webElementGuid>eeae1a59-81b5-4d41-8528-262a7bafdf9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/country')]</value>
+      <webElementGuid>964abf1a-3e50-49de-8333-ecccadbf2fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a[7]</value>
+      <webElementGuid>cc105f35-d28a-47c1-8d53-321bda8a1ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/country' and (text() = 'Country' or . = 'Country')]</value>
+      <webElementGuid>af29d0b5-31cb-4b0f-8c98-0300e24050ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Configuration Setting</name>
+   <tag></tag>
+   <elementGuidId>9bb4a260-6039-4759-8bb1-3b73c85157a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[6]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11d2f993-7c7f-4ce8-a71e-7a54661b2846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configuration Setting</value>
+      <webElementGuid>04e9a973-3b33-44de-946e-5674001b3b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenavHover__2Ksz8&quot;]/div[@class=&quot;sidebar-placeholder&quot;]/div[@class=&quot;sidenav_sideitem__1am6W&quot;]/div[1]/div[2]/span[1]</value>
+      <webElementGuid>8cd0b1be-c31c-462c-b9a3-c0096b6d4ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[6]/div/div/div[2]/span</value>
+      <webElementGuid>0d0a8d94-7503-48b3-b79d-b12bc4fdb896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outgoing Payment'])[2]/following::span[1]</value>
+      <webElementGuid>ac9c07b0-f9d4-4c7b-97c7-498985344d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP Invoice'])[2]/following::span[2]</value>
+      <webElementGuid>0444745e-c289-45ba-a2ac-8a2d9e6ca626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Setting'])[1]/preceding::span[1]</value>
+      <webElementGuid>9a91275c-4125-44db-acd0-38a9b1f2e497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/preceding::span[2]</value>
+      <webElementGuid>0d33ea3a-d542-406f-aaa3-60deba0a2e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Configuration Setting']/parent::*</value>
+      <webElementGuid>ee251eea-4026-4cfb-b4d2-f69ffca79332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/span</value>
+      <webElementGuid>bbd173b1-d20a-45d6-86e8-cf7221a241c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Configuration Setting' or . = 'Configuration Setting')]</value>
+      <webElementGuid>35d67daf-e5de-41d6-ba0b-49d5611548f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

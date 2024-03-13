@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Configuration Setting</name>
+   <tag></tag>
+   <elementGuidId>e840cdd9-359b-4ad9-90e0-8dcfd470bc19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12ad9a9d-f179-4d2a-930a-944283c5ba1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav_sideitem__1am6W</value>
+      <webElementGuid>c694d73e-7dc1-4f95-aa75-c7a297b38ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configuration Setting</value>
+      <webElementGuid>8520d2ba-aed1-4e48-8105-f73af1fdcfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenavHover__2Ksz8&quot;]/div[@class=&quot;sidebar-placeholder&quot;]/div[@class=&quot;sidenav_sideitem__1am6W&quot;]</value>
+      <webElementGuid>489bde25-47e8-4328-a554-be433200d6a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[6]/div</value>
+      <webElementGuid>cd80526a-df04-4762-bf09-5aa9aa7fbda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outgoing Payment'])[2]/following::div[2]</value>
+      <webElementGuid>bd70e647-56e4-4f2f-9b61-c0932a8263e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP Invoice'])[2]/following::div[2]</value>
+      <webElementGuid>0e873f4b-6263-4b68-b150-25b483f1fd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Setting'])[1]/preceding::div[5]</value>
+      <webElementGuid>229a8e09-9130-4b91-bf86-e8c60ff44d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>638dc825-b054-4ce0-9e8b-9696ef76065c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Configuration Setting' or . = 'Configuration Setting')]</value>
+      <webElementGuid>eb15126a-a5dd-46dd-86e0-4f1a42abed5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

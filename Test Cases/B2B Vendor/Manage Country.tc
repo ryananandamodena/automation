@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manage Country</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>299e443c-146b-43ab-8d93-a5f4f1449e07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>773109cd-754e-4e82-a4ac-f7d2f5a986fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>850043de-446f-4b69-b967-1dce0c5fdb12</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb6ad4ba-c8f1-43e0-973d-4193ef7665f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['tidak pernah tidur', '24 jam', 'Iqbal', 'mencari tau', 'Percobaan', 'Testing']</defaultValue>
+      <description></description>
+      <id>773109cd-754e-4e82-a4ac-f7d2f5a986fb</id>
+      <masked>false</masked>
+      <name>Country</name>
+   </variable>
+   <variable>
+      <defaultValue>'Save data success'</defaultValue>
+      <description></description>
+      <id>850043de-446f-4b69-b967-1dce0c5fdb12</id>
+      <masked>false</masked>
+      <name>Success</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>cb6ad4ba-c8f1-43e0-973d-4193ef7665f6</id>
+      <masked>false</masked>
+      <name>checkSuccess</name>
+   </variable>
+</TestCaseEntity>

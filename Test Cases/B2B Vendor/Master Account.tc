@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Master Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ab8b6f6-05e0-4a5a-a85c-a2f7f82aa13f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e9d8bcb-a4ad-4286-8caf-282ff75829d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e981de7-da3a-49b2-8601-39d4017e205d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9509a6fe-79df-48ef-af05-cde906b0f0e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83585212-478f-43ff-a103-d392fd9582cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebaa8b11-15cc-4ada-90b6-7ceb79031c93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[('ALBANIA') : '34232', ('AFGHANISTAN') : 457769, ('ARGENTINA') : 877954, ('ANDORRA') : 54454, ('ALGERIA') : '96344']</defaultValue>
+      <description></description>
+      <id>4e9d8bcb-a4ad-4286-8caf-282ff75829d5</id>
+      <masked>false</masked>
+      <name>CODE</name>
+   </variable>
+   <variable>
+      <defaultValue>['ANGOLA', 'ANDORRA', 'ALGERIA', 'ALBANIA', 'AFGHANISTAN']</defaultValue>
+      <description></description>
+      <id>2e981de7-da3a-49b2-8601-39d4017e205d</id>
+      <masked>false</masked>
+      <name>Budget</name>
+   </variable>
+   <variable>
+      <defaultValue>'Save data success'</defaultValue>
+      <description></description>
+      <id>9509a6fe-79df-48ef-af05-cde906b0f0e6</id>
+      <masked>false</masked>
+      <name>Success</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>83585212-478f-43ff-a103-d392fd9582cf</id>
+      <masked>false</masked>
+      <name>checkSuccess</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebaa8b11-15cc-4ada-90b6-7ceb79031c93</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Budget</name>
+   <tag></tag>
+   <elementGuidId>7199ef38-0062-4209-ab9c-b4c82f06d5a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[6]/a[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb8c8325-eadc-4296-89a8-1aa8e11bd9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav_sideitemChild__2qqTI sidenav_sideitem__1am6W</value>
+      <webElementGuid>5dd9286f-5d67-48f4-b54e-5dbc5ee6975c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/budget</value>
+      <webElementGuid>fe97fb0c-ebbd-4892-8c8f-f10ea49f685d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Budget</value>
+      <webElementGuid>fba812af-101e-4525-9bbd-3b3f68ecf937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenavHover__2Ksz8&quot;]/div[@class=&quot;sidebar-placeholder&quot;]/a[@class=&quot;sidenav_sideitemChild__2qqTI sidenav_sideitem__1am6W&quot;]</value>
+      <webElementGuid>db090de9-c244-4ecb-996a-a6fac08e8497</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[6]/a[9]</value>
+      <webElementGuid>d1367842-2c55-4c41-9869-64149a31c7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::a[1]</value>
+      <webElementGuid>8764edd7-bd4c-4314-96d4-4cd396d4ff1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::a[2]</value>
+      <webElementGuid>25098954-2925-4454-873d-7074fdf3aa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/preceding::a[1]</value>
+      <webElementGuid>7fe8d237-3e10-4033-a7bd-475dfb7f74ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/budget')]</value>
+      <webElementGuid>f9c4cf57-7631-4368-8632-05e9b003524d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]</value>
+      <webElementGuid>cdba865c-e956-4e32-b0d7-c28596d71c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/budget' and (text() = 'Budget' or . = 'Budget')]</value>
+      <webElementGuid>a99cc986-c343-4f3d-a63b-97c9dad1625a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

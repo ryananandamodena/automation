@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Show 5Show 10Show 25Show 50Show 100</name>
+   <tag></tag>
+   <elementGuidId>468796b6-7af0-4d32-ab8a-a20d6428f167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_3250907']/div[5]/div/div/div/div[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f22b5cc9-8011-4cf4-b092-7e6bbd393a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>7457f486-ab13-41ac-90d2-81dcca2f8105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show 5Show 10Show 25Show 50Show 100</value>
+      <webElementGuid>f4dcf742-aff6-4d5b-ad9b-d3e2d633cc79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_3250907&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12&quot;]/div[1]/div[1]/div[3]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>1b495420-fdc7-4dd0-91e5-56f42a78a74d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_3250907']/div[5]/div/div/div/div[3]/select</value>
+      <webElementGuid>61590345-fa82-4fad-86e2-7077d4a231b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO TO PAGE'])[1]/following::select[2]</value>
+      <webElementGuid>ea3b33eb-d839-4cae-9114-5443af138aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[10]/following::select[2]</value>
+      <webElementGuid>19ec1ecf-7a57-4ac5-ac67-0e6f11cfdc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_before'])[1]/preceding::select[1]</value>
+      <webElementGuid>ed0c5b67-b68c-450f-985b-e7a2ca0e64c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_next'])[1]/preceding::select[1]</value>
+      <webElementGuid>579fd904-0c2b-41bf-a684-5774c0a58dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>7cdf66b0-dbd6-483d-9afd-576046fa6c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Show 5Show 10Show 25Show 50Show 100' or . = 'Show 5Show 10Show 25Show 50Show 100')]</value>
+      <webElementGuid>32b81a97-8537-4aed-bc6e-36282891846c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

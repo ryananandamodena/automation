@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_keyboard_double_arrow_rightHide Menu</name>
+   <tag></tag>
+   <elementGuidId>81fe8365-86a2-4101-919d-cf7ac91a808b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidenav_sideitem__1am6W</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e6a1a34-39ee-4a09-a224-c9129d93e3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav_sideitem__1am6W</value>
+      <webElementGuid>d8adb51a-6245-41b6-95fe-17eee7b0eb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>keyboard_double_arrow_rightHide Menu</value>
+      <webElementGuid>56f65f1b-cbe3-4d7f-aea1-c59608decd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenav__38DfB&quot;]/div[2]/div[@class=&quot;sidenav_sideitem__1am6W&quot;]</value>
+      <webElementGuid>4ecb2a04-822c-4269-9fe7-43bf9f83e9a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div</value>
+      <webElementGuid>0e9128f6-c0ef-45c8-96b4-e02a9874bcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>43a31bec-9ad4-416e-9bb8-7e1d73164149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'keyboard_double_arrow_rightHide Menu' or . = 'keyboard_double_arrow_rightHide Menu')]</value>
+      <webElementGuid>4cd57a08-a4f6-46df-ba74-289436bf2b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
