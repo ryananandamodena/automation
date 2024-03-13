@@ -15,7 +15,7 @@
       <guid>b8926ca4-69d5-4473-bbf4-f50e7f454ded</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GCCS/gccs_v2_VOC/Voc_Master/Cause</testCaseId>
+      <testCaseId>Test Cases/GCCS/sprint 2/gccs_v2_VOC/Voc_Master/Cause</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -40,7 +40,7 @@
       <guid>338ab666-5fc7-4abc-9d7d-39b85b847f17</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GCCS/gccs_v2_VOC/Voc_Master/Cause1</testCaseId>
+      <testCaseId>Test Cases/GCCS/sprint 2/gccs_v2_VOC/Voc_Master/Cause1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -71,14 +71,14 @@
       <guid>1e659e7c-c49c-4374-acfc-981160759f84</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GCCS/gccs_v2_VOC/Voc_Master/contac</testCaseId>
+      <testCaseId>Test Cases/GCCS/sprint 2/gccs_v2_VOC/Voc_Master/contac</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c5bce03c-1e8a-4f0f-bddf-622f65e89b8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/GCCS/gccs_v2_VOC/Voc_Master/dept1</testCaseId>
+      <testCaseId>Test Cases/GCCS/sprint 2/gccs_v2_VOC/Voc_Master/dept1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

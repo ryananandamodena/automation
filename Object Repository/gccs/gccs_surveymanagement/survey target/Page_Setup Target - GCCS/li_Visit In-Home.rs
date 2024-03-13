@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Repair / Warranty / Happy Call'])[3]/following::li[1]</value>
+         <value>/html/body/div[2]/div[2]/ul/li[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>cc736de2-f824-485a-a8df-e8c2bbf6dfbf</webElementGuid>
+      <webElementGuid>b581c58a-870e-4189-9c51-4052ef99cf88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-dropdown-item</value>
-      <webElementGuid>4b59d8b1-b5ef-422b-853f-f5e896d83924</webElementGuid>
+      <webElementGuid>a072cd7d-495c-47a6-ab22-47150fe9dc3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Visit In-Home</value>
-      <webElementGuid>ce71886d-1689-436e-b69c-75857880e30a</webElementGuid>
+      <webElementGuid>7895b8d7-e9e1-4f73-a9a4-d387e241f021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>12906e81-4fc6-4603-a35e-ad1cbeeea039</webElementGuid>
+      <webElementGuid>55006fae-6cae-49de-b486-20077858ba10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d5797954-956c-469d-881b-631641572dcc</webElementGuid>
+      <webElementGuid>245a575e-13c9-45cc-a5bb-98ac28443756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Visit In-Home</value>
-      <webElementGuid>aff98671-0e56-4afb-9bff-352b925b74d9</webElementGuid>
+      <webElementGuid>1bc69b50-700d-4dea-abc8-6e512d9f2c25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;p-dropdown-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item&quot;]</value>
-      <webElementGuid>d568b8ad-7b58-46ed-b5b1-57f9f5116c54</webElementGuid>
+      <webElementGuid>d3c529f2-0d29-4ef7-bc0b-25defdd58e78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repair / Warranty / Happy Call'])[3]/following::li[1]</value>
-      <webElementGuid>21864674-647d-4764-bab7-b0df0b070b8c</webElementGuid>
+      <webElementGuid>2ff587fa-7e43-4583-b134-bf2792fd825c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='- Reject/Cancel'])[1]/following::li[2]</value>
-      <webElementGuid>be4fb211-c18c-4d4d-9c10-78d3f6b5e0de</webElementGuid>
+      <webElementGuid>72e4c208-34e7-4038-b8fd-256c5a28feca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/ul/li[2]</value>
-      <webElementGuid>aec6bb4c-26f9-42ca-b89d-b189e5fc2daf</webElementGuid>
+      <webElementGuid>42888a8c-627a-4620-aa0f-c5ef2561e304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Visit In-Home' or . = 'Visit In-Home')]</value>
-      <webElementGuid>21d3b1b3-b248-4b3e-8e57-2de87b85c2d2</webElementGuid>
+      <webElementGuid>e3dfcb61-c3c9-4963-9fe0-12acd3230c7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

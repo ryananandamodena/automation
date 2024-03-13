@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SERVICE CENTER JAKARTA 2</name>
+   <tag></tag>
+   <elementGuidId>7b9c0628-8c51-4d80-be94-bb0ae02d0d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/table/tbody/tr[44]/td/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>adeeff01-86f8-485b-b995-f5444d0ef375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SERVICE CENTER JAKARTA 2</value>
+      <webElementGuid>68b87d22-781b-4966-876a-39d8fae0c73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[1]/div[@class=&quot;call-entry-list-product-membership-container&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-horizontal p-datatable-responsive-stack p-datatable-striped custom-table p-datatable-sm table-gray&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;greyed p-row-odd&quot;]/td[1]/span[2]</value>
+      <webElementGuid>70679cca-b3d2-44ef-900e-3d822f400bd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/table/tbody/tr[44]/td/span[2]</value>
+      <webElementGuid>205c61f8-45d4-4ebf-9da4-5e16245446d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Name'])[45]/following::span[1]</value>
+      <webElementGuid>c1b6c133-f609-4240-ab17-f4878dd52f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SERVICE CENTER JAKARTA 1'])[1]/following::span[8]</value>
+      <webElementGuid>5e1ec318-7fa1-47b0-988f-a61b74fe7c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Name'])[46]/preceding::span[7]</value>
+      <webElementGuid>e480c83e-8b5b-4aa1-85db-63aa97533c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SERVICE CENTER JAKARTA 3'])[1]/preceding::span[8]</value>
+      <webElementGuid>481dd0c8-d396-4c26-996a-c48bd5ccb754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[44]/td/span[2]</value>
+      <webElementGuid>bc04dd7e-1254-4bda-9cbe-ed0c3c283f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SERVICE CENTER JAKARTA 2' or . = 'SERVICE CENTER JAKARTA 2')]</value>
+      <webElementGuid>d9e221aa-729c-4373-9b6a-b3a056c8cd10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

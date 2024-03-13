@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Username_userName'), 'sa_CC004')
+WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Username_userName'), 
+    'sa_CC004')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Password_password'), 'QiSQiLhspCy/AIcOjDjVqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/input_Password_password'), 
+    'QiSQiLhspCy/AIcOjDjVqQ==')
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Login - GCCS/button_Login'))
 
@@ -47,18 +49,6 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/input_test survey 1_custom-calendar-input-w_8c3b62'))
 
-WebUI.doubleClick(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
-WebUI.doubleClick(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
-WebUI.doubleClick(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
-WebUI.doubleClick(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
-WebUI.doubleClick(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
-
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Previous Month'))
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_1'))
@@ -67,13 +57,9 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 
 WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_2'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Apply'))
-
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/span_ALL'))
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/li_IN WARRANTY'))
-
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Apply'))
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_All'))
 
@@ -89,7 +75,7 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/li_Recheck Repair'))
 
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/button_Apply'))
+WebUI.click(findTestObject('gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/Service Center Type'))
 
 WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey target/Page_Setup Target - GCCS/div_Recheck Repair_p-dropdown-trigger'))
 

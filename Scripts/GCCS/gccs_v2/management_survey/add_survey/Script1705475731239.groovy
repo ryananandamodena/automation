@@ -60,7 +60,7 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Survey Title_surveyTitle'), 
-    'Test 28')
+    'Test 31')
 
 WebUI.delay(1)
 
@@ -89,15 +89,15 @@ WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey 
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test 2'), 
-    'test 28')
+    'test 31')
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/input_Questionnaire Title_questionnaireTitle'), 
-    'test survey 1')
+    'test survey 31')
 
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Create Survey Management - GCCS/textarea_test_1_2'), 
-    'test Survey 1')
+    'test Survey 31')
 
 WebUI.delay(1)
 

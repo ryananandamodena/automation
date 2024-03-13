@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show details</name>
+   <tag></tag>
+   <elementGuidId>01218353-dd54-4ec1-9bd1-85c4f1405879</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div[2]/div/div/div[2]/div/div/table/tbody/tr[44]/td/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdb1164e-7965-43d2-a5f6-f45e6ac86d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show details</value>
+      <webElementGuid>1119b4b0-f79f-4cb9-a01a-3dfec0fe1f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-3&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-horizontal p-datatable-responsive-stack p-datatable-striped custom-table p-datatable-sm table-gray&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;greyed p-row-odd&quot;]/td[1]/div[@class=&quot;flex align-items-center text-btn&quot;]/span[1]</value>
+      <webElementGuid>55137e16-53e4-413a-905a-41c2e63a1fd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div[2]/div/div/div[2]/div/div/table/tbody/tr[44]/td/div/span</value>
+      <webElementGuid>b65feb66-2621-4cfb-bf63-ccbafbd63889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[45]/following::span[1]</value>
+      <webElementGuid>2aba6f4f-d4b5-4f11-8778-c1408fe9e7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSI Point'])[44]/following::span[3]</value>
+      <webElementGuid>64d1ed89-0689-4483-adaf-c39aeb1b8442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Name'])[45]/preceding::span[1]</value>
+      <webElementGuid>0c42463d-c006-4669-9bb4-2f83d8f79078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SERVICE CENTER JAKARTA 2'])[1]/preceding::span[2]</value>
+      <webElementGuid>7b0e2df7-d9c5-488c-8b29-44048033ac6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[44]/td/div/span</value>
+      <webElementGuid>a43dfbb4-4c37-48e5-ba6d-eb78b034d6c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show details' or . = 'Show details')]</value>
+      <webElementGuid>982f736e-0bd9-4b13-87f5-0622f25e8a4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

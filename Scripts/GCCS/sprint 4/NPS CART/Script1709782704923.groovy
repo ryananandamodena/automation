@@ -17,38 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://gccs-test.modena.com/dashboard')
-
-if (Username == Username) {
-    WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Username_userName'), 
-        Username)
-} else {
-    WebUI.verifyElementText(findTestObject('gccs/cr_gccs/Page_Login - GCCS/Page_Login - GCCS/small_Username is required'), 
-        usernamewarningerror)
-}
-
-WebUI.delay(2)
-
-if (Password == Password) {
-    WebUI.setText(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/input_Password_password'), 
-        Password)
-} else {
-    WebUI.verifyElementText(findTestObject('gccs/cr_gccs/Page_Login - GCCS/small_Password is required'), passwordwarningerror)
-}
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/gccs/gccs_surveymanagement/survey management/Page_Login - GCCS/button_Login'))
-
-WebUI.delay(2)
-
-if (testtype == testtype) {
-    WebUI.waitForElementVisible(findTestObject('gccs/cr_gccs/Page_Login - GCCS/nama profil'), 0)
-} else {
-    WebUI.verifyElementText(findTestObject('gccs/cr_gccs/Page_Login - GCCS/small_Username or Password Invalid'), loginwarningerror)
-}
-
-WebUI.closeBrowser()
-

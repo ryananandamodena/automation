@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Page SizePage_datatable-paginator-icon mr-2 ml-2 false</name>
+   <tag></tag>
+   <elementGuidId>c38430a5-a63c-4f79-bc81-934d37dbc6d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Showed 1 - 10 of 127'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.datatable-paginator-icon.mr-2.ml-2.false</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c1a17354-8f83-4276-8b6c-d7ac3ccc82ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>7b2e640b-facc-4347-867d-cd20b6991c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>36653848-81cc-4659-b913-35a5117e8b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9a56fe94-250c-4622-a084-97fbdfc99e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>f9912521-c07e-45f0-915c-e679721e506b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datatable-paginator-icon mr-2 ml-2 false</value>
+      <webElementGuid>65754a49-284e-437d-af5b-285c821b4d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>ba53abf2-7da8-4e08-bccf-245e1078b8b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>469d0715-0ba0-4b88-9013-da18d0ce29d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>05f54924-1db9-46ee-aea0-9ec7ded1884b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-3&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-horizontal p-datatable-responsive-stack p-datatable-striped custom-table p-datatable-sm table-gray&quot;]/div[@class=&quot;p-paginator p-component p-paginator-bottom&quot;]/svg[@class=&quot;datatable-paginator-icon mr-2 ml-2 false&quot;]</value>
+      <webElementGuid>c7ce0cae-1a41-488a-8666-20ab6a9a49a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showed 1 - 10 of 127'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>fca08bd5-3b2a-4de8-8101-9b7f738e281d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSI FEB-2024'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>6daf3ea8-dae6-4cb4-bb70-d05f46b99d72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

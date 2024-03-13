@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_p-ink p-ink-active</name>
+   <name>span__p-ink</name>
    <tag></tag>
-   <elementGuidId>6697e283-0dc0-4365-8812-284110748dfd</elementGuidId>
+   <elementGuidId>22b65a07-9de9-4a5b-b449-8b2cffb836f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[3]</value>
+         <value>//li[3]/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b3700370-0537-4d01-9c62-b60d600ac314</webElementGuid>
+      <webElementGuid>31213caf-8b77-4341-beaf-a7326bc9749d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>1e400e10-a821-4570-bda3-3a6b17c9fecd</webElementGuid>
+      <webElementGuid>3e4c4b43-139a-40b6-aa16-397ffe1aa41a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-ink</value>
-      <webElementGuid>15e7a7b3-c04a-45e7-bf11-1e2c067acc0c</webElementGuid>
+      <webElementGuid>2ae7eba9-25de-46b2-b486-eb8fc14d9328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,38 +46,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;p-dropdown-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item p-highlight&quot;]/span[@class=&quot;p-ink&quot;]</value>
-      <webElementGuid>238f2fea-b90e-4bd9-9d12-5898ad0c8149</webElementGuid>
+      <webElementGuid>3c6fa81e-3b67-40be-8f60-ef9f32dc6007</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[3]</value>
-      <webElementGuid>ce6374a0-68b0-4ca5-b880-d50e5055ac53</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[3]</value>
-      <webElementGuid>0315b868-4ff3-494d-97f8-ad218c504f22</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/span</value>
-      <webElementGuid>47de9dc2-e399-4f96-8384-5b9ac16c94bd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[2]/span</value>
-      <webElementGuid>5bea9a19-14a9-418c-b652-ed8994013bf8</webElementGuid>
+      <webElementGuid>0b99c732-e530-48d4-bc49-8aeaa802dfb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

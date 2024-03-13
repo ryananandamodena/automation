@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='test 1'])[11]/following::li[1]</value>
+         <value>/html/body/div[2]/div[2]/ul/li[6]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>69efc6ab-6138-43db-9d86-e8946cddeb71</webElementGuid>
+      <webElementGuid>4da42846-7480-40cd-bed2-f1cd93304af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-dropdown-item</value>
-      <webElementGuid>2bcb3636-0df2-4f60-898e-2456fb4b7585</webElementGuid>
+      <webElementGuid>7f21f9d4-8fef-4fc8-9c34-55c821a280d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>test 26</value>
-      <webElementGuid>7f96c21d-bee7-48ba-aaec-57162769c808</webElementGuid>
+      <webElementGuid>80c40594-e36a-4d33-85b7-6ce2b962634c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>d0329e57-d0d2-4be6-bc01-27098173d844</webElementGuid>
+      <webElementGuid>fdccf203-c7a0-40ec-bbd0-b7469dae4f06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3dee4200-b523-4aba-a7ba-314ce4eb0571</webElementGuid>
+      <webElementGuid>8ff5bd8c-f781-442f-90a9-d2464233d2a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>test 26</value>
-      <webElementGuid>1c40638e-ce97-41fc-b09b-d91337a44e1d</webElementGuid>
+      <webElementGuid>fd4a1f6f-c027-4010-b603-8eee09452206</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;p-dropdown-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item&quot;]</value>
-      <webElementGuid>d24b6221-7d28-49e9-a79c-adc750bfaf24</webElementGuid>
+      <webElementGuid>e04d6abf-95bb-493e-a389-3de6e2f92466</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test 1'])[11]/following::li[1]</value>
-      <webElementGuid>7abbe7d3-1c7e-4b40-b0c6-5b72b4e83390</webElementGuid>
+      <webElementGuid>cbc9ee28-14a6-45f8-b365-a1363d7bf11d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test 1'])[10]/following::li[2]</value>
-      <webElementGuid>df987abb-d9be-48f5-b608-baa42674dd4d</webElementGuid>
+      <webElementGuid>6c6ce308-a6af-416a-ab4c-5d024c3e2b58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[35]</value>
-      <webElementGuid>fb3d5e94-007b-4f0c-9a45-8b26c5b1bc64</webElementGuid>
+      <webElementGuid>d2754672-80e4-4d41-8e3b-03c82b3a2c66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'test 26' or . = 'test 26')]</value>
-      <webElementGuid>95a0c4da-e939-4237-8c1f-21995efc743d</webElementGuid>
+      <webElementGuid>197d430b-a1cd-4a9b-80fe-9e97337c856b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_FEB-2024</name>
+   <tag></tag>
+   <elementGuidId>b9e76e91-7118-4a48-85cb-1571c5e39e67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/table/thead/tr/th[2]/div/span/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e5cf22b4-f3b8-458c-8eda-15472173e540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>0d2efda5-f247-439d-a7b5-e4cc0653336d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FEB-2024</value>
+      <webElementGuid>312eb080-7e48-4678-9f32-5fbfa6ac2c9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[1]/div[@class=&quot;call-entry-list-product-membership-container&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-horizontal p-datatable-responsive-stack p-datatable-striped custom-table p-datatable-sm table-gray&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/thead[@class=&quot;p-datatable-thead&quot;]/tr[1]/th[2]/div[@class=&quot;p-column-header-content&quot;]/span[@class=&quot;p-column-title&quot;]/p[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>04bfebea-3a01-43b7-a968-151bab91e5dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/div/div/table/thead/tr/th[2]/div/span/p</value>
+      <webElementGuid>9abd236b-2e69-48b1-8f61-46855b179569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Name'])[1]/following::p[1]</value>
+      <webElementGuid>c17f0fa4-0981-44a0-a722-2d64758800a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Data'])[1]/following::p[1]</value>
+      <webElementGuid>ff0ecc4b-a88b-410e-b3a8-5cbcd96e22d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Name'])[2]/preceding::p[2]</value>
+      <webElementGuid>06863788-2174-4fd9-8fa5-75bb9df883e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GLOBAL TEHNIK'])[1]/preceding::p[2]</value>
+      <webElementGuid>318d5f32-2d38-466d-a35c-92c942145aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/p</value>
+      <webElementGuid>1e3e1dfc-b11d-46b6-8d42-ebabc09ab6e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'FEB-2024' or . = 'FEB-2024')]</value>
+      <webElementGuid>447542da-3aa0-44b7-90d1-5cdecbb47ec3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
