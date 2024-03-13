@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select fieldBrand NameStatus</name>
+   <tag></tag>
+   <elementGuidId>9c24f5e3-a681-4a07-a3e4-a9aad29f41e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='filter_field']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;filter_field&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>759a076b-c2a2-4b52-a45a-a08e27a7fde9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control rounded-0</value>
+      <webElementGuid>41e5e03b-8a7c-43cb-b9d1-37295abf681d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>filter_field</value>
+      <webElementGuid>b25057ba-b6af-464f-8dcb-5d105f847cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select fieldBrand NameStatus</value>
+      <webElementGuid>a3d66310-64d4-4b06-b1f9-155b0ce6a277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_1612119_filter&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex&quot;]/div[1]/select[@class=&quot;form-control rounded-0&quot;]</value>
+      <webElementGuid>7820bb89-f614-45e4-b799-9ecd01c1287d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='filter_field']</value>
+      <webElementGuid>7d7946ec-7de8-4de2-8b07-2ed05e6ed5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_1612119_filter']/div/div[2]/div/div/select</value>
+      <webElementGuid>50491b1b-1d07-4c3d-94cb-95caeaf615cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::select[1]</value>
+      <webElementGuid>a9ff4ca1-6b7b-4249-9a63-adb1b0b0a4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Data'])[1]/following::select[1]</value>
+      <webElementGuid>4470f5c2-d63d-420f-8c0c-589f40e4b8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::select[2]</value>
+      <webElementGuid>140edae6-9d70-4ddc-8ea5-524c199780fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/preceding::select[2]</value>
+      <webElementGuid>58f934be-8116-4c85-989b-89f5708dbc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>97079f6e-3bfc-4a45-8abd-52a15cc1cabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'filter_field' and (text() = 'Select fieldBrand NameStatus' or . = 'Select fieldBrand NameStatus')]</value>
+      <webElementGuid>b0276154-ec01-405e-9ed7-c603e38133d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
