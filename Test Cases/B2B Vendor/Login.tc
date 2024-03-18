@@ -5,4 +5,56 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0663fe10-a7ae-4bdd-805f-87d5e77d00bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80ca8775-af57-4b40-b650-93760ffea388</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1dc38084-b298-4dce-8bed-46c2e2631c24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75dfe1f1-9ce9-42bc-892c-f55b860b6a94</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60a1a0cd-d76d-4cfa-b874-50bd31e6f3ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'preddy.desmon@modena.com'</defaultValue>
+      <description></description>
+      <id>80ca8775-af57-4b40-b650-93760ffea388</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@ssw0rd'</defaultValue>
+      <description></description>
+      <id>1dc38084-b298-4dce-8bed-46c2e2631c24</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>75dfe1f1-9ce9-42bc-892c-f55b860b6a94</id>
+      <masked>false</masked>
+      <name>Company</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>60a1a0cd-d76d-4cfa-b874-50bd31e6f3ba</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
 </TestCaseEntity>

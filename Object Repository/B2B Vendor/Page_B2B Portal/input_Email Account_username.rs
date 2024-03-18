@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;username&quot;]</value>
+         <value>div.form-group.col-sm-8.mr-3 > input.form-control</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='username']</value>
+         <value>//input[@type='file']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>06de7664-70de-468e-a71e-c72846ac6208</webElementGuid>
+      <webElementGuid>59b5a6cc-9d71-4d92-bdb5-cb80d5347dab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>custom-input</value>
-      <webElementGuid>d5e8eb6f-815f-407c-abf7-7da1eb9ceba0</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>a1d6e113-c91e-4ef3-b719-e18093cc8438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,11 +45,51 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-form&quot;]/div[@class=&quot;d-flex&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 offset-2&quot;]/div[@class=&quot;form-group mh-2&quot;]/div[@class=&quot;inputDiv&quot;]/input[@class=&quot;custom-input&quot;]</value>
-      <webElementGuid>7335a242-a6e1-4b7d-a6d4-7f9d96785e4a</webElementGuid>
+      <value>id(&quot;import-tax&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-sm-8 col-md-10 col-lg-10 col-xl-12 col-xxl-12&quot;]/div[1]/div[2]/div[@class=&quot;col-sm-12&quot;]/form[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/div[@class=&quot;form-group col-sm-8 mr-3&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>4a0be350-5389-47ad-a5ec-1a062a78af8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>35440f67-55b2-43fb-a02b-286e49f9792d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>0be0c49b-3526-4c40-af65-be7015a85562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='import-tax']/div/div/div[2]/div/div/div[2]/div/form/div/div/input</value>
+      <webElementGuid>d0dea650-13d5-43e8-94d3-ecf3fa492691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/input</value>
+      <webElementGuid>e1f1b4e8-f0b7-4816-82fd-0c8f87fb762e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>7b568376-4472-4220-afc0-074748eb30f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
