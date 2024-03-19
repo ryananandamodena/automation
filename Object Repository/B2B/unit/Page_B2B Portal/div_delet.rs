@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Edit_brand</name>
+   <name>div_delet</name>
    <tag></tag>
-   <elementGuidId>f5c7292e-7ee9-4072-91e4-055f9921bc8a</elementGuidId>
+   <elementGuidId>4376eac7-df8c-4c13-8d70-df448a6a1f43</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[4]/div/a/div</value>
+         <value>//div[@id='mTableId_104924']/div[3]/div/div/table/tbody/tr[2]/td[4]/div/a[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.rounded-circle > div</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,62 +22,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3ba53986-a38e-445f-8e37-e85e4ce4fc55</webElementGuid>
+      <webElementGuid>ccc36efa-bdee-40b4-80cb-eaca5bc93c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mTableId_1422381&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 mtable-container&quot;]/div[1]/table[@class=&quot;table table-condensed&quot;]/tbody[1]/tr[1]/td[@class=&quot;b2b-td&quot;]/div[1]/a[@class=&quot;rounded-circle&quot;]/div[1]</value>
-      <webElementGuid>0b139f0d-beb4-4a4c-858f-0b204166b4a8</webElementGuid>
+      <value>id(&quot;mTableId_104924&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 mtable-container&quot;]/div[1]/table[@class=&quot;table table-condensed&quot;]/tbody[1]/tr[2]/td[@class=&quot;b2b-td&quot;]/div[1]/a[@class=&quot;rounded-circle&quot;]/div[1]</value>
+      <webElementGuid>a49b47bc-6695-4188-bfd4-eb9bf3474ffe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mTableId_1422381']/div[3]/div/div/table/tbody/tr/td[4]/div/a/div</value>
-      <webElementGuid>1246673f-3724-4548-969a-b814d9dd0b6b</webElementGuid>
+      <value>//div[@id='mTableId_104924']/div[3]/div/div/table/tbody/tr[2]/td[4]/div/a[2]/div</value>
+      <webElementGuid>0e2d7f2a-307b-4324-8d4a-3590ee911d66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[2]</value>
-      <webElementGuid>7af25038-452d-4f26-be30-baf719cac97c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::div[3]</value>
+      <webElementGuid>e0ca1b2f-10f8-4f0b-923f-03e8d74d7b85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGITECH'])[1]/following::div[3]</value>
-      <webElementGuid>6d3007ee-7027-4351-bdcd-a9dfecc426ad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOX'])[1]/following::div[4]</value>
+      <webElementGuid>add50edb-7b1d-471c-94f3-6f4f762fcbe2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='LENOVO'])[1]/preceding::div[2]</value>
-      <webElementGuid>2a62072a-57f0-435f-acae-f1d96488e056</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTING 2'])[1]/preceding::div[1]</value>
+      <webElementGuid>a2ff9d06-515f-4941-b2d9-4e20556e252a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/preceding::div[2]</value>
-      <webElementGuid>ad521d0b-1d8a-4168-a0dc-17601bf167a4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/preceding::div[1]</value>
+      <webElementGuid>ca2597de-0287-4e3d-b062-bffa2fa237a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[4]/div/a/div</value>
-      <webElementGuid>a746c869-6f4c-4c6a-8560-4f1cc68f517b</webElementGuid>
+      <value>//tr[2]/td[4]/div/a[2]/div</value>
+      <webElementGuid>e899bfd9-8c43-4041-ba3f-6c3d94b17aab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

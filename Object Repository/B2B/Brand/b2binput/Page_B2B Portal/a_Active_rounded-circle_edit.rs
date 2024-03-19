@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Active_rounded-circle_edit</name>
+   <tag></tag>
+   <elementGuidId>c43441a8-4c84-426e-85c4-05c61c3ffda5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.rounded-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_501195']/div[3]/div/div/table/tbody/tr/td[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>227d0e50-f4e8-4060-bf2c-dac327c88fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-circle</value>
+      <webElementGuid>8e4709fd-f1ea-4a2f-9da7-6638a27c8a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_501195&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 mtable-container&quot;]/div[1]/table[@class=&quot;table table-condensed&quot;]/tbody[1]/tr[1]/td[@class=&quot;b2b-td&quot;]/div[1]/a[@class=&quot;rounded-circle&quot;]</value>
+      <webElementGuid>b7939320-32fa-477c-abdb-b75bd5663d14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_501195']/div[3]/div/div/table/tbody/tr/td[4]/div/a</value>
+      <webElementGuid>8d3f150a-8d4d-4350-85ac-191ef62ee6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::a[1]</value>
+      <webElementGuid>65fe8daf-85dd-4ec7-a522-cfe9e2384143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COBA Update'])[1]/following::a[1]</value>
+      <webElementGuid>e07047b3-4e79-4ed4-b5fe-bb970af3772d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST'])[1]/preceding::a[2]</value>
+      <webElementGuid>358d9cdb-1592-4c50-b6e2-5fde619927e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/preceding::a[2]</value>
+      <webElementGuid>d5799504-33b0-4981-9afe-4c034989141d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/a</value>
+      <webElementGuid>3904ff9d-608c-462f-b90f-2f454a1622a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

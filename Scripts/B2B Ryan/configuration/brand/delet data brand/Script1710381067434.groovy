@@ -35,60 +35,11 @@ WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Configuration Setting'))
 
 WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Brand'))
 
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
+WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Add Brand'))
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/input_Brand Name_brand'), 'IQBAL Racing')
 
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'brand', 
-    false)
+WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Save_Brand'))
 
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'COBA Update')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'is_active', 
-    false)
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_SelectActiveInActive'), 'false', false)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'brand', 
-    false)
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), '\'\'')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
+WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/ok'))
 

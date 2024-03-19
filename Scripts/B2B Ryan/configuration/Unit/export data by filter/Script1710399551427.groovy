@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://b2b-dev.modena.com/')
 
 WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/Username'), 'ryan.ananda@modena.com')
 
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/Page_B2B Portal/select_Company'), '1', false)
+WebUI.selectOptionByValue(findTestObject('B2B/Brand/Page_B2B Portal/select_Company'), '174', false)
 
 WebUI.setEncryptedText(findTestObject('B2B/Brand/Page_B2B Portal/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
@@ -33,62 +33,20 @@ WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/arrow_right_menu'))
 
 WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Configuration Setting'))
 
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Brand'))
+WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/Unit'))
+
+WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/button_Export Data'))
 
 WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
 
-WebUI.delay(2)
+not_run: WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 
+    'brand', false)
 
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'brand', 
-    false)
+not_run: WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'COBA Update')
 
-WebUI.delay(2)
+not_run: WebUI.delay(5)
 
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'COBA Update')
+not_run: WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
 
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'is_active', 
-    false)
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_SelectActiveInActive'), 'false', false)
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
-
-WebUI.delay(2)
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'brand', 
-    false)
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), '\'\'')
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Filter_btn  btn-outline-warning'))
-
-WebUI.click(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/button_Reset'))
-
-WebUI.delay(2)
+not_run: WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/div_Export Data'))
 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check</name>
+   <tag></tag>
+   <elementGuidId>3f542c2e-c19d-43dd-9941-0a944f6206e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.form-group > div.d-flex.justify-content-between > div.col-sm-4 > button.b2b-gradient-button.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db62a060-4ffa-4f3b-b2fe-80299aefd1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>853bba79-eaf3-4a35-96ae-75a5aaa7c4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b2b-gradient-button mr-2</value>
+      <webElementGuid>eeb5ab0c-a2d2-4bd4-a2c8-403cea1060c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check</value>
+      <webElementGuid>f71c031e-5b00-4685-a73d-467371fa717c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;import-unit&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-sm-8 col-md-10 col-lg-10 col-xl-12 col-xxl-12&quot;]/div[1]/div[2]/div[@class=&quot;col-sm-12&quot;]/form[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/div[@class=&quot;col-sm-4&quot;]/button[@class=&quot;b2b-gradient-button mr-2&quot;]</value>
+      <webElementGuid>952fbc2b-2eec-40b5-8b64-0477f1b61570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>74369876-5aaf-4464-a2dc-d87359e8c927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='import-unit']/div/div/div[2]/div/div/div[2]/div/form/div/div[2]/button</value>
+      <webElementGuid>4faf2130-3416-4c32-a5ca-73629bc05e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::button[1]</value>
+      <webElementGuid>9766423e-f43a-4302-b5ab-5c6f16e0a951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Sample File'])[1]/following::button[2]</value>
+      <webElementGuid>7a45b44a-21bc-4f82-a6c2-4128b2b763b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No File is uploaded yet!'])[1]/preceding::button[1]</value>
+      <webElementGuid>fecbf907-39e3-4818-a76a-f1250759f4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/button</value>
+      <webElementGuid>c0bca94c-3dcf-4124-9ca1-d7cd7a8d3786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Check' or . = 'Check')]</value>
+      <webElementGuid>a014a2fc-8fd7-45e7-ad7e-7b26d551f5d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Download_form-control</name>
+   <tag></tag>
+   <elementGuidId>8dd6017d-0c36-4ca7-9738-d5ea63d93b1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.col-sm-8.mr-3 > input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>73bacdd8-1b22-4481-89f2-b37c7934a532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>64a501bd-b430-4787-838f-8b6ae6903390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1ed18fa1-2896-4c4b-81f3-4273af73da97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;import-unit&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col-sm-8 col-md-10 col-lg-10 col-xl-12 col-xxl-12&quot;]/div[1]/div[2]/div[@class=&quot;col-sm-12&quot;]/form[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/div[@class=&quot;form-group col-sm-8 mr-3&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>8334758b-5b8b-4032-9cfd-de205c7fac94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='file']</value>
+      <webElementGuid>6864c5aa-e72d-40db-a399-b3e36d13277c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='import-unit']/div/div/div[2]/div/div/div[2]/div/form/div/div/input</value>
+      <webElementGuid>5d34ca85-2b56-4fcf-bb98-43d8c55fb895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::input[1]</value>
+      <webElementGuid>7627f42a-244c-40b4-91ab-07e4d5d42138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Sample File'])[1]/following::input[1]</value>
+      <webElementGuid>2052e0ee-ac77-4488-a112-77b17f8091ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check'])[1]/preceding::input[1]</value>
+      <webElementGuid>507a5c15-37fd-42ab-86a0-c4d25ecff5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No File is uploaded yet!'])[1]/preceding::input[1]</value>
+      <webElementGuid>e7f87b07-31cc-4f22-8363-7cf8bc7339ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/input</value>
+      <webElementGuid>a6a75df1-d970-479f-b26a-724cf8fe1e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file']</value>
+      <webElementGuid>230f42ff-fc4b-4d17-bb6a-8f59222ca78d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

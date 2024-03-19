@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active</name>
+   <tag></tag>
+   <elementGuidId>81a6b120-ccd7-41d9-beae-a953833fea87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[2]/div/form/div/div[3]/div/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-inputswitch-slider</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad8eb1ea-5c99-44ad-9032-b37a5d1fbd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputswitch-slider</value>
+      <webElementGuid>cd877179-4a6e-45d0-bae1-492ca713face</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;col-sm-8 col-md-10 col-lg-10 col-xl-12 col-xxl-12&quot;]/div[@class=&quot;card shadow mb-3&quot;]/form[1]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card__side--back-show&quot;]/div[@class=&quot;d-flex justify-content-between p-3&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;form-group&quot;]/div[1]/div[@class=&quot;p-inputswitch p-component p-inputswitch-checked&quot;]/span[@class=&quot;p-inputswitch-slider&quot;]</value>
+      <webElementGuid>f6a195ae-e9b2-47d0-9ab0-2b284ae58598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/div/form/div/div[3]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>0ce31d01-692b-476d-b9ac-651b0e779f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[4]/following::span[1]</value>
+      <webElementGuid>ecab75a2-65cf-40cc-bb40-613f920e9d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Name'])[3]/following::span[1]</value>
+      <webElementGuid>bf92e9e0-19c4-43b7-b3bd-99ca494fe9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[1]</value>
+      <webElementGuid>f168ead1-afe4-4db5-a19f-553f415c3064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Excel'])[1]/preceding::span[1]</value>
+      <webElementGuid>953564e0-c7fb-4ad4-8e6d-f058cf162c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>36c373eb-794f-43b4-a1c3-dd86da0268d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
