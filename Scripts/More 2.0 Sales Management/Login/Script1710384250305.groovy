@@ -19,25 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://b2b-dev.modena.com/')
+WebUI.navigateToUrl('https://more-tst.modena.com/')
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
+    'asma.nasyith')
 
-WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/Username'), Username)
+WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
+    'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/B2B Vendor/Login/Page_B2B Portal/select_-- Choose Your Company --Client Name 1'), 
-    '1', true)
-
-WebUI.setText(findTestObject('Object Repository/B2B Vendor/Login/Page_B2B Portal/input_Password_password_1'), Password)
-
-not_run: WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Email Account_username'), Username)
-
-not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/select_-- Choose Your Company --Client Name 1'), 
-    '1', true)
-
-not_run: WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Password_password_1'), Password)
-
-WebUI.click(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/span_Login'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/h2_Succes'), 'Succes!')
+WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
 
