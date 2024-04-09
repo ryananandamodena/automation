@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Draft_flex justify-content-center</name>
+   <tag></tag>
+   <elementGuidId>865940c8-302a-4919-baf7-f2d4a7f36a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_3719526']/div[3]/div/table/tbody/tr/td[9]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-content-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f3eafd2-73db-4a1e-8f03-ada66a8f8f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-content-center</value>
+      <webElementGuid>c82aebcb-2fed-4c3f-82e2-ebf3a0da64dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_3719526&quot;)/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed scroll&quot;]/table[@class=&quot;table m-table table-condensed&quot;]/tbody[@class=&quot;tb_bg&quot;]/tr[1]/td[@class=&quot;text-overflow-hidden&quot;]/div[@class=&quot;flex justify-content-center&quot;]</value>
+      <webElementGuid>b8be5cf3-ed35-4649-a124-0a7d9fefb0a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_3719526']/div[3]/div/table/tbody/tr/td[9]/div</value>
+      <webElementGuid>2028dda5-0a71-48da-9e61-d2d50574fd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[2]/following::div[1]</value>
+      <webElementGuid>23d4ea9e-113c-4ef2-af7f-fc0d831fc6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::div[5]</value>
+      <webElementGuid>230ed7cd-c81f-495b-b305-0cc0c76399a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign Voucher'])[1]/preceding::div[1]</value>
+      <webElementGuid>ebfb42e3-f7a9-4e07-939d-f25243d75af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test diskon 45%'])[1]/preceding::div[1]</value>
+      <webElementGuid>40651c49-656b-4c94-9d0d-43cf8802f44f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div</value>
+      <webElementGuid>0fce1ba5-de7f-418f-841a-a49f7833f13f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

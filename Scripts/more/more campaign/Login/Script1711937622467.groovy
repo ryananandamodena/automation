@@ -19,31 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://b2b-dev.modena.com/')
+WebUI.navigateToUrl('https://more-dev.modena.com/')
 
-WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/Username'), 'admin@admin.com')
+WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
+    'creator')
 
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/Page_B2B Portal/select_Company'), '1', false)
+WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
+    'tzH6RvlfSTg=')
 
-WebUI.setEncryptedText(findTestObject('B2B/Brand/Page_B2B Portal/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/button_Login'))
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/arrow_right_menu'))
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Configuration Setting'))
-
-WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/Unit'))
-
-WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/button_Import Data'))
-
-WebUI.delay(2)
-
-WebUI.uploadFile(findTestObject('B2B/unit/Page_B2B Portal/input_Download_form-control'), 'C:\\Users\\ryan.ananda\\Downloads\\Sample_Brands.xlsx')
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/check'))
-
-not_run: WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/upload'))
+WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
 

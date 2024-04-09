@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Campaign</name>
+   <tag></tag>
+   <elementGuidId>78ea69aa-b076-426a-9935-8a0e543e33f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/campaign' and (text() = 'Campaign' or . = 'Campaign')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bde40cbd-99ea-4ad7-bbbc-dfa2c7f6fd62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/campaign</value>
+      <webElementGuid>b3b15c61-340f-4d1d-a445-5de0d08a91c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campaign</value>
+      <webElementGuid>6f610782-2d87-48bf-b09e-71b1164157c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;content_menu&quot;]/div[@class=&quot;expand_menu&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>b94f1223-e995-44f3-b51f-83fae228c192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/campaign' and (text() = 'Campaign' or . = 'Campaign')]</value>
+      <webElementGuid>0d0e9f4d-f3db-4564-882b-a43b838cc011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

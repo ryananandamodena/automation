@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Simulation</name>
+   <tag></tag>
+   <elementGuidId>21b07f4d-3404-4fe4-aa00-3cd35fc4abbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.form_addbutton__SNGlx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8262848-048c-4604-a61f-57c7bdd0a4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form_addbutton__SNGlx</value>
+      <webElementGuid>c00c39ef-b764-47c1-b8a3-41796bf0092f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add Simulation</value>
+      <webElementGuid>6ab3f36d-18cf-48f9-8ffc-49db81e08e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[3]/div[@class=&quot;form_wrapper_form_dnd__Uoa-E&quot;]/div[@class=&quot;row mt-8&quot;]/div[@class=&quot;col-md-10&quot;]/button[@class=&quot;form_addbutton__SNGlx&quot;]</value>
+      <webElementGuid>29c4b355-be57-41d7-8046-9dfeec846f36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>c4f50d14-cebc-41eb-8dd8-754687d3fe8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simulation'])[2]/following::button[1]</value>
+      <webElementGuid>3b15243f-892c-42b3-953c-049bbe55649a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>d2914422-7f1a-4bcc-9475-3a5dd6e7a27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Simulation'])[1]/preceding::button[1]</value>
+      <webElementGuid>64f5a56b-2d0d-4c4f-b649-b13232518f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Add Simulation']/parent::*</value>
+      <webElementGuid>d23be3d6-965f-4212-af70-88b27f8d3928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>766f8f75-99cd-4102-b16d-22f4568884ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '+ Add Simulation' or . = '+ Add Simulation')]</value>
+      <webElementGuid>78d62a9d-b2e6-4c21-bb2c-a3d3cd75dbfd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

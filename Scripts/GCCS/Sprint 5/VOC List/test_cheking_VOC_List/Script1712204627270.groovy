@@ -17,33 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('GCCS/login/login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://b2b-dev.modena.com/')
+WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_Dashboard - GCCS/div_Call Center'))
 
-WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/Username'), 'admin@admin.com')
-
-WebUI.selectOptionByValue(findTestObject('B2B/Brand/Page_B2B Portal/select_Company'), '1', false)
-
-WebUI.setEncryptedText(findTestObject('B2B/Brand/Page_B2B Portal/Password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/button_Login'))
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/arrow_right_menu'))
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Configuration Setting'))
-
-WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/Unit'))
-
-WebUI.click(findTestObject('B2B/unit/Page_B2B Portal/button_Import Data'))
+WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_Dashboard - GCCS/div_VOC List'))
 
 WebUI.delay(2)
 
-WebUI.uploadFile(findTestObject('B2B/unit/Page_B2B Portal/input_Download_form-control'), 'C:\\Users\\ryan.ananda\\Downloads\\Sample_Brands.xlsx')
+WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_VOC List - GCCS/Export Data'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(5)
-
-WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/check'))
-
-not_run: WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/upload'))
+WebUI.delay(2)
 

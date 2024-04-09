@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Add FormulaMultipleRemark Choose Match_e2c0a2</name>
+   <tag></tag>
+   <elementGuidId>f9ad1407-9a1a-45cd-8190-f6aeeb3f9fc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>a95cf217-97f5-4319-91fb-a0bcaede2c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add FormulaMultipleRemark *Choose *Match AllMatch AnyFormula Condition *Choose FormulaTotal Order item criteriaTotal Quantity item criteriaTotal Quantity Specific itemTotal Order Specific itemBundling Item CriteriaBundling Sub CategoryBundling Sub Sub CategoryOperator *Choose Formula=>=&lt;=>&lt;Value *Add RewardChooseReward*ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucherRewardType*ChooseRewardValue *Save DraftNext Step</value>
+      <webElementGuid>fb9cc66e-feb8-4932-90d6-2629ea23c237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[3]/form[1]</value>
+      <webElementGuid>e315806b-18c6-48ce-b188-74a7be818bc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/form</value>
+      <webElementGuid>84c72a57-8337-4d0f-bb3e-9fd601d3d7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/following::form[1]</value>
+      <webElementGuid>b84a931f-193c-453f-a86e-c495ec02b2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simulation'])[1]/following::form[1]</value>
+      <webElementGuid>47d5ee8e-28ad-4edd-8897-2269fe85e6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>c81193b4-0906-4d10-9428-b05f29d90ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Add FormulaMultipleRemark *Choose *Match AllMatch AnyFormula Condition *Choose FormulaTotal Order item criteriaTotal Quantity item criteriaTotal Quantity Specific itemTotal Order Specific itemBundling Item CriteriaBundling Sub CategoryBundling Sub Sub CategoryOperator *Choose Formula=>=&lt;=>&lt;Value *Add RewardChooseReward*ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucherRewardType*ChooseRewardValue *Save DraftNext Step' or . = 'Add FormulaMultipleRemark *Choose *Match AllMatch AnyFormula Condition *Choose FormulaTotal Order item criteriaTotal Quantity item criteriaTotal Quantity Specific itemTotal Order Specific itemBundling Item CriteriaBundling Sub CategoryBundling Sub Sub CategoryOperator *Choose Formula=>=&lt;=>&lt;Value *Add RewardChooseReward*ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucherRewardType*ChooseRewardValue *Save DraftNext Step')]</value>
+      <webElementGuid>1576a337-1d6c-4efa-a7f8-85787b258e97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

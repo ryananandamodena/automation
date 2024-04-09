@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Add Campaign_icon_plus_white</name>
+   <tag></tag>
+   <elementGuidId>229cc2c2-25b0-46bb-8d70-b404a6d13a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_3040317']/div[2]/div[3]/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.icon_plus_white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2208c79d-43f3-4531-9794-e1487f8ffb0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/src/icon_plus_white.png</value>
+      <webElementGuid>5ecaffa8-c217-4315-9bb0-03d9ef3d2b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_plus_white</value>
+      <webElementGuid>a3ad939a-f2c7-4581-9ae2-7e5046c2fed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_3040317&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/button[@class=&quot;add_button float-right&quot;]/img[@class=&quot;icon_plus_white&quot;]</value>
+      <webElementGuid>eede1251-d803-4f9c-81c4-dc95b96de13b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_3040317']/div[2]/div[3]/button/img</value>
+      <webElementGuid>994c6154-2c46-4ed7-ae50-71f218be6793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>92cf20f1-4ee6-4118-9b64-08c1358f3faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/src/icon_plus_white.png']</value>
+      <webElementGuid>87320464-ef4e-468c-810c-fdbf0a5c3919</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

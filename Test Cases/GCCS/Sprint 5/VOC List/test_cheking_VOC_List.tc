@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_cheking_VOC_List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75cb9671-9dbc-4283-a73f-68efee66eb0b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fde287de-2c1f-4ff3-848a-6e1b93891220</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Cancel', 'Complete', 'Waiting Responsible Dept Confirm', 'Waiting Contact Dept Confirm', 'Waiting Confirm']</defaultValue>
+      <description></description>
+      <id>fde287de-2c1f-4ff3-848a-6e1b93891220</id>
+      <masked>false</masked>
+      <name>verifikasi</name>
+   </variable>
+</TestCaseEntity>

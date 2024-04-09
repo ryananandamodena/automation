@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Choose CategoryarmanCampaign Reguler_c1a7b3</name>
+   <tag></tag>
+   <elementGuidId>07835be0-97f0-4836-9777-8153a7980cb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='criteria']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;criteria&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fb39be71-0fff-4305-9e1f-17b4301074ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>criteria</value>
+      <webElementGuid>df9dd060-5f7a-45b5-94dc-6f50d88ae1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler</value>
+      <webElementGuid>9bff3e2b-07e1-466a-9be3-51aa121cddd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[2]/div[@class=&quot;form_wrapper_form2__mltJl&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrap_input mt-4&quot;]/div[@class=&quot;autocomplete_multiple select_component&quot;]/select[1]</value>
+      <webElementGuid>fc23c911-bfca-4341-a449-93cd4acef2e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='criteria']</value>
+      <webElementGuid>82894ec7-d96a-407e-ae5d-f9d05d972391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/form/div[2]/div/div/div/select</value>
+      <webElementGuid>8eb7ce6f-2ce8-4a8d-ae83-768e8cae3eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>d5e3a033-9789-47c2-869a-6f6462e58949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>752f8841-eae0-4e68-8ab4-d755c0898531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>123dfa60-ec2b-4d97-827d-b177f77e50e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[2]</value>
+      <webElementGuid>96b84537-9df2-45ee-990f-235aafc4cfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>789faa8a-dbbd-42b0-a91a-024ee35447a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'criteria' and (text() = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler' or . = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler')]</value>
+      <webElementGuid>c687bde4-49bd-40b9-a16c-b4ddfc47e7a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save And Close</name>
+   <tag></tag>
+   <elementGuidId>2682a999-a90b-45e5-ac3e-eef5e8379209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form_wp_button__uHLKm > button[name=&quot;submit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fe2bb514-0d59-44ca-8e4f-aaa9289426db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form_button_primary__Vxf0B</value>
+      <webElementGuid>1b52fbd5-0cce-4508-b2f5-2d9f189c838d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>894dd690-7a93-4ffe-a193-a585191454fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>cb47ed36-09be-4d46-891f-8a39194e488a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save And Close</value>
+      <webElementGuid>22afcafe-5012-4a2f-b524-a656ed9ae169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/div[@class=&quot;p-sidebar-mask p-component-overlay p-component-overlay-enter p-sidebar-visible p-sidebar-right&quot;]/div[@class=&quot;p-sidebar p-component p-ripple-disabled p-sidebar-enter-done&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form_wp_button__uHLKm&quot;]/button[@class=&quot;form_button_primary__Vxf0B&quot;]</value>
+      <webElementGuid>43b8711b-6056-4f3e-9e76-4196178f76ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='submit'])[2]</value>
+      <webElementGuid>c8620997-c8c2-43d6-a16b-b1c2e1934228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::button[1]</value>
+      <webElementGuid>cd183261-1294-4b07-bd57-283caba3d8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[3]</value>
+      <webElementGuid>6aca458e-bcca-455d-b429-82e00e7e088d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save And New'])[1]/preceding::button[1]</value>
+      <webElementGuid>832c38c2-81cb-4256-96da-f8689b2b7064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save And Close']/parent::*</value>
+      <webElementGuid>31fdcc5d-1c8b-46ca-8f1c-eec441a0902b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/button</value>
+      <webElementGuid>6e9db792-5a55-4c1c-8988-eaa785613038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'submit' and (text() = 'Save And Close' or . = 'Save And Close')]</value>
+      <webElementGuid>a8774d31-9a5d-470e-9b9f-549c9197c439</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
