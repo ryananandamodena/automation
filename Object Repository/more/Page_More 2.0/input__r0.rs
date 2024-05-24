@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id=':r0:']</value>
+         <value>//*[@id=&quot;:r0:&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>.autocomplete_multiple</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7ffa0306-b556-4e26-a3c9-107041ddcf42</webElementGuid>
+      <webElementGuid>7476692d-19db-4b19-a31e-cf6c705ec2f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a78f5f5-d0f8-4afd-bd61-e30335160476</webElementGuid>
+      <webElementGuid>f4159f19-c1e1-4aae-a5f5-584bd5bdb553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>19454057-724b-4393-80b8-d9c84892f39a</webElementGuid>
+      <webElementGuid>364f5745-d398-419c-a1da-ce3397a13b49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r0:</value>
-      <webElementGuid>b38bdab7-781e-4a7e-8e4c-2c358a845ad8</webElementGuid>
+      <webElementGuid>c2f0da01-5796-4398-a81b-9187a3060234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Pilih Promo</value>
-      <webElementGuid>7055fdbb-81ca-4a68-8300-c86f9291771c</webElementGuid>
+      <webElementGuid>2f5ad517-f6a8-4fdf-92dc-a6ee97e94fa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0f062dc7-d393-411d-868a-06c717fbbb14</webElementGuid>
+      <webElementGuid>5acf7295-b386-41cc-9572-cd56ffcf386d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-1uvydh2</value>
-      <webElementGuid>80527c75-23d6-4518-a676-ad28c587cf1d</webElementGuid>
+      <webElementGuid>3d8885b5-bc5c-413e-a48f-850e9fd09e2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>be258aae-7c75-4e9d-ac14-f3d9b5ccf870</webElementGuid>
+      <webElementGuid>15e96519-84ad-45e5-960b-442da9c92b94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>99431815-722a-4a53-85b3-efeafabc62ca</webElementGuid>
+      <webElementGuid>a067c80e-fc2c-4d05-8296-23e352015a91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>4064d70b-3d58-42f9-9848-ee08e5c7ef17</webElementGuid>
+      <webElementGuid>12ec11e2-4f0e-4552-999a-933185e2fdfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0c7d8c82-a070-4618-9446-c22d4f3ce1a4</webElementGuid>
+      <webElementGuid>9e48fd87-a0ab-4d86-8205-1991e3c1dc08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>f94ee39d-2bae-42e6-8a2c-3c1a62e17e28</webElementGuid>
+      <webElementGuid>382a6443-f1f8-42bf-baba-99153a09a240</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>:r0:-listbox</value>
-      <webElementGuid>d08ba3c8-ac11-4a01-aa81-858f84ff8690</webElementGuid>
+      <webElementGuid>6fc983c6-bcbf-4720-8fdd-e7d7cbb11af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r0:&quot;)</value>
-      <webElementGuid>4379d158-5804-4da3-b0ee-cd33c1544184</webElementGuid>
+      <webElementGuid>5c38e3b8-cdec-4178-af96-f9caf8631c75</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id=':r0:']</value>
-      <webElementGuid>118f2ac0-ecae-4650-87c3-c608c804a253</webElementGuid>
+      <webElementGuid>e1c5c145-670d-4d9c-b01d-474bd20595ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div/form/div[2]/div/div/div/div/div/div/input</value>
-      <webElementGuid>2eb5c7b4-35c9-4dd3-86bc-06b873205d78</webElementGuid>
+      <webElementGuid>64311f3c-6a8a-4551-b3ba-d4c25eda02c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/input</value>
-      <webElementGuid>2868af9d-8dc5-40ae-b90d-148ad5d46eb2</webElementGuid>
+      <webElementGuid>99fcb345-8813-42f2-a88b-5d4401c57d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = ':r0:' and @placeholder = 'Pilih Promo' and @type = 'text']</value>
-      <webElementGuid>2080ca07-2762-4204-bc3b-acf6d05b8a10</webElementGuid>
+      <webElementGuid>e62e8a77-3882-4d33-b77b-74526dc2e35a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

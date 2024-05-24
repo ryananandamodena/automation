@@ -7,14 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mTableId_4132740']/div[2]/div[2]/button</value>
+         <value>//button</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.add_button.float-right</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Add Promo' or . = 'Add Promo')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>726398e9-8285-46f7-b2ab-c14ebcd00229</webElementGuid>
+      <webElementGuid>34b46022-022d-4ac0-838e-a35652544bb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>add_button float-right</value>
-      <webElementGuid>715e1f84-7f14-463c-adbe-7b4d838e8b94</webElementGuid>
+      <webElementGuid>fa0b3c14-daa3-477e-afae-312c51e62a31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Promo</value>
-      <webElementGuid>c4bec36e-babe-4b67-9ed0-77fa6b456fee</webElementGuid>
+      <webElementGuid>17ca5dc2-d38f-4b5f-ab9d-961102d9810f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mTableId_4132740&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/button[@class=&quot;add_button float-right&quot;]</value>
-      <webElementGuid>0070c272-3873-439f-94d8-396e5e9efbf9</webElementGuid>
+      <webElementGuid>34befe92-c716-4041-b058-ef69202897c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mTableId_4132740']/div[2]/div[2]/button</value>
-      <webElementGuid>68b44a51-27ca-4d24-9f62-76126e26f664</webElementGuid>
+      <webElementGuid>ec67c0e9-7020-48e3-9f0a-fdd8b4713bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List Promo'])[1]/following::button[1]</value>
-      <webElementGuid>623f546c-e07a-451d-8d7f-ddf6f592eb7e</webElementGuid>
+      <webElementGuid>c4361031-5c0b-4359-a7d0-d067d74703ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Creator Campaign'])[2]/following::button[1]</value>
-      <webElementGuid>ec33590f-09d3-4944-aa08-363486b7186c</webElementGuid>
+      <webElementGuid>938ca8b4-a0cf-435b-9beb-887a8ee0fbcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy From'])[1]/preceding::button[1]</value>
-      <webElementGuid>4d5b4199-27e2-405f-9b5d-743aa102df03</webElementGuid>
+      <webElementGuid>d32682e7-69d5-4feb-a235-ae61681215fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 - 0 of 0'])[1]/preceding::button[2]</value>
-      <webElementGuid>f3836eab-347c-4619-95c8-586c089f952f</webElementGuid>
+      <webElementGuid>448e8411-935f-4e2d-8d69-ea11d890c08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Promo']/parent::*</value>
-      <webElementGuid>e572d365-8e5b-436c-896e-ece7c4231020</webElementGuid>
+      <webElementGuid>3c19baf4-a100-4a32-bf14-869f7b237591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>b1048937-5b23-4062-89fa-40e997fbac58</webElementGuid>
+      <webElementGuid>32730e18-7172-4dfd-a665-894278f88456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Add Promo' or . = 'Add Promo')]</value>
-      <webElementGuid>316a79bb-f054-4ca7-9eeb-01c8ffc29242</webElementGuid>
+      <webElementGuid>c5933931-be52-4429-8673-6e0f318921b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

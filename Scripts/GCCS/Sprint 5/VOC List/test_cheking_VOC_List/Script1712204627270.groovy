@@ -25,7 +25,7 @@ WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_Dashboard - GCCS/div_VOC Lis
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_VOC List - GCCS/Export Data'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('gccs/gccs_sprint_5/Page_VOC List - GCCS/span_Page SizePage_p-checkbox-icon p-c pi pi-check'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 

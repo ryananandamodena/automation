@@ -37,17 +37,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/more/Page_More 2.0/s
 
 WebUI.setText(findTestObject('Object Repository/more/Page_More 2.0/textarea__remarks'), 'test 50%')
 
-WebUI.click(findTestObject('more/Page_More 2.0/Page_More 2.0/input__p-inputtext p-component'))
-
-WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/span_1'))
-
 WebUI.click(findTestObject('more/Page_More 2.0/Page_More 2.0/input__endDate'))
 
 WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/span_30'))
 
-WebUI.uploadFile(findTestObject('more/Page_More 2.0/Page_More 2.0/img'), 'C:\\Users\\ryan.ananda\\Downloads\\MicrosoftTeams-image (17).png')
+WebUI.click(findTestObject('more/Page_More 2.0/upload/Page_More 2.0/div_Upload File'))
 
-WebUI.acceptAlert()
+WebUI.uploadFile(findTestObject('more/Page_More 2.0/upload/Page_More 2.0/div_Upload File'), 'C:\\Users\\ryan.ananda\\Downloads\\MicrosoftTeams-image (17).png')
 
 WebUI.delay(5)
 

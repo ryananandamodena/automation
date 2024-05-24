@@ -6,12 +6,16 @@
    <elementGuidId>07835be0-97f0-4836-9777-8153a7980cb2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@name='criteria']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'criteria' and (text() = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler' or . = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>select[name=&quot;criteria&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='criteria']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>fb39be71-0fff-4305-9e1f-17b4301074ff</webElementGuid>
+      <webElementGuid>404eae3d-606d-45fd-9d71-36b19df52a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>name</name>
       <type>Main</type>
       <value>criteria</value>
-      <webElementGuid>df9dd060-5f7a-45b5-94dc-6f50d88ae1d1</webElementGuid>
+      <webElementGuid>f41b4ef3-d3de-4d75-ad3f-03678f4cc55a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler</value>
-      <webElementGuid>9bff3e2b-07e1-466a-9be3-51aa121cddd2</webElementGuid>
+      <webElementGuid>953eed2e-75cb-4c7a-b787-69434c7c8a3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[2]/div[@class=&quot;form_wrapper_form2__mltJl&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrap_input mt-4&quot;]/div[@class=&quot;autocomplete_multiple select_component&quot;]/select[1]</value>
-      <webElementGuid>fc23c911-bfca-4341-a449-93cd4acef2e7</webElementGuid>
+      <webElementGuid>912223c7-4312-4872-9fbd-04f98d9440d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='criteria']</value>
-      <webElementGuid>82894ec7-d96a-407e-ae5d-f9d05d972391</webElementGuid>
+      <webElementGuid>87c2dd7e-4db8-4223-a322-5e1c8a0e3890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/form/div[2]/div/div/div/select</value>
-      <webElementGuid>8eb7ce6f-2ce8-4a8d-ae83-768e8cae3eb7</webElementGuid>
+      <webElementGuid>7d7a7b8d-fd8d-4d13-95ef-007865a954be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
-      <webElementGuid>d5e3a033-9789-47c2-869a-6f6462e58949</webElementGuid>
+      <webElementGuid>5d42a6a0-7225-4b26-a985-17bc134ae774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
-      <webElementGuid>752f8841-eae0-4e68-8ab4-d755c0898531</webElementGuid>
+      <webElementGuid>eaa46d93-5c65-468b-bfa9-7006692a72bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
-      <webElementGuid>123dfa60-ec2b-4d97-827d-b177f77e50e8</webElementGuid>
+      <webElementGuid>d70f9b51-3f65-42b3-ab2b-11564bce8815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[2]</value>
-      <webElementGuid>96b84537-9df2-45ee-990f-235aafc4cfeb</webElementGuid>
+      <webElementGuid>b1fb67d2-8fea-40f8-a2e3-8b6c2240a370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>789faa8a-dbbd-42b0-a91a-024ee35447a9</webElementGuid>
+      <webElementGuid>13989a11-975f-4325-a365-c71994791548</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'criteria' and (text() = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler' or . = 'Choose CategoryarmanCampaign Reguler Own ChannelFahmiRojiCampaign Booster CookingCampaign DisplayAdditional Discount DisplayAdditional DiscountCampaign TaktikalCampaign VoucherCampaign CIAOCampaign DiscontinueCampaign PreorderCampaign AkumulasiCampaign DistributorCampaign BoosterCampaign Sell InCampaign Reguler')]</value>
-      <webElementGuid>c687bde4-49bd-40b9-a16c-b4ddfc47e7a6</webElementGuid>
+      <webElementGuid>9c3188b2-5e1f-4ca0-9f8b-c129261cf8b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

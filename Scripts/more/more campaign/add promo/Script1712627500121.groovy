@@ -25,19 +25,22 @@ WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/Campaign Manage
 
 WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/a_Campaign'))
 
-WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/div_Draft_flex justify-content-center'))
+WebUI.click(findTestObject('more/Page_More 2.0/div_Draft_flex justify-content-center'))
 
-WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/img_Draft_campaign_dot_menu__ZAXio'))
-
+//WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/img_Draft_campaign_dot_menu__ZAXio'))
 WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/a_View'))
 
 WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/button_Add Promo'))
 
 WebUI.setText(findTestObject('Object Repository/more/Page_More 2.0/input__promo_name'), 'promo takbiran 40%')
 
-WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/input__r0'))
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/more/Page_More 2.0/li_Discount'))
+WebUI.selectAllOption(findTestObject('more/Page_More 2.0/upload/Page_More 2.0/li_Discount'))
+
+WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('more/Page_More 2.0/upload/Page_More 2.0/li_Voucher'))
 
 WebUI.setText(findTestObject('Object Repository/more/Page_More 2.0/input_END-_promo_code'), 'takbir 2024')
 

@@ -6,12 +6,12 @@
    <elementGuidId>8c9e01b7-ffa5-44df-8dd7-43afdcbc734d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/nav/ul/li[2]/ul/a[5]/li/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[2]/ul/a[5]/li/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1a64c3c7-fa41-44ac-bab6-876001f8ec53</webElementGuid>
+      <webElementGuid>2f046453-0f52-4acb-963b-62fd631fec2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sub-menu-content</value>
-      <webElementGuid>4b164009-747d-41c5-9cd5-a57b4327fccb</webElementGuid>
+      <webElementGuid>8cf3c077-23f2-40ea-9dce-986a9c3e2c55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>VOC List</value>
-      <webElementGuid>5de1815e-dfe3-4b33-a6ff-a053aafd8619</webElementGuid>
+      <webElementGuid>a5ec4b11-03ed-4354-b1d4-11b003bbb84f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[5]/li[@class=&quot;sub-menu-list&quot;]/div[@class=&quot;sub-menu-content&quot;]</value>
-      <webElementGuid>ec0dbd22-b94e-4eea-9b99-0d483dddd501</webElementGuid>
+      <webElementGuid>2655a8f3-c28d-43e3-89f3-cc010be93e65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/nav/ul/li[2]/ul/a[5]/li/div</value>
-      <webElementGuid>fcd3fae4-9384-4163-8944-0b2ca33b199f</webElementGuid>
+      <webElementGuid>ced36ed8-940e-4edc-97bc-4fda34c399bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KKS'])[1]/following::div[1]</value>
-      <webElementGuid>05a1a15d-99a0-4482-8c82-9775dc03e4d8</webElementGuid>
+      <webElementGuid>609c243e-503b-4d9a-af17-740e9ce7551b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership Subscription'])[1]/following::div[2]</value>
-      <webElementGuid>979a47b9-e024-42cf-bdc0-5a93066cbacd</webElementGuid>
+      <webElementGuid>8e58e05f-1bc9-476b-8ad3-bd8377c4dfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VOC List']/parent::*</value>
+      <webElementGuid>14d1cbc5-d427-44c1-a0e3-73d73282eee3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]/li/div</value>
-      <webElementGuid>660173dc-4c03-4ab3-8a12-9feeca77fc43</webElementGuid>
+      <webElementGuid>c9938fd8-ae75-4018-b4ce-06af0fe7fda3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'VOC List' or . = 'VOC List')]</value>
-      <webElementGuid>df6a5b4a-5784-4b42-9066-990b667512d7</webElementGuid>
+      <webElementGuid>c68adac1-7f53-4ee5-bec7-3aecdbfc1798</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

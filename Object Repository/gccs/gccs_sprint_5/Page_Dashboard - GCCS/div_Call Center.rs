@@ -6,12 +6,12 @@
    <elementGuidId>c6c03cc3-e213-4764-b2db-2f5c4b2d6714</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/nav/ul/li[2]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>090d034b-9c47-4c31-afad-c9531d4e0e67</webElementGuid>
+      <webElementGuid>58ca6fe8-fcac-48f0-8589-4638736a6af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>805c6f1f-ff23-4c7e-970c-d6f354a8f9db</webElementGuid>
+      <webElementGuid>9c85d04f-7537-4d87-8f77-4edf41df54fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Call Center</value>
-      <webElementGuid>798dbaa3-a761-4315-910f-bd0001c031d4</webElementGuid>
+      <webElementGuid>f2b12b6c-cf59-4806-a7c7-ddf76c1d8461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container false&quot;]/div[@class=&quot;menu&quot;]</value>
-      <webElementGuid>d42ed304-58b7-4d8a-bf70-a5a37bdf41a1</webElementGuid>
+      <webElementGuid>26c77bb3-3b00-4be3-9d93-56a3d3f733cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/nav/ul/li[2]/div</value>
-      <webElementGuid>5a757f58-33a5-47c0-9ade-e12374eadb6c</webElementGuid>
+      <webElementGuid>70ce3398-0efc-45d8-b8b2-72036c939f6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div</value>
-      <webElementGuid>8604a433-b9b1-42b1-95d7-cdf0fe6659bf</webElementGuid>
+      <webElementGuid>4cff3040-0d39-490e-b2bd-10cdf27ba3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Call Center' or . = ' Call Center')]</value>
-      <webElementGuid>e8574fd5-b8f1-4356-a2ad-26fed19ef082</webElementGuid>
+      <webElementGuid>d0d04f9e-1977-4d51-aed6-c7e8e15c1e12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

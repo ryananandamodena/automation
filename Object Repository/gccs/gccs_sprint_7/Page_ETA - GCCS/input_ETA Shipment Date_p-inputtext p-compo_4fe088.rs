@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ETA Shipment Date_p-inputtext p-compo_4fe088</name>
+   <tag></tag>
+   <elementGuidId>ce59f510-494e-458b-a400-d3ce340e6814</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.p-inputtext.p-component.flex-1.react-datepicker-ignore-onclickoutside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ec21cb1c-fe25-4a81-855d-a4591fa09d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c18efb71-07bd-44f2-a9d9-f9863ced90ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Shipment Date</value>
+      <webElementGuid>089d46fb-e7bd-4abc-b023-afd91bb0c8fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>be36e7dc-57f8-4681-bafb-8094a7b1a220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component flex-1 react-datepicker-ignore-onclickoutside</value>
+      <webElementGuid>10887b03-1b66-4cec-8037-fa346806ce33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipment-data-input-modal_content&quot;)/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mb-3&quot;]/div[1]/div[1]/div[@class=&quot;flex&quot;]/div[@class=&quot;form-control mr-2 &quot;&quot;]/div[@class=&quot;input-full-container&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;react-datepicker-wrapper date-full-fl&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;p-inputtext p-component flex-1 react-datepicker-ignore-onclickoutside&quot;]</value>
+      <webElementGuid>6159f028-e054-4f54-b395-601f5b8fa61c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>3701130a-907e-4bee-826e-a53a944c4707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipment-data-input-modal_content']/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>c6b946bb-d2d4-4173-85dc-dc01fc0a869e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETA Shipment Date'])[13]/following::input[1]</value>
+      <webElementGuid>f652fdbb-3cc9-41b2-ad8c-43072f986e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Data Input'])[1]/following::input[1]</value>
+      <webElementGuid>3d3f8ed1-34e8-443e-bdb4-c7071d324d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Month'])[1]/preceding::input[1]</value>
+      <webElementGuid>0abd4ce1-051c-4a64-a884-a3d3b25ad06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Month'])[1]/preceding::input[1]</value>
+      <webElementGuid>3862f6dd-a492-42a7-91e5-011726af1078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>bf4e3aee-e3bb-45dd-9146-a6dc1a7842a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Shipment Date']</value>
+      <webElementGuid>a9d4df70-0002-434e-8baf-48b3fd870162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

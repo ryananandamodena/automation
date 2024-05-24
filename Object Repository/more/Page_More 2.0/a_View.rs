@@ -6,12 +6,12 @@
    <elementGuidId>42c7ebde-392d-461c-b965-0b8d98f0f698</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mTableId_3719526']/div[3]/div/table/tbody/tr/td[9]/div[2]/ul/li/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8c89d6e7-3c48-47a6-b71b-2b425b7984fa</webElementGuid>
+      <webElementGuid>935cfff1-f3c7-4b98-99eb-9e6c27c188e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/detail-campaign/NzE=</value>
-      <webElementGuid>60803d34-725c-4399-b3a5-2205efb1d84a</webElementGuid>
+      <webElementGuid>a5322641-57c1-4e2f-96a0-090f1ef7d6ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View</value>
-      <webElementGuid>42b0e2f5-80d2-4a5c-9a03-9fba35c5ab4f</webElementGuid>
+      <webElementGuid>d469b2aa-ee75-4da5-9244-8420f8928016</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mTableId_3719526&quot;)/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed scroll&quot;]/table[@class=&quot;table m-table table-condensed&quot;]/tbody[@class=&quot;tb_bg&quot;]/tr[1]/td[@class=&quot;text-overflow-hidden&quot;]/div[@class=&quot;campaign_menu_mini__f9743&quot;]/ul[1]/li[1]/a[1]</value>
-      <webElementGuid>2d21c278-3184-4508-95f7-29521003de7c</webElementGuid>
+      <webElementGuid>9b441981-fb97-45ab-bbcd-225f217085b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mTableId_3719526']/div[3]/div/table/tbody/tr/td[9]/div[2]/ul/li/a</value>
-      <webElementGuid>63c21467-4ee3-4253-9f76-88e935ea54fc</webElementGuid>
+      <webElementGuid>abb74e06-8417-4cc2-a5fa-3b238145395d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'View')]</value>
-      <webElementGuid>dd4ec9a8-3b1b-449d-a734-263b330d2e43</webElementGuid>
+      <webElementGuid>7cc87a66-451d-4454-b3cd-71178d526831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[2]/following::a[1]</value>
-      <webElementGuid>bf4e17d8-acbe-4dda-90c3-de8075ba9654</webElementGuid>
+      <webElementGuid>d09a5278-a102-45f3-b95b-730a3f9f1b68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::a[1]</value>
-      <webElementGuid>163f2d97-b9c0-400f-b58e-469ad3c22883</webElementGuid>
+      <webElementGuid>025c42e3-5ca9-4889-8a3b-bf21e5b354ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a66c3ce-4342-4f80-9cd1-04c88537bf7d</webElementGuid>
+      <webElementGuid>5f583ab0-f5d2-40af-8f65-11bd2727bf71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign Voucher'])[1]/preceding::a[2]</value>
-      <webElementGuid>f8946434-7af5-4baf-be4b-4ef42a22c3c0</webElementGuid>
+      <webElementGuid>def94055-5299-45c7-9334-753ff31fa7ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='View']/parent::*</value>
-      <webElementGuid>989533d0-f1fd-4bab-a1df-b2e30003a633</webElementGuid>
+      <webElementGuid>3237b275-24cd-441a-9ce3-d096c96ac060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/detail-campaign/NzE=')]</value>
-      <webElementGuid>bc9742d1-ca67-47c6-9483-41ba44fbeee9</webElementGuid>
+      <webElementGuid>06585142-5b46-4702-b7ac-408d1dd28f3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>21e9901a-b4e0-4c24-a7b5-e65d2c57384c</webElementGuid>
+      <webElementGuid>4e38dd6b-560a-451f-ae27-30d2156d96be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/detail-campaign/NzE=' and (text() = 'View' or . = 'View')]</value>
-      <webElementGuid>6a3eec14-0b01-45e0-8745-a60c6378eba0</webElementGuid>
+      <webElementGuid>7116f530-f45f-4ad2-810d-aecd2de74a10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
