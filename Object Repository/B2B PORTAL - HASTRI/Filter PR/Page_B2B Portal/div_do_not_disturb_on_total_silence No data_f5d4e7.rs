@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_do_not_disturb_on_total_silence No data_f5d4e7</name>
+   <tag></tag>
+   <elementGuidId>2371c6ad-10e6-42aa-af29-9accaeffdd67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mTableId_7098748 > div:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_7098748']/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;do_not_disturb_on_total_silence No data found You don't have data yet. You can a&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf153b66-0d28-4327-aa09-0b07cd7eab42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>do_not_disturb_on_total_silence No data found  You don't have data yet. You can add a new one.</value>
+      <webElementGuid>56888f38-7309-4600-b359-415696809d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_7098748&quot;)/div[5]</value>
+      <webElementGuid>a15442fe-a884-42e1-b655-dc2d2f257200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_7098748']/div[5]</value>
+      <webElementGuid>bbb90fb2-f1a5-4648-ba02-5c86f8817f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[2]</value>
+      <webElementGuid>48d52aaf-e639-4d09-b9ae-d5daf9cec769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PR Status'])[1]/following::div[2]</value>
+      <webElementGuid>5e4ef8aa-d7aa-4f58-a27e-c1d04d81a45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[5]</value>
+      <webElementGuid>c33a777d-81e8-49a0-8b23-67806a97ba58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;do_not_disturb_on_total_silence No data found  You don&quot; , &quot;'&quot; , &quot;t have data yet. You can add a new one.&quot;) or . = concat(&quot;do_not_disturb_on_total_silence No data found  You don&quot; , &quot;'&quot; , &quot;t have data yet. You can add a new one.&quot;))]</value>
+      <webElementGuid>233004b7-6d4c-47f0-9092-516f14e89d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
