@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select fieldPR NumberPO NumberPO DatePR_158776</name>
+   <tag></tag>
+   <elementGuidId>7d9a1dab-5aca-4995-9b31-b63ee54c2d70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mTableId_4083998_filter > div.card > div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_4083998_filter']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mTableId_4083998_filter div >> internal:has-text=&quot;Select fieldPR NumberPO NumberPO DatePR Need DateSupplier NameSummary of Purchas&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d2305a7-4872-4084-9259-c01daacfceef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>77ce5331-f485-4818-9056-331c67568ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select fieldPR NumberPO NumberPO DatePR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value Reset</value>
+      <webElementGuid>a2e483db-0803-43af-bc87-427110b93726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_4083998_filter&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>b70f37e3-07a7-4c0c-82ec-cee9dd5120a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_4083998_filter']/div/div[2]</value>
+      <webElementGuid>61099460-fae7-4d62-83c7-bc41b4809efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::div[2]</value>
+      <webElementGuid>24052ab3-184d-4379-aff2-6e0cfee7b32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Goods Receipt'])[1]/following::div[11]</value>
+      <webElementGuid>dddb3cd7-e848-440b-9648-813d833fd70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/preceding::div[12]</value>
+      <webElementGuid>9cf085e3-0fc2-4b89-9097-48c5332b7aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>199058ea-8ec1-4f6a-a60c-065b015e3190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select fieldPR NumberPO NumberPO DatePR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value Reset' or . = 'Select fieldPR NumberPO NumberPO DatePR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value Reset')]</value>
+      <webElementGuid>1cceb7e9-4567-4f86-88b6-7c73ab5de70d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

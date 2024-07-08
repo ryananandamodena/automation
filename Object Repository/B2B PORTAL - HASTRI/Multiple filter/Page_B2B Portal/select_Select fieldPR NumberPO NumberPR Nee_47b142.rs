@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select fieldPR NumberPO NumberPR Nee_47b142</name>
+   <tag></tag>
+   <elementGuidId>294feee7-55df-4366-9850-02ea74ad3646</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;filter_field&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='filter_field']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;filter_field&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>feb25242-dfc5-43a4-9bb6-e14bb8db3a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control rounded-0</value>
+      <webElementGuid>faf36c0d-6656-41b1-8431-e0222abd7287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>filter_field</value>
+      <webElementGuid>5965f4a8-dc57-4d1a-a355-fe2f2bb1dbeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select fieldPR NumberPO NumberPR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value</value>
+      <webElementGuid>67096143-8c76-41c4-8c60-5e17ae77a104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_4083998_filter&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex&quot;]/div[1]/select[@class=&quot;form-control rounded-0&quot;]</value>
+      <webElementGuid>337400a0-7800-4872-adac-9580ff0724e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='filter_field']</value>
+      <webElementGuid>11c10185-7aca-402e-bd7f-8de3846bee3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_4083998_filter']/div/div[2]/div/div/select</value>
+      <webElementGuid>e3f0ccc0-f9bc-46db-96b4-33bb561d5d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::select[1]</value>
+      <webElementGuid>92113890-919a-4116-aa19-1787470f00a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Goods Receipt'])[1]/following::select[1]</value>
+      <webElementGuid>04b5ee6c-8bae-48d5-9c4c-a5dceb90072e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>ab72900e-e81e-4870-9be0-408c81462ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contains'])[1]/preceding::select[1]</value>
+      <webElementGuid>1a4eba38-f87d-4a38-a369-54d58dfb8023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c37b9278-11bc-4d64-97ed-6e5984be1a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'filter_field' and (text() = 'Select fieldPR NumberPO NumberPR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value' or . = 'Select fieldPR NumberPO NumberPR Need DateSupplier NameSummary of PurchasesRequestor NameDepartmentTotal Value')]</value>
+      <webElementGuid>31f0be55-3c46-4d6e-839b-87956c9a9579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
