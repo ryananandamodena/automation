@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Check if the filter for the list can be multiple or single filter for searching</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4e527de4-4f4d-458f-be15-dab30697968f</testCaseGuid>
-</TestCaseEntity>
