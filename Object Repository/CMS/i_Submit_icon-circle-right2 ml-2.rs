@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Submit_icon-circle-right2 ml-2</name>
+   <tag></tag>
+   <elementGuidId>66f4f3ed-1692-4b2f-9a76-23da0597c903</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-submit']/div/div/div[4]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-circle-right2.ml-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Submit &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>11f3dfd7-13e0-4418-948b-f340543da8a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-circle-right2 ml-2</value>
+      <webElementGuid>9478655b-600a-4bac-9a97-4ea6f6a213dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-submit&quot;)/div[@class=&quot;card mb-0&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-block btn-loading button-submit mt-4&quot;]/i[@class=&quot;icon-circle-right2 ml-2&quot;]</value>
+      <webElementGuid>ab82ac1d-be92-4cfa-a8f4-8caacb1f4014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-submit']/div/div/div[4]/button/i</value>
+      <webElementGuid>64e920e4-8f23-4cb8-8ead-938a857ec7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>b11f57b6-e470-442f-a824-151f82869dd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
