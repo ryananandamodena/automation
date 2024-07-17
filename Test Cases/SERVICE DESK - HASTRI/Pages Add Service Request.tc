@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pages Add Service Request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f0e0e69-1350-483e-bc7e-e897c84cf3d7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37ae90f1-a910-47be-81fe-d09383d2d180</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee1f382c-fc4a-45a0-aab5-41a68aad0fc1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7d531a7-e6a1-479d-9c7f-15f17db71d1c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37ae90f1-a910-47be-81fe-d09383d2d180</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee1f382c-fc4a-45a0-aab5-41a68aad0fc1</id>
+      <masked>false</masked>
+      <name>Requestfor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7d531a7-e6a1-479d-9c7f-15f17db71d1c</id>
+      <masked>false</masked>
+      <name>Requestedemail</name>
+   </variable>
+</TestCaseEntity>

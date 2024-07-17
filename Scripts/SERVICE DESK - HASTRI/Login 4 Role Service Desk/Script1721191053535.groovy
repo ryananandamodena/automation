@@ -21,14 +21,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.3.86:28064/')
 
-WebUI.setText(findTestObject('Object Repository/SERVICE DESK - HASTRI/Page_Modena Servicedesk/input_Email_username'), Username)
+WebUI.setText(findTestObject('Object Repository/SERVICE DESK - HASTRI/Login 4 Role/input_Email_username'), Username)
 
-WebUI.setText(findTestObject('Object Repository/SERVICE DESK - HASTRI/Page_Modena Servicedesk/input_Password_password'), 
+WebUI.setText(findTestObject('Object Repository/SERVICE DESK - HASTRI/Login 4 Role/input_Password_password'), 
     Password)
 
-WebUI.click(findTestObject('Object Repository/SERVICE DESK - HASTRI/Page_Modena Servicedesk/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/SERVICE DESK - HASTRI/Login 4 Role/span_Sign In'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/SERVICE DESK - HASTRI/Page_Modena Servicedesk/div_IT Service Desk MODENA'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/SERVICE DESK - HASTRI/Login 4 Role/div_IT Service Desk MODENA'))
 
 WebUI.closeBrowser()
 
