@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your DashboardA brief about the current_13ea30</name>
+   <tag></tag>
+   <elementGuidId>3ebd0d58-7ccd-4bc7-bfa8-e50db30bc0af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > div.card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your DashboardA brief about the current state of operationsNew Tickets0Incoming &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f79fac60-d94c-408c-a8f2-1ea8cdc46fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>eceec939-410e-4d6b-b4cf-687892d58182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your DashboardA brief about the current state of operationsNew Tickets0Incoming incidents and service requestsPending Tickets0Tickets needing third-party interventionsUnresolved Tickets0Incidents or requests not resolved/closed yetOverdue Tickets0Incidents or requests still needing help from agents</value>
+      <webElementGuid>1e43515b-42f4-4745-b34b-72e3d4f22b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[3]/div[@class=&quot;card&quot;]</value>
+      <webElementGuid>f236197e-d036-4b23-87a5-f52266b7255b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/section/div/div[3]/div</value>
+      <webElementGuid>0742b4be-05c9-4841-a3c1-abc771c6a063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='📁'])[10]/following::div[2]</value>
+      <webElementGuid>293f1dc0-a649-4b90-81cf-d1cf19508514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>991fc941-779e-4b53-9c29-2e3f80a26017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your DashboardA brief about the current state of operationsNew Tickets0Incoming incidents and service requestsPending Tickets0Tickets needing third-party interventionsUnresolved Tickets0Incidents or requests not resolved/closed yetOverdue Tickets0Incidents or requests still needing help from agents' or . = 'Your DashboardA brief about the current state of operationsNew Tickets0Incoming incidents and service requestsPending Tickets0Tickets needing third-party interventionsUnresolved Tickets0Incidents or requests not resolved/closed yetOverdue Tickets0Incidents or requests still needing help from agents')]</value>
+      <webElementGuid>5da1fcfa-a19b-4f4a-a571-41b2801e3213</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

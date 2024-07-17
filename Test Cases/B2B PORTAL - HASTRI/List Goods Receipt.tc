@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>List Goods Receipt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>addef365-6eb5-45f7-8597-7c5d405f609e</testCaseGuid>
+</TestCaseEntity>

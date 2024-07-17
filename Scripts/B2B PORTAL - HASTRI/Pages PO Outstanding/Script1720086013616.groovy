@@ -21,29 +21,41 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://b2b-dev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/input_Email Account_username'), 'hastri.danahiswari@modena.com')
+WebUI.setText(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/input_Email Account_username'), 'hastri.danahiswari@modena.com')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/select_-- Choose Your Company --PT Autosave'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/select_-- Choose Your Company --PT Autosave'), 
     '205', true)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/input_Password_password'), 
-    'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/input_Password_password'), Keys.chord(
-        Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/span_Login'))
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/span_keyboard_double_arrow_right'))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/span_keyboard_double_arrow_right'))
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/div'))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/div_Vendor'))
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/span_Goods Receipt'))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/span_Goods Receipt'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/select_Show 5Show 10Show 25Show 50Show 100'), 
-    '5', true)
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/div_Goods Receipt41'))
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/button_2'))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/td_PRCLN00001990624000189'))
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/i_navigate_before'))
+WebUI.setText(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/input_List Goods Receipt_search'), 'PR/CLN0000199/06/24/000189')
 
-WebUI.click(findTestObject('Object Repository/Pages PO Outstanding/Page_B2B Portal/i_navigate_next'))
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/div'))
+
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/i_hastri.danahiswarimodena.com_fas fa-arrow-left'))
+
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/div_Filter'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/select_Select fieldPR NumberPO NumberPO Dat_ce0b89'), 
+    'pr_number', true)
+
+WebUI.setText(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/input_Filter_filter_value'), 'PR/CLN0000199/06/24/000189')
+
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/i_Filter_fa fa-plus'))
+
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/i_PRCLN00001990624000189_fa fa-times'))
+
+WebUI.click(findTestObject('Object Repository/B2B PORTAL - HASTRI/Goods Receipt/Page_B2B Portal/i_Filter_fa fa-times'))
 

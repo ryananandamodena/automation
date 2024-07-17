@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_hastri.danahiswarimodena.com_fas fa-arrow-left</name>
+   <tag></tag>
+   <elementGuidId>2e3688f2-85dc-4366-9365-6aae65ec39f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div/form/section/div/div/div/div/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-arrow-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form[name=&quot;form-detail&quot;] i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5b0ddd61-9c22-4da7-9c6a-0cb05779243a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-arrow-left</value>
+      <webElementGuid>b38ed5f7-a927-4eda-8424-36381741b8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[1]/div[@class=&quot;content-wrapper&quot;]/form[1]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-header po-card-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-1&quot;]/i[@class=&quot;fas fa-arrow-left&quot;]</value>
+      <webElementGuid>35c9ad20-41d8-4c43-a7e0-7d3cc11e2bc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/form/section/div/div/div/div/div/div/div/div/i</value>
+      <webElementGuid>7b8fb0ee-3ccd-4f35-920a-cd9c5b095a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/i</value>
+      <webElementGuid>68641341-741c-4208-9a28-d8391858edae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

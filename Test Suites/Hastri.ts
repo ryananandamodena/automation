@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Hastri</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>cebdc4ae-5d94-4c46-88bf-710387abdc74</testSuiteGuid>
+   <testCaseLink>
+      <guid>c97c0a16-4b21-4fbd-8644-65b82438d08a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>e9719896-0bed-472f-9626-16f193c41944</id>
+         <masked>false</masked>
+         <name>Username</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/B2B PORTAL - HASTRI/Learn Grab Excel Data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>e9719896-0bed-472f-9626-16f193c41944</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>9400739c-8a33-4a22-847a-2041f33a0ad7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

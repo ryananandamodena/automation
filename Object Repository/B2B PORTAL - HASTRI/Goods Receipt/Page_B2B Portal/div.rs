@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>ddcd8cb2-99b3-486d-84f6-7eaa7f5a5741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_8339115']/div[3]/div/div/table/tbody/tr/td[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.rounded-circle > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 PR/CLN0000199/06/24/000189 PO/CLN0000199/06/24/000058 2024-06-12 2024-06-30 GR/CLN0000199/06/24/000008 2024-06-26 ANDALIRA CIPTA ABADI, PT. Testing PR Approved 2 Items for PO Sangalabror Pujianto Software Development Rp 155.500.000,00&quot;i] >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7dc275e-7e14-47ba-88a3-66a2fcbf95fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_8339115&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 mtable-container&quot;]/div[1]/table[@class=&quot;table table-condensed&quot;]/tbody[1]/tr[1]/td[@class=&quot;b2b-td&quot;]/div[1]/a[@class=&quot;rounded-circle&quot;]/div[1]</value>
+      <webElementGuid>b48286e9-2d0a-4997-ae35-59800399278a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_8339115']/div[3]/div/div/table/tbody/tr/td[2]/div/a/div</value>
+      <webElementGuid>a69b4081-940d-4b68-af75-33c79266ce2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Value'])[2]/following::div[2]</value>
+      <webElementGuid>b159d8cb-791a-4f6c-b9d4-b598b534683b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/following::div[3]</value>
+      <webElementGuid>c1b72fd9-7ae1-4e46-80d0-16348692b3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PR/CLN0000199/06/24/000189'])[1]/preceding::div[1]</value>
+      <webElementGuid>517e2485-ef05-432c-b01f-398fde2d76ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO/CLN0000199/06/24/000058'])[1]/preceding::div[1]</value>
+      <webElementGuid>0fd6be51-8e64-4244-bb0e-18c01a9ab5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a/div</value>
+      <webElementGuid>85f1fbe2-bd7a-4ce2-8979-dd438ec4f6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
