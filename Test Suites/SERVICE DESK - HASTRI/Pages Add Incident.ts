@@ -39,4 +39,23 @@
          <variableId>20d69282-c795-4f06-a149-d121df924a95</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>fef44e34-b122-43fb-bb23-9881647930aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/B2B PORTAL - HASTRI/Learn Grab Excel Data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e9719896-0bed-472f-9626-16f193c41944</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9400739c-8a33-4a22-847a-2041f33a0ad7</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

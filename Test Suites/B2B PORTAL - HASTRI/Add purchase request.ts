@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Add purchase request</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c34accd8-9067-4b7b-9c26-ec1553d45a12</testSuiteGuid>
+   <testCaseLink>
+      <guid>dd7e0357-b728-4b43-87fd-d7426d24e1f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/B2B PORTAL - HASTRI/Add Purchase Request</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e25b66be-15c2-4891-9768-39ac1fc7dff8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Hastri/Add Purchase Request</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>prneeddate</value>
+         <variableId>6bc0effb-2488-4c63-9acf-580285f4f262</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>shipping</value>
+         <variableId>17cca083-4f71-4856-9353-f06e24f3d4ef</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>summary</value>
+         <variableId>bf0103e8-a351-4560-b49c-a7408dab9075</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>request</value>
+         <variableId>d6aab474-3e4f-49df-9327-84e4def4b719</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quantity</value>
+         <variableId>a2dcb11b-472e-48ca-b214-60102778f196</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>specification</value>
+         <variableId>d01cffa7-b6b1-48bd-84c2-0ec09beebe8a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e25b66be-15c2-4891-9768-39ac1fc7dff8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>approval</value>
+         <variableId>5093f42c-a1d6-4f15-b3e8-bb5e594d86e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
