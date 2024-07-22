@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>picture</name>
+   <tag></tag>
+   <elementGuidId>ea5b8589-3f66-4fde-9ce3-4efd54e27ab8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='surveyPopup']/div/div/picture</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-survey_image.d-inline-block > picture</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Masukan Feedback&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>picture</value>
+      <webElementGuid>5caf3c24-7043-4f8d-b0ce-918a65ada644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;surveyPopup&quot;)/div[@class=&quot;text-center popup-survey_wrapper&quot;]/div[@class=&quot;popup-survey_image d-inline-block&quot;]/picture[1]</value>
+      <webElementGuid>a160f7ec-a45c-4d30-8392-ad7be7103494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='surveyPopup']/div/div/picture</value>
+      <webElementGuid>05432b1d-aa58-4c45-baad-ad47aeda3d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan'])[1]/following::picture[1]</value>
+      <webElementGuid>c87e4abf-5dfb-4558-ae92-da65162f8ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kunjungi Negara'])[1]/following::picture[1]</value>
+      <webElementGuid>6a8fb55b-b9bc-4232-ad02-6a9275af3958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Policy'])[1]/preceding::picture[1]</value>
+      <webElementGuid>a0e980e7-fc9a-4e0d-b07a-42682275263d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/preceding::picture[1]</value>
+      <webElementGuid>01e8e87b-4d64-40da-a5f3-3c5bef33ca90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/picture</value>
+      <webElementGuid>b152bb48-3ad7-4c74-b1fa-d478a49b26e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DD 7302 ZDOA_div-products-item</name>
+   <tag></tag>
+   <elementGuidId>f78aec0f-b157-4e60-9eeb-8769a8c68f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.div-products-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.div-products-item</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06520231-0c3a-4acd-ad6d-5e0eb712e136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-products-item</value>
+      <webElementGuid>992441fd-ecdb-4092-aa50-35e138c22675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;widget-hide&quot;]/div[@class=&quot;content-page-modena&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-cart&quot;]/div[@class=&quot;row align-items-start&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;card-products&quot;]/div[@class=&quot;div-products position-relative&quot;]/div[@class=&quot;div-products-item&quot;]</value>
+      <webElementGuid>f47c6c1e-aa37-4ad8-8f58-e46954c52865</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div</value>
+      <webElementGuid>6535e2be-806c-452c-86af-2abc709af7a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
