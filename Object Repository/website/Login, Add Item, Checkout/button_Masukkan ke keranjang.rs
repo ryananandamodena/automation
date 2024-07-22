@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masukkan ke keranjang</name>
+   <tag></tag>
+   <elementGuidId>00014071-dd4c-4987-8cdd-a7dfd2120718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--transparant.add-to-cart.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Masukkan ke keranjang&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48840827-0d27-49cc-bb40-dac719dc7a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c52ca467-e7b4-4a30-9d1d-ba0d29b1fde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--transparant add-to-cart mr-2</value>
+      <webElementGuid>898003dd-7b2d-4bff-94cb-cd64e5f62eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan ke keranjang</value>
+      <webElementGuid>03901710-415a-4162-a9d7-a66f275bb66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;widget-hide&quot;]/div[@class=&quot;content-page-modena&quot;]/div[@class=&quot;product-detail&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-cart&quot;]/div[@class=&quot;row align-items-start&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 action-product my-2&quot;]/div[@class=&quot;row have-stock&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-none d-md-inline-block mb-2&quot;]/button[@class=&quot;button--transparant add-to-cart mr-2&quot;]</value>
+      <webElementGuid>56acf040-f2ee-46dd-996f-1b1868ba8de7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>80e560c8-6652-4905-821f-9c5fd91d9cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 21.250.000'])[1]/following::button[3]</value>
+      <webElementGuid>165dbdac-76af-4743-8765-ab7ffb335565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BY 3943 BABK'])[2]/following::button[3]</value>
+      <webElementGuid>02c4685c-9ce7-4606-8525-cad1cb2788ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>a06d7bd0-69ea-4744-99cf-af96da1e338a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan ke keranjang']/parent::*</value>
+      <webElementGuid>41f45198-e450-4df8-a0e3-033d272bc2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>912a0cff-e7f3-4e94-9915-d05c64b52d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Masukkan ke keranjang' or . = 'Masukkan ke keranjang')]</value>
+      <webElementGuid>78057b22-610b-4514-b964-5a28cbe2daf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
