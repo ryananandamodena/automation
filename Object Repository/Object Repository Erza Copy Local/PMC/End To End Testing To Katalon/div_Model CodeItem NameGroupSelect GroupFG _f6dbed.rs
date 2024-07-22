@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Model CodeItem NameGroupSelect GroupFG _f6dbed</name>
+   <tag></tag>
+   <elementGuidId>371eba15-9496-4fd6-ab96-147089a25a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]/div[3]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1af8f157-9ec7-4b4c-97b3-8bffb6a0e9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3</value>
+      <webElementGuid>31a27425-49d9-465c-a422-5a6af6bc7083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial Number</value>
+      <webElementGuid>497f6ed2-3663-408c-9071-54adae729976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;form-create-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]</value>
+      <webElementGuid>8a97d3c9-9d43-403d-bed9-fb5ea0aa0b72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]/div[3]/div[4]</value>
+      <webElementGuid>0c9fdae7-1a34-4564-a9b2-3c4c1e20e27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barcode EAN-13'])[1]/following::div[3]</value>
+      <webElementGuid>4922f889-33d2-4a81-9f95-ff76e45dcfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scale'])[1]/following::div[4]</value>
+      <webElementGuid>9a250ed6-e4bb-4687-bef8-00ec1bcd9f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>aaf3da20-e3a7-4ba4-a8a8-fd37b81d30be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial Number' or . = 'Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial Number')]</value>
+      <webElementGuid>c94574ff-086a-4c1b-9d23-190850dc09e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

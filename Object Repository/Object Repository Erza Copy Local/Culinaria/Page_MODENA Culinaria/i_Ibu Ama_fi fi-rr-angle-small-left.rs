@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Ibu Ama_fi fi-rr-angle-small-left</name>
+   <tag></tag>
+   <elementGuidId>244b6351-305b-4013-bcaf-5b835abf029e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='ourChef']/div/div[2]/div/div[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi.fi-rr-angle-small-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ourChef >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>41c77ab4-ecb3-46cf-8e0a-5026e232c4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-angle-small-left</value>
+      <webElementGuid>d414a1c7-1166-4f03-8907-4c2b2941dcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ourChef&quot;)/div[@class=&quot;container mb-0 mb-lg-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col aos-init aos-animate&quot;]/div[@class=&quot;block-chef-right&quot;]/div[@class=&quot;slider-chefs slick-initialized slick-slider slick-dotted&quot;]/button[@class=&quot;slick-prev slick-arrow&quot;]/i[@class=&quot;fi fi-rr-angle-small-left&quot;]</value>
+      <webElementGuid>60aef75f-eead-40ba-ad0f-fbd163a5e97c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='ourChef']/div/div[2]/div/div[2]/div/button/i</value>
+      <webElementGuid>a5d17cab-b0db-4062-b14c-2f03ba4c4570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>92cf7ad3-6666-4d0b-aee5-181b0cb28576</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

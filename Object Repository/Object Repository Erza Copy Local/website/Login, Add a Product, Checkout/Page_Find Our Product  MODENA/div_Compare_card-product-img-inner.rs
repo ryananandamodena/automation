@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Compare_card-product-img-inner</name>
+   <tag></tag>
+   <elementGuidId>e166efd2-71cb-4b97-bab8-70df24929197</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-data']/div[2]/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .card-product > .card-body > .card-product-photos > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d745b47-ab7d-4f42-90a1-8f0b3e5561cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-product-img-inner</value>
+      <webElementGuid>ccaae01a-2e19-4fd5-88cf-46db1b6256cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-data&quot;)/div[@class=&quot;col-6 col-sm-6 col-md-6 col-lg-4&quot;]/div[@class=&quot;card-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card-product-photos&quot;]/a[1]/div[@class=&quot;card-product-img-inner&quot;]</value>
+      <webElementGuid>d7b31b36-6b06-4b6c-880d-7b948f6a3348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-data']/div[2]/div/div/div/a/div</value>
+      <webElementGuid>6bb70317-79b6-4ab4-affb-4a02e6732095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/div</value>
+      <webElementGuid>a1f2c9bb-1be8-4d1d-a79f-31ed33acfb25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

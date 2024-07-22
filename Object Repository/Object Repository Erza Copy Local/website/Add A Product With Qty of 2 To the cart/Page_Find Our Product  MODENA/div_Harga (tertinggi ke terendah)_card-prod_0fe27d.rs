@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Harga (tertinggi ke terendah)_card-prod_0fe27d</name>
+   <tag></tag>
+   <elementGuidId>ecad3cdf-c356-432b-8bea-06e974a17af8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-data']/div/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-product-img-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.card-product-photos > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5206b167-3679-43f7-b982-5a32b2306056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-product-img-inner</value>
+      <webElementGuid>473c1e34-614a-4a2c-905f-705b145afbf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-data&quot;)/div[@class=&quot;col-6 col-sm-6 col-md-6 col-lg-4&quot;]/div[@class=&quot;card-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card-product-photos&quot;]/a[1]/div[@class=&quot;card-product-img-inner&quot;]</value>
+      <webElementGuid>4a35bc84-bac7-4020-9248-230ee1472620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-data']/div/div/div/div/a/div</value>
+      <webElementGuid>aa4101da-d9a2-48ec-82b1-7fd4bb186951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/a/div</value>
+      <webElementGuid>1242b327-1ff2-4c92-9dee-6d798665de17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

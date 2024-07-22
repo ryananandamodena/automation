@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit, Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d45c1579-cc25-4a5e-af88-984cbe20de62</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0226878-9523-43d3-bf39-1f6c8ca5fb4e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4801c63-4b2c-4e1d-b15c-f63353523728</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>800553f5-7cf3-4e8b-8f09-8ac5e0a5bb6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0226878-9523-43d3-bf39-1f6c8ca5fb4e</id>
+      <masked>false</masked>
+      <name>UsernameEdit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4801c63-4b2c-4e1d-b15c-f63353523728</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>800553f5-7cf3-4e8b-8f09-8ac5e0a5bb6a</id>
+      <masked>false</masked>
+      <name>UsernameApprove</name>
+   </variable>
+</TestCaseEntity>

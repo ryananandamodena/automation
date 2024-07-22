@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select GroupGroup 1Group 2Group 3Group 4</name>
+   <tag></tag>
+   <elementGuidId>aace64d3-7f31-40a1-8876-33f774b85ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='groupId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;groupId&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;groupId&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>be1e0246-2873-4cc5-9400-fb5e6e010479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>groupId</value>
+      <webElementGuid>32de9309-6e94-48b6-a892-b9e8ddf46314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select GroupGroup 1Group 2Group 3Group 4</value>
+      <webElementGuid>7ad603c4-6410-4397-97cf-6eab1dd36a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ListPLTS_content_position__qPAoX row&quot;]/form[@class=&quot;ListPLTS_form__rj8dx&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/select[1]</value>
+      <webElementGuid>b5386a01-7d23-46b9-bc09-6bb214e4e4bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='groupId']</value>
+      <webElementGuid>44d5b983-d806-462b-84b6-f595e5a928c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/form/div/div[2]/select</value>
+      <webElementGuid>a7602ea0-b5ce-467b-8e2e-2202f9486c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Group'])[1]/following::select[1]</value>
+      <webElementGuid>ed8ac31a-1339-41e2-8085-bb94592cd26a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date of Safe Running'])[1]/following::select[1]</value>
+      <webElementGuid>cd5eba01-b1ce-47a9-a154-fd645e8b46f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EV Charger Only Plant'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb6f74cd-f3fb-43f9-aa3d-807f0504a860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>e28a334f-5745-48b1-82fe-bdbf29847b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>1da4ced9-cc94-4c06-81e1-4186b3c4aa38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'groupId' and (text() = 'Select GroupGroup 1Group 2Group 3Group 4' or . = 'Select GroupGroup 1Group 2Group 3Group 4')]</value>
+      <webElementGuid>da0715bb-cb25-4d4c-9f5b-88db9b57803a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
