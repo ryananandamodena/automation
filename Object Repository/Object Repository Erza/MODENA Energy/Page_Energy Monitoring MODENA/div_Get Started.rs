@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get Started</name>
+   <tag></tag>
+   <elementGuidId>c0137afa-ec3c-4673-a42b-a6f6c2feb3b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SplashScreen_button_style__lIxHz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Get Started&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b1fa662-b83e-4bb2-8af2-49239eccd7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SplashScreen_button_style__lIxHz</value>
+      <webElementGuid>92bdecc0-9fc0-4785-8312-5ff796b6524d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Started</value>
+      <webElementGuid>958c7482-33e0-4072-9a2e-83962940cf7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;mobile-wrapper&quot;]/div[@class=&quot;SplashScreen_wrap__zTQ5X&quot;]/div[3]/div[@class=&quot;SplashScreen_bottom_section__3-1sD&quot;]/div[@class=&quot;splash-screen-bottom-center&quot;]/div[@class=&quot;SplashScreen_wrap_button__1utQ8&quot;]/div[@class=&quot;SplashScreen_button_style__lIxHz&quot;]</value>
+      <webElementGuid>6446bc5c-fd0a-4898-b03d-a22c6c2ad4c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div[3]/div</value>
+      <webElementGuid>48b62ef6-44b7-47c5-b161-ac518e9f1ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Real time plant monitoring.'])[1]/following::div[2]</value>
+      <webElementGuid>2ad8d46a-d6f3-4c22-a70c-feeb353128f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Started']/parent::*</value>
+      <webElementGuid>f19bb7be-ea28-4aeb-aab9-aa2ea27dd647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div</value>
+      <webElementGuid>04b5dae0-04bd-4bb2-9cd7-425276a58b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get Started' or . = 'Get Started')]</value>
+      <webElementGuid>64c3ec1f-e42e-41d6-a540-76e5fbee117e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

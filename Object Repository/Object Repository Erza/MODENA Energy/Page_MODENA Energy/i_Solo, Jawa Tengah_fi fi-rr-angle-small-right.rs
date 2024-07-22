@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Solo, Jawa Tengah_fi fi-rr-angle-small-right</name>
+   <tag></tag>
+   <elementGuidId>4ac3441a-6fca-4d25-b66d-bb925cb898d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#next-portofolio > i.fi.fi-rr-angle-small-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next-portofolio']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#next-portofolio</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>55f648a7-cce6-4ae7-8984-6758792f37bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-angle-small-right</value>
+      <webElementGuid>cfdf79d8-b488-46a6-95cd-caa96209b3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next-portofolio&quot;)/i[@class=&quot;fi fi-rr-angle-small-right&quot;]</value>
+      <webElementGuid>9f05e1cb-af0d-4030-bf1d-fa9407941244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='next-portofolio']/i</value>
+      <webElementGuid>cdc65cf5-8343-455b-86d0-2c0c755c7f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div/button[2]/i</value>
+      <webElementGuid>0932f654-278f-49bd-b46a-50f47267c35a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
