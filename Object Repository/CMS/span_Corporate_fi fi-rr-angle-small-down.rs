@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corporate_fi fi-rr-angle-small-down</name>
+   <tag></tag>
+   <elementGuidId>d1a31952-b0d7-4c1a-a114-95198cb3f024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Corporate Deactive Edit Delete&quot;i >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>606266ac-04f2-4c97-aa80-eaa006629565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-angle-small-down</value>
+      <webElementGuid>5709bdc8-0221-4d4c-bcd7-320e0a3c4c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;section&quot;]/div[2]/ul[@class=&quot;sortable parent ui-sortable&quot;]/li[@class=&quot;ui-sortable-handle&quot;]/span[@class=&quot;wrapper&quot;]/a[@class=&quot;toggleDropdown&quot;]/span[@class=&quot;fi fi-rr-angle-small-down&quot;]</value>
+      <webElementGuid>b77c1ca0-2bb3-4e90-ad26-439c9d4f898f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span/a/span</value>
+      <webElementGuid>5387c0bc-2d8d-4a1a-93a3-db3fca061703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span/a/span</value>
+      <webElementGuid>d9bfb043-ecfc-450a-b4f5-7a001abbcafd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

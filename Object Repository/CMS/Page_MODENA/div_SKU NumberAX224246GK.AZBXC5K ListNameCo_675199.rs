@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SKU NumberAX224246GK.AZBXC5K ListNameCo_675199</name>
+   <tag></tag>
+   <elementGuidId>3a2c6bb8-d66c-4963-b866-2ff349b0f55d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SKU NumberAX224246GK.AZBXC5K ListNameCodeSelect Code0123456789Subcategory Prefix&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b559272-29c0-4996-a1c3-b82953a50520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>7cdf27ba-3b00-446d-a016-c7d1c1f4b794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SKU NumberAX224246GK.AZBXC5K ListNameCodeSelect Code0123456789Subcategory PrefixSelect Subcategory PrefixCUWSAXBABBBZWRIXEIIMROAFMOCXFTFUUCURPCSISTICSBMXBTBIWBKTLVHPGIVCMVCGDFSOWWMPMGZCFFHMPVMDFCBXZQDCBHBDSMAOCFMCBOZWPDWCTRSLBEBWSCVMWFSWDXCSDAMRJCTCPZOCGTSGSHTHBRSDCDCCRFUFTVPRPBBVBKPHAUCPBUHSZYSEBCCRRCSSRASXSPSACOCABLZOBYPTIVKSBMZFBPGRVBWDDDWPEVCMPIAPEDWTRVWEMKESZURXZKDGGMPXEXBrandSelect BrandHONDATOYOTAENERGYMODENA ProfessionalDOMOMODENASegmentSelect SegmentSanitaryHVAC - HVCEnergyProfessionalHome AppliancesCategorySelect Categorytest categorytestLimited EditionSanitaryProfessionalHVACEnergyCleaningCoolingCookingSubcategorySelect SubcategoryBBQ BurnerHobTelevisionBlast Freezer &amp; ChillerChest FreezerDisney SeriesDeep FryerHoodFreestanding CookerGas Burner TopOvenCounter ChillerMicrowave OvenCounter FreezerTapSmall AppliancesCookwareRefrigeratorWine CoolerWater PurifierWater DispenserSink-TapSmall ApplianceDishwasherSterilizer DryerUpright ChillerWashing MachineStainless Steel Upright FreezerDryerWater HeaterVacuum CleanerSpin MopProfessional CoolingProfessional CookingProfessional BakeryResidential ACCommercial ACAir CoolerAir PurifierSolar PadSolar BeamInverterMounting PVCable DCCable ACEV ChargingSolar BatteryBathroom SanitaryBathroom FittingSub - SubcategorySelect Sub - SubcategoryDowndraft HoodBuilt in HoodIsland Lamp HoodIsland Chimney HoodWall Slanted HoodWall Chimney HoodPurifier Slim HoodSlim HoodSlim HoodSlim HoodProduct SeriesSelect SeriesMODENAActivePublish WebColorSelect ColorBlackBlack GlassBlack MagmaBlack StainlessBlueBrownChromeDark GreyDark SteelElementoGlass BlackGlass WhiteGoldGold BlackGreenGreen Young GreyGun MetalINOXMatte BlackMercury GreyOrangePinkPINKcorRedSatinSatin StainlessSilverStainlesstestqTitanium SIlverTricoloreTurquoiseVioletWhiteWhite PolarisYellowCountrySelect CountryAfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamas TheBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D'Ivoire (Ivory Coast)CroatiaCubaCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFiji IslandsFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambia TheGeorgiagermanGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernsey and AlderneyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong Kong S.A.R.HungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau S.A.R.MacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMan (Isle of)Marshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua new GuineaParaguayPeruPhilippinesPitcairn IslandPolandPortugalPuerto RicoQatarReunionRomaniaRussiaRwandaSaint-BarthelemySaint HelenaSaint Kitts And NevisSaint LuciaSaint-Martin (French part)Saint Pierre and MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSolevenia cekoSouth KoreaUnited Arab EmiratesCertificateSelect CertificateNo certificationSNIRoHS, ECAS, GCCSIRIM MalaysiaEAC2RoHS, ECASElectrical RatingSelect Electrical Rating220V~50Hz220V~60Hz240V~60Hz110V~50Hz110V~60Hz110-240V~50Hz110-240V~60Hz380V~50Hz240V~50HzNon-electric110V~90Hz220V-240V~50/60HzD BatteryAssemblySelect AssemblyCBUCKDSKDOriginal Item (SKU)Product Class Manage Manage Serial NumberPart Change SequenceSelect Part Change Sequence0123456789Part Change LocationSelect Part Change LocationOriginalMechanicalElectricalStructureFunctionDoorCaseGlassCompressorMotorPumpBurner assysecondaryLEDUnitSelect UnitUNITSeriesScaleBarcode EAN-13Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial NumberProduct DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Volume (kgv) Thickness (mm) Weight Weight Unit Select Weight TypeGramKGPackage DimensionOuter Height (mm) Outer Width (mm) Outer Length (mm) Outer Depth (mm) Outer Weight (kg) Cut Out DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Topmount Cut Out DimensionHeight (mm) Width (mm) Length (mm) Undermount Cut Out DimensionHeight (mm) Width (mm) Length (mm) </value>
+      <webElementGuid>76cb3fbc-dc68-4c9c-bd00-7409383593a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;form-create-product&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>513dfa24-aaa6-40ab-905e-c8421cc207c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]</value>
+      <webElementGuid>484f31b6-7e1f-40bd-a50e-6498778a0462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Product'])[3]/following::div[5]</value>
+      <webElementGuid>5dbfe0bb-64cb-4211-b146-56c996fe6937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Product'])[2]/following::div[12]</value>
+      <webElementGuid>b3cb6814-7653-4692-915a-bf18e5038478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>c33e1b66-5fea-4404-a7bf-69af89271e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;SKU NumberAX224246GK.AZBXC5K ListNameCodeSelect Code0123456789Subcategory PrefixSelect Subcategory PrefixCUWSAXBABBBZWRIXEIIMROAFMOCXFTFUUCURPCSISTICSBMXBTBIWBKTLVHPGIVCMVCGDFSOWWMPMGZCFFHMPVMDFCBXZQDCBHBDSMAOCFMCBOZWPDWCTRSLBEBWSCVMWFSWDXCSDAMRJCTCPZOCGTSGSHTHBRSDCDCCRFUFTVPRPBBVBKPHAUCPBUHSZYSEBCCRRCSSRASXSPSACOCABLZOBYPTIVKSBMZFBPGRVBWDDDWPEVCMPIAPEDWTRVWEMKESZURXZKDGGMPXEXBrandSelect BrandHONDATOYOTAENERGYMODENA ProfessionalDOMOMODENASegmentSelect SegmentSanitaryHVAC - HVCEnergyProfessionalHome AppliancesCategorySelect Categorytest categorytestLimited EditionSanitaryProfessionalHVACEnergyCleaningCoolingCookingSubcategorySelect SubcategoryBBQ BurnerHobTelevisionBlast Freezer &amp; ChillerChest FreezerDisney SeriesDeep FryerHoodFreestanding CookerGas Burner TopOvenCounter ChillerMicrowave OvenCounter FreezerTapSmall AppliancesCookwareRefrigeratorWine CoolerWater PurifierWater DispenserSink-TapSmall ApplianceDishwasherSterilizer DryerUpright ChillerWashing MachineStainless Steel Upright FreezerDryerWater HeaterVacuum CleanerSpin MopProfessional CoolingProfessional CookingProfessional BakeryResidential ACCommercial ACAir CoolerAir PurifierSolar PadSolar BeamInverterMounting PVCable DCCable ACEV ChargingSolar BatteryBathroom SanitaryBathroom FittingSub - SubcategorySelect Sub - SubcategoryDowndraft HoodBuilt in HoodIsland Lamp HoodIsland Chimney HoodWall Slanted HoodWall Chimney HoodPurifier Slim HoodSlim HoodSlim HoodSlim HoodProduct SeriesSelect SeriesMODENAActivePublish WebColorSelect ColorBlackBlack GlassBlack MagmaBlack StainlessBlueBrownChromeDark GreyDark SteelElementoGlass BlackGlass WhiteGoldGold BlackGreenGreen Young GreyGun MetalINOXMatte BlackMercury GreyOrangePinkPINKcorRedSatinSatin StainlessSilverStainlesstestqTitanium SIlverTricoloreTurquoiseVioletWhiteWhite PolarisYellowCountrySelect CountryAfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamas TheBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D&quot; , &quot;'&quot; , &quot;Ivoire (Ivory Coast)CroatiaCubaCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFiji IslandsFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambia TheGeorgiagermanGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernsey and AlderneyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong Kong S.A.R.HungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau S.A.R.MacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMan (Isle of)Marshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua new GuineaParaguayPeruPhilippinesPitcairn IslandPolandPortugalPuerto RicoQatarReunionRomaniaRussiaRwandaSaint-BarthelemySaint HelenaSaint Kitts And NevisSaint LuciaSaint-Martin (French part)Saint Pierre and MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSolevenia cekoSouth KoreaUnited Arab EmiratesCertificateSelect CertificateNo certificationSNIRoHS, ECAS, GCCSIRIM MalaysiaEAC2RoHS, ECASElectrical RatingSelect Electrical Rating220V~50Hz220V~60Hz240V~60Hz110V~50Hz110V~60Hz110-240V~50Hz110-240V~60Hz380V~50Hz240V~50HzNon-electric110V~90Hz220V-240V~50/60HzD BatteryAssemblySelect AssemblyCBUCKDSKDOriginal Item (SKU)Product Class Manage Manage Serial NumberPart Change SequenceSelect Part Change Sequence0123456789Part Change LocationSelect Part Change LocationOriginalMechanicalElectricalStructureFunctionDoorCaseGlassCompressorMotorPumpBurner assysecondaryLEDUnitSelect UnitUNITSeriesScaleBarcode EAN-13Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial NumberProduct DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Volume (kgv) Thickness (mm) Weight Weight Unit Select Weight TypeGramKGPackage DimensionOuter Height (mm) Outer Width (mm) Outer Length (mm) Outer Depth (mm) Outer Weight (kg) Cut Out DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Topmount Cut Out DimensionHeight (mm) Width (mm) Length (mm) Undermount Cut Out DimensionHeight (mm) Width (mm) Length (mm) &quot;) or . = concat(&quot;SKU NumberAX224246GK.AZBXC5K ListNameCodeSelect Code0123456789Subcategory PrefixSelect Subcategory PrefixCUWSAXBABBBZWRIXEIIMROAFMOCXFTFUUCURPCSISTICSBMXBTBIWBKTLVHPGIVCMVCGDFSOWWMPMGZCFFHMPVMDFCBXZQDCBHBDSMAOCFMCBOZWPDWCTRSLBEBWSCVMWFSWDXCSDAMRJCTCPZOCGTSGSHTHBRSDCDCCRFUFTVPRPBBVBKPHAUCPBUHSZYSEBCCRRCSSRASXSPSACOCABLZOBYPTIVKSBMZFBPGRVBWDDDWPEVCMPIAPEDWTRVWEMKESZURXZKDGGMPXEXBrandSelect BrandHONDATOYOTAENERGYMODENA ProfessionalDOMOMODENASegmentSelect SegmentSanitaryHVAC - HVCEnergyProfessionalHome AppliancesCategorySelect Categorytest categorytestLimited EditionSanitaryProfessionalHVACEnergyCleaningCoolingCookingSubcategorySelect SubcategoryBBQ BurnerHobTelevisionBlast Freezer &amp; ChillerChest FreezerDisney SeriesDeep FryerHoodFreestanding CookerGas Burner TopOvenCounter ChillerMicrowave OvenCounter FreezerTapSmall AppliancesCookwareRefrigeratorWine CoolerWater PurifierWater DispenserSink-TapSmall ApplianceDishwasherSterilizer DryerUpright ChillerWashing MachineStainless Steel Upright FreezerDryerWater HeaterVacuum CleanerSpin MopProfessional CoolingProfessional CookingProfessional BakeryResidential ACCommercial ACAir CoolerAir PurifierSolar PadSolar BeamInverterMounting PVCable DCCable ACEV ChargingSolar BatteryBathroom SanitaryBathroom FittingSub - SubcategorySelect Sub - SubcategoryDowndraft HoodBuilt in HoodIsland Lamp HoodIsland Chimney HoodWall Slanted HoodWall Chimney HoodPurifier Slim HoodSlim HoodSlim HoodSlim HoodProduct SeriesSelect SeriesMODENAActivePublish WebColorSelect ColorBlackBlack GlassBlack MagmaBlack StainlessBlueBrownChromeDark GreyDark SteelElementoGlass BlackGlass WhiteGoldGold BlackGreenGreen Young GreyGun MetalINOXMatte BlackMercury GreyOrangePinkPINKcorRedSatinSatin StainlessSilverStainlesstestqTitanium SIlverTricoloreTurquoiseVioletWhiteWhite PolarisYellowCountrySelect CountryAfghanistanAland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamas TheBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D&quot; , &quot;'&quot; , &quot;Ivoire (Ivory Coast)CroatiaCubaCyprusCzech RepublicDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFiji IslandsFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambia TheGeorgiagermanGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernsey and AlderneyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong Kong S.A.R.HungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau S.A.R.MacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMan (Isle of)Marshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth KoreaNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua new GuineaParaguayPeruPhilippinesPitcairn IslandPolandPortugalPuerto RicoQatarReunionRomaniaRussiaRwandaSaint-BarthelemySaint HelenaSaint Kitts And NevisSaint LuciaSaint-Martin (French part)Saint Pierre and MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSolevenia cekoSouth KoreaUnited Arab EmiratesCertificateSelect CertificateNo certificationSNIRoHS, ECAS, GCCSIRIM MalaysiaEAC2RoHS, ECASElectrical RatingSelect Electrical Rating220V~50Hz220V~60Hz240V~60Hz110V~50Hz110V~60Hz110-240V~50Hz110-240V~60Hz380V~50Hz240V~50HzNon-electric110V~90Hz220V-240V~50/60HzD BatteryAssemblySelect AssemblyCBUCKDSKDOriginal Item (SKU)Product Class Manage Manage Serial NumberPart Change SequenceSelect Part Change Sequence0123456789Part Change LocationSelect Part Change LocationOriginalMechanicalElectricalStructureFunctionDoorCaseGlassCompressorMotorPumpBurner assysecondaryLEDUnitSelect UnitUNITSeriesScaleBarcode EAN-13Model CodeItem NameGroupSelect GroupFG - HOME APPLIANCEFG - PROFESSIONALSupplier CodeLaunch DateSerial NumberProduct DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Volume (kgv) Thickness (mm) Weight Weight Unit Select Weight TypeGramKGPackage DimensionOuter Height (mm) Outer Width (mm) Outer Length (mm) Outer Depth (mm) Outer Weight (kg) Cut Out DimensionHeight (mm) Width (mm) Length (mm) Depth (mm) Topmount Cut Out DimensionHeight (mm) Width (mm) Length (mm) Undermount Cut Out DimensionHeight (mm) Width (mm) Length (mm) &quot;))]</value>
+      <webElementGuid>7df6e19d-73d1-4832-8c9b-c280d4019a2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
