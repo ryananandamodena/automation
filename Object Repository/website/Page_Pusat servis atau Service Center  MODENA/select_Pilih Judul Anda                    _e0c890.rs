@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Judul Anda                    _e0c890</name>
+   <tag></tag>
+   <elementGuidId>9992642c-c739-480a-a596-5d9126273ece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='title_code']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#title_code</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#title_code</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cdc89339-24ac-471e-a671-d3f8f8dda6c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-select form-control</value>
+      <webElementGuid>8240aee7-ea39-43be-bedd-898400341284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>title_code</value>
+      <webElementGuid>7fc9162e-22db-4320-b7c9-0b15cf2ffd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title_code</value>
+      <webElementGuid>c4f41e73-d7fb-4120-86bc-b7da6e8efd79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Pilih Judul Anda
+                                                Mr
+                                                Mrs
+                                                Dealer
+                                            </value>
+      <webElementGuid>6d442daa-a455-4331-9531-ea027a5a46ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title_code&quot;)</value>
+      <webElementGuid>befbda0a-0fe2-4bd8-96dd-34528e0d92c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='title_code']</value>
+      <webElementGuid>5c48f441-651b-40ce-978f-fceb6fb7b202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tradein-form']/div/div/div/select</value>
+      <webElementGuid>c0a21858-220c-4b38-a3a0-b444432564a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>6834ba0a-7bf0-4340-be0f-07a4174f4241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>add47a70-2067-4767-8b12-7630f856fde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/select</value>
+      <webElementGuid>83c96925-2bbb-4049-a7c6-0f18127a1b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'title_code' and @id = 'title_code' and (text() = '
+                                                Pilih Judul Anda
+                                                Mr
+                                                Mrs
+                                                Dealer
+                                            ' or . = '
+                                                Pilih Judul Anda
+                                                Mr
+                                                Mrs
+                                                Dealer
+                                            ')]</value>
+      <webElementGuid>1028137a-5bfe-4632-b64f-abf3c5650f26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
