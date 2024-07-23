@@ -5,4 +5,43 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>015ff3e8-37e1-498e-9a3c-a54b766f21dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88e46f2b-47c0-4349-b162-50e84d5798cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa5b7280-16cb-4850-9e7d-72695a5a6c32</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03f0d02f-1e18-44e5-bd19-c64be60c942b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88e46f2b-47c0-4349-b162-50e84d5798cf</id>
+      <masked>false</masked>
+      <name>DisplayName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa5b7280-16cb-4850-9e7d-72695a5a6c32</id>
+      <masked>false</masked>
+      <name>Width</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03f0d02f-1e18-44e5-bd19-c64be60c942b</id>
+      <masked>false</masked>
+      <name>DisplayCode</name>
+   </variable>
 </TestCaseEntity>
