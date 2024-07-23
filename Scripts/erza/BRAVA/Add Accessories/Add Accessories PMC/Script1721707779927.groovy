@@ -37,25 +37,23 @@ WebUI.click(findTestObject('Object Repository/Page_Part - CSMS/center_Rp. 144.50
 
 WebUI.click(findTestObject('Object Repository/Page_Part - CSMS/button_Update Skow'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Display Name_dsp_name'), DisplayName)
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Display Name_dsp_name'), DisplayCode)
 
 WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Display Code_dsp_code'), DisplayCode)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/textarea_Acc. Info_accs_info'), '2342')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/textarea_Acc. Info_accs_info'), 'test')
 
 WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_W_dim_d'), Width)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_D_dim_w'), '234234')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_D_dim_w'), Diameter)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_H_dim_h'), '23')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_H_dim_h'), Height)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Diameter_part_diameter'), '23')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Diameter_part_diameter'), DiameterPart)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Weight_part_weight'), '23')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/input_Weight_part_weight'), Weight)
 
-WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/textarea_Description_description'), 'test')
+WebUI.setText(findTestObject('Object Repository/Page_Part - CSMS/textarea_Description_description'), Description)
 
 WebUI.click(findTestObject('Object Repository/Page_Part - CSMS/input_Description_btn_save'))
-
-WebUI.closeBrowser()
 

@@ -10,39 +10,75 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>849e02fa-0eb0-4ac9-b4ab-2785de15ecc0</testSuiteGuid>
+   <testSuiteGuid>b15a9c6c-3ca6-49fe-95d8-b0a2275d5f2c</testSuiteGuid>
    <testCaseLink>
-      <guid>7adf4be3-eab1-4316-a68b-d6570a294756</guid>
+      <guid>da8e95ad-35b7-4720-93db-3084905e219d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/erza/BRAVA/Add Accessories/Add Accessories</testCaseId>
+      <testCaseId>Test Cases/erza/BRAVA/Add Accessories/Add Accessories PMC</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>48cc8eec-a914-4ff3-82c4-6f32ff331bd1</id>
+         <id>62e6f252-749c-4647-98dd-f7553514d3e5</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Erza/Add Accessories</testDataId>
+         <testDataId>Data Files/Erza/Add Accessories PMC</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>48cc8eec-a914-4ff3-82c4-6f32ff331bd1</testDataLinkId>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>DisplayName</value>
          <variableId>88e46f2b-47c0-4349-b162-50e84d5798cf</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>48cc8eec-a914-4ff3-82c4-6f32ff331bd1</testDataLinkId>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Width</value>
          <variableId>aa5b7280-16cb-4850-9e7d-72695a5a6c32</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>48cc8eec-a914-4ff3-82c4-6f32ff331bd1</testDataLinkId>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>DisplayCode</value>
          <variableId>03f0d02f-1e18-44e5-bd19-c64be60c942b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AccInfo</value>
+         <variableId>49e3c28e-d409-47ec-a855-544915491f9a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Diameter</value>
+         <variableId>0776f530-898c-470b-b1e6-506cccc405eb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Height</value>
+         <variableId>905db6ab-ddce-4989-a39e-e006fe863ae1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DiameterPart</value>
+         <variableId>752f74a4-75b8-42f5-b8a8-d74ddd62bb17</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Weight</value>
+         <variableId>e07d6643-00b7-405a-8514-bb4319b3115b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62e6f252-749c-4647-98dd-f7553514d3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>9d27cc84-cf1c-4bd3-a5c7-b00630904e10</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
