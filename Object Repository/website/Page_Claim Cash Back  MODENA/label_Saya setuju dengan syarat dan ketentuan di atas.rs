@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Saya setuju dengan syarat dan ketentuan di atas</name>
+   <tag></tag>
+   <elementGuidId>8b2b57bd-47a8-4b64-9a52-b32e2aa84483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-ciao-claim-cashback']/div/div[6]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Saya setuju dengan syarat dan ketentuan di atas.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>aca0e46d-6ae7-45a7-b542-8cdf289e06b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>a1f5018a-89c4-40c2-8a6d-f17ecb8accb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>d9d9f61e-65a0-4339-9568-13a130eb92de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya setuju dengan syarat dan ketentuan di atas.</value>
+      <webElementGuid>3364213f-13ff-4818-bdcc-e7a1ccd478c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-ciao-claim-cashback&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mb-3 mb-md-5&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-3 form-check&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>3ce95a8d-6ebd-4a9f-96f7-21d199f883b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-ciao-claim-cashback']/div/div[6]/div/div/label</value>
+      <webElementGuid>20e39fae-f256-43ad-9c6a-95aee06a2b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashback akan diberikan setelah registrasi produk MODENA Anda berhasil diverifikasi.'])[1]/following::label[1]</value>
+      <webElementGuid>923385d9-9338-4e6a-a096-56fea144aed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keputusan MODENA Indonesia tidak dapat diganggu gugat.'])[1]/following::label[1]</value>
+      <webElementGuid>975f6bcc-f6a5-4036-810f-e6c33470429e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Klaim'])[1]/preceding::label[1]</value>
+      <webElementGuid>79ee4be6-8d17-4371-b5e8-9137c31c15b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saya setuju dengan syarat dan ketentuan di atas.']/parent::*</value>
+      <webElementGuid>422a023b-d760-458b-a1df-c9f14594d971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/label</value>
+      <webElementGuid>538cb8df-0ee6-43dc-bb9a-9072fcebd509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Saya setuju dengan syarat dan ketentuan di atas.' or . = 'Saya setuju dengan syarat dan ketentuan di atas.')]</value>
+      <webElementGuid>62c3e90e-c9d9-4d25-935f-5b70672c98ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
