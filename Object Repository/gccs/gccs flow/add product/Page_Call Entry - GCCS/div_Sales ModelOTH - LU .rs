@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales ModelOTH - LU </name>
+   <tag></tag>
+   <elementGuidId>cc7cce96-dde1-4d24-ac2c-9d170a1b188a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.call-entry-product-container > form > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div[2]/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68d771ff-4974-410e-9a1a-743504cb05ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales ModelOTH - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Existing Model - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Sub CategoryModelBrandProduct NameSerial NumberDealerPurchased DateWarranty StatusSelect Warranty StatusOUT WARRANTYOUT WARRANTYSaveReset</value>
+      <webElementGuid>50081a3e-5d8f-426c-bf11-42d301ec273b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;call-entry-container&quot;]/div[@class=&quot;call-entry-customer-product-container&quot;]/div[@class=&quot;call-entry-product-container&quot;]/form[1]/div[1]</value>
+      <webElementGuid>5401d1d4-25c8-44d9-a5a0-059758e337eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div[2]/form/div</value>
+      <webElementGuid>d848998f-79ec-4c23-bd82-dbf7fe00c44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Info'])[1]/following::div[1]</value>
+      <webElementGuid>220707b3-5c5a-4a11-a3d3-88919c824e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIP'])[1]/following::div[10]</value>
+      <webElementGuid>98229fb8-2572-4314-a1a5-b65297c73360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div</value>
+      <webElementGuid>1d7ad03e-4aa7-48b9-b52b-d3a84e182e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sales ModelOTH - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Existing Model - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Sub CategoryModelBrandProduct NameSerial NumberDealerPurchased DateWarranty StatusSelect Warranty StatusOUT WARRANTYOUT WARRANTYSaveReset' or . = 'Sales ModelOTH - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Existing Model - LU - DINING TABLE (BASTONI 2000 X 1000 X 770)Sub CategoryModelBrandProduct NameSerial NumberDealerPurchased DateWarranty StatusSelect Warranty StatusOUT WARRANTYOUT WARRANTYSaveReset')]</value>
+      <webElementGuid>424ea296-0af5-4071-96ad-89f13e091899</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

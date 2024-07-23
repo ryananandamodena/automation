@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_sefono5139fincainc.com_p-chips-input-token</name>
+   <tag></tag>
+   <elementGuidId>401443cc-11a0-4774-8c2b-2e68a52a1156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-chips-input-token</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-send-email-modal_content']/div[2]/div/div[2]/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>459ba063-9058-4a70-96ee-1ffcf4cab117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-chips-input-token</value>
+      <webElementGuid>463be216-eea4-4c79-b0fc-91b22dec1928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-send-email-modal_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;card p-fluid&quot;]/div[@class=&quot;p-chips p-component p-inputwrapper p-inputwrapper-filled&quot;]/ul[@class=&quot;p-inputtext p-chips-multiple-container&quot;]/li[@class=&quot;p-chips-input-token&quot;]</value>
+      <webElementGuid>c97ace39-31ae-449f-b813-0fae9fb6bc46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-send-email-modal_content']/div[2]/div/div[2]/div/div/ul/li[2]</value>
+      <webElementGuid>100156a3-6cdc-45ba-80f6-73839d6d0871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sefono5139@fincainc.com'])[1]/following::li[1]</value>
+      <webElementGuid>e9ff9409-1a73-46ce-9a23-eee937879578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email To'])[1]/following::li[2]</value>
+      <webElementGuid>32704156-19f7-471b-ae4a-34031fcb72f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email CC'])[1]/preceding::li[1]</value>
+      <webElementGuid>62639cc4-dadf-4ada-8068-b605dbba63d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Title'])[1]/preceding::li[2]</value>
+      <webElementGuid>ec3bf673-947b-4830-b90d-02fab80d8bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]</value>
+      <webElementGuid>49ee41a5-ffde-4c54-b332-7aac799022af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

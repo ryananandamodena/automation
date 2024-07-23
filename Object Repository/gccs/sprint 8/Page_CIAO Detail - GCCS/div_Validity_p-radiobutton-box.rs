@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Validity_p-radiobutton-box</name>
+   <tag></tag>
+   <elementGuidId>a8fdb280-50c6-46e3-80df-2b9e6fe3db6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx-2.my-5.flex.align-items-center > div.flex-1.flex > div.mr-5 > div.p-radiobutton.p-component > div.p-radiobutton-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[4]/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c27499c-148e-4365-8b21-4fd5a9bf3894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton-box</value>
+      <webElementGuid>edd0c269-7769-41fc-aed4-d3d7548d7d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>539153b5-a702-409f-9326-3cd606fdb389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e4e49f67-c27b-430d-b543-5dcc53f0d458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-send-email-modal_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1 flex&quot;]/div[@class=&quot;mr-5&quot;]/div[@class=&quot;p-radiobutton p-component&quot;]/div[@class=&quot;p-radiobutton-box&quot;]</value>
+      <webElementGuid>4bd5e510-dda0-467a-993e-0dbe966b9799</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[4]/div[2]/div/div/div[2]</value>
+      <webElementGuid>ae0814e1-0c7f-43f2-a640-91f6888ca04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validity'])[3]/following::div[5]</value>
+      <webElementGuid>b74c6687-7013-4915-94ca-c4341dc1f443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Title'])[1]/following::div[9]</value>
+      <webElementGuid>da115cfe-7f83-4e77-8825-057968094366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid'])[5]/preceding::div[2]</value>
+      <webElementGuid>7c8eb60c-c1c4-4cd0-a3e0-26fba193563a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid'])[3]/preceding::div[6]</value>
+      <webElementGuid>e71adf2e-3eb7-4bac-9a60-416055b04186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div[2]</value>
+      <webElementGuid>b2fe59fb-14ff-4f18-8528-034d7b3412c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

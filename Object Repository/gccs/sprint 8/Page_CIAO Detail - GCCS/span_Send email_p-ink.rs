@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Send email_p-ink</name>
+   <tag></tag>
+   <elementGuidId>8f41b002-e919-4c77-868a-4e3207cf5060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ciao-send-email-modal_content > div.mt-5 > div.flex.flex-row-reverse > div > button.p-button.p-component.btn.btn-success.ml-2.btn-regular > span.p-ink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-send-email-modal_content']/div[3]/div/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8bb971dc-ffd1-4f7b-ad09-388805647957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>f686eeb4-d42b-4b8e-a267-ece195adf3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>6852f2f3-73e5-4b7a-ae03-0aea82f0e259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-send-email-modal_content&quot;)/div[@class=&quot;mt-5&quot;]/div[@class=&quot;flex flex-row-reverse&quot;]/div[1]/button[@class=&quot;p-button p-component btn btn-success ml-2 btn-regular&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>c12affdd-8789-4246-ae9a-770917da239f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-send-email-modal_content']/div[3]/div/div/button/span[2]</value>
+      <webElementGuid>c7980681-7084-4691-b8d2-52a09c441bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/span[2]</value>
+      <webElementGuid>bf662234-c4e0-417d-b74b-fa5ca37312d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

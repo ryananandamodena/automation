@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Valid_p-radiobutton-box p-highlight</name>
+   <tag></tag>
+   <elementGuidId>d4de2718-3070-4d7c-938c-312b227bba57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx-2.my-5.flex.align-items-center > div.flex-1.flex > div:nth-of-type(2) > div.p-radiobutton.p-component.p-radiobutton-checked > div.p-radiobutton-box.p-highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[4]/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>345f2ced-91dd-4e09-aee8-0052b206120e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton-box p-highlight</value>
+      <webElementGuid>e1e4e54d-2061-4e07-b87b-9efab513af74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>a899bc8e-6324-4995-9e37-722f8673b580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bf2e1364-5b76-4e89-9ebd-af714a5de830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-send-email-modal_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1 flex&quot;]/div[2]/div[@class=&quot;p-radiobutton p-component p-radiobutton-checked&quot;]/div[@class=&quot;p-radiobutton-box p-highlight&quot;]</value>
+      <webElementGuid>f6849f5a-a57f-45d9-a11e-651d29af1fbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[4]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>277431c2-7e12-47c9-873e-8a5f98758d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid'])[5]/following::div[4]</value>
+      <webElementGuid>6d293e14-47ed-46a6-950e-2b8609688900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validity'])[3]/following::div[10]</value>
+      <webElementGuid>ca0f510d-1c82-4c41-b75a-23d9cb7c4d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid'])[3]/preceding::div[2]</value>
+      <webElementGuid>bb504ffd-f66a-4c24-a480-165106fe95ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODENA Customer Care'])[1]/preceding::div[3]</value>
+      <webElementGuid>5cf52ee4-df20-4fca-8b3d-8ec873fc8ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>20ed935e-4ca8-4379-973f-8d099e83470b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

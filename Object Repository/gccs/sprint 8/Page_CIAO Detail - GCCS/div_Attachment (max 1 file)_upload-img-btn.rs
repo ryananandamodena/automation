@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Attachment (max 1 file)_upload-img-btn</name>
+   <tag></tag>
+   <elementGuidId>e557ab1a-62c4-46fa-b07a-d7900a392ec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-wa-modal_content']/div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31666620-9b2c-46cd-9806-0020ec0c7fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> upload-img-btn</value>
+      <webElementGuid>6c3635c8-c2f9-4c0f-95d5-3ea1751f98fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-wa-modal_content&quot;)/div[2]/div[@class=&quot;form-control mx-2&quot;]/div[@class=&quot;input-full-container&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;upload-img-btn&quot;]</value>
+      <webElementGuid>94ee7aec-4d88-446a-958e-500e3bac2d7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-wa-modal_content']/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>69ebc34b-e583-4547-9a2e-8e2ef5c530cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment (max: 1 file)'])[1]/following::div[3]</value>
+      <webElementGuid>d53a1b20-8868-4f9e-b796-5866971a85e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[10]/following::div[5]</value>
+      <webElementGuid>41af8463-c2be-43ad-a1ca-1ad8e5c254cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input WhatsApp Log'])[1]/preceding::div[1]</value>
+      <webElementGuid>b50d6370-56f9-4797-b8d7-388614e84a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>efdc51ed-7018-4d95-9582-e54deb0e5be7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
