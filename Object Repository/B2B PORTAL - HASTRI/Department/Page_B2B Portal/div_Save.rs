@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save</name>
+   <tag></tag>
+   <elementGuidId>e6be0928-8124-40e2-9992-9fa36313d819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12 > div.d-flex > button.b2b-gradient-button.mr-2 > div > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div/div[2]/div/form/div[2]/div/div/div/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45b58a07-5ccf-4956-b690-1f37686b063c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>31590caf-5252-4d61-9342-614b843fdf57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;col-sm-8 col-md-10 col-lg-10 col-xl-12 col-xxl-12&quot;]/div[@class=&quot;card shadow mb-3&quot;]/form[1]/div[@class=&quot;card-footer delay&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;b2b-gradient-button mr-2&quot;]/div[1]/div[1]</value>
+      <webElementGuid>2198e88a-fc64-4556-91f6-96227e2425f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/div[2]/div/form/div[2]/div/div/div/button/div/div</value>
+      <webElementGuid>06fbed93-5b7e-4445-842a-39bbbed5c19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[5]/following::div[9]</value>
+      <webElementGuid>674acce0-6583-4a02-a377-865634effd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Code'])[3]/following::div[11]</value>
+      <webElementGuid>64dab369-c999-4cf5-a751-e0aff8005b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Excel'])[1]/preceding::div[1]</value>
+      <webElementGuid>e55f2b6c-fce2-4154-82b6-f32e4fd76dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::div[1]</value>
+      <webElementGuid>d4a5de1d-aa9d-42ee-b5e9-951ef38616d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>55d49a82-d43c-47d0-bffe-918bfeffd12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/button/div/div</value>
+      <webElementGuid>38e9acf8-34b1-44af-a4eb-aeef57363499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>3ebfbbec-e282-4e94-a22c-848278aa25e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

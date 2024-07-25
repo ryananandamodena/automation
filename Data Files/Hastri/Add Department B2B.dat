@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Add Purchase Request</name>
+   <name>Add Department B2B</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>3f0b2f4f-e42c-4567-adee-1fd69b23145a</dataFileGUID>
-   <dataSourceUrl>../../../OneDrive - MODENA/Attachments/B2B/Add Purchase Request - Test Data.xlsx</dataSourceUrl>
+   <dataFileGUID>fa08e806-6de0-4591-8e3a-fd8bf595a7e6</dataFileGUID>
+   <dataSourceUrl>../../../OneDrive - MODENA/Attachments/B2B/Add Department - Test Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>
