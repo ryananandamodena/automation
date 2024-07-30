@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Order</name>
+   <tag></tag>
+   <elementGuidId>68c74568-e566-48d9-ade3-06bd22af8faf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='menu_hover']//a[@class='active'][normalize-space()='Order']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/order' and (text() = 'Order' or . = 'Order')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3687362-edca-433b-9097-840cc4b92100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/order</value>
+      <webElementGuid>7eebdc0b-c7d7-4dfc-a32e-9cfb9df89516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order</value>
+      <webElementGuid>1453e337-c717-4dce-be25-158ada217898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;content_menu&quot;]/ul[@class=&quot;menu_hover&quot;]/li[1]/a[1]</value>
+      <webElementGuid>72b60d7e-af72-47c1-bd97-c961fbcb061c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>ab741657-53c4-49f9-acd4-02c53d66b135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Order')])[2]</value>
+      <webElementGuid>f935b459-d85b-454e-b098-c546eeb50c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[2]/following::a[1]</value>
+      <webElementGuid>c3074a8f-1709-4914-803d-583cd91e26eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimize'])[1]/following::a[1]</value>
+      <webElementGuid>432992dd-b5cb-4074-b806-16379255e418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='en'])[1]/preceding::a[1]</value>
+      <webElementGuid>34300c0d-d293-4f8e-8d2b-111224a75eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN - English'])[1]/preceding::a[1]</value>
+      <webElementGuid>4abc558e-5360-4841-8795-c1b4146bf88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/order')])[2]</value>
+      <webElementGuid>9ea72913-f278-4c6b-a96f-105eab15c28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>825d3271-f2da-454e-8234-be1a4a3e76fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/order' and (text() = 'Order' or . = 'Order')]</value>
+      <webElementGuid>7c992603-6297-49bb-9f6c-472cb83c463c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

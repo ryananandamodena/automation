@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Login_fa fa-lock</name>
+   <tag></tag>
+   <elementGuidId>54fd3abc-de46-47c2-a9ab-ab1080b539d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/form/div/div[2]/div[4]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lock</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>be1c7469-ef4e-4e8d-8a63-43c5914a586e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lock</value>
+      <webElementGuid>1eda8d63-bca6-40f4-8ea5-637901d11975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-form&quot;]/div[@class=&quot;d-flex&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-10&quot;]/div[@class=&quot;form-group&quot;]/div[1]/button[@class=&quot;btn btn-block btn-modena btn-lg&quot;]/i[@class=&quot;fa fa-lock&quot;]</value>
+      <webElementGuid>25b470a6-f79b-4f9c-9638-e40ec7b7aeb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/form/div/div[2]/div[4]/div/button/i</value>
+      <webElementGuid>f6da2ed1-65b8-4409-99f1-a4210eb4571f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>fdef7ea7-c538-4fce-a6a6-d6933ad16fe9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

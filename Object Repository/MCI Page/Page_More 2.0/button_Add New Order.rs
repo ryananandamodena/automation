@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add New Order</name>
+   <tag></tag>
+   <elementGuidId>88e0b1a2-77e5-468a-a116-ae6a95572077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.add_button.float-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_7093379']/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7b577ff-bf6c-475c-90cd-6eb6c326e66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add_button float-right</value>
+      <webElementGuid>638a24ee-2a0a-4641-8923-d7e25d83354c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Order</value>
+      <webElementGuid>829ad5da-d21d-4709-9058-2915003f30f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_7093379&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/button[@class=&quot;add_button float-right&quot;]</value>
+      <webElementGuid>30dc7141-9ae5-47b1-b597-34c991957ebb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_7093379']/div[2]/div[3]/button</value>
+      <webElementGuid>b933834e-7fe9-402e-bf14-d354794d6221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>f1611535-59c4-4a61-948b-5f1357976fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SO Number'])[2]/preceding::button[1]</value>
+      <webElementGuid>da5a41bf-322a-431b-9915-fdca6036901a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>8ce6c723-6874-412b-a9ef-4971bc95bca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add New Order' or . = 'Add New Order')]</value>
+      <webElementGuid>34cb08a3-410f-4c5d-bbd2-8877a3c564df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

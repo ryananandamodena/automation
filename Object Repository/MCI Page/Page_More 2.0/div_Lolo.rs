@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lolo</name>
+   <tag></tag>
+   <elementGuidId>4da28980-76ee-4fe6-aa25-ea1c17cea6a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_17_content']/div/div/div/div/div[4]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f82f01de-e183-48eb-889d-84bef3ffe9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_title_card_campaign__9rqCE</value>
+      <webElementGuid>e1399777-bcce-4bb5-af85-89c6d7fcc573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lolo</value>
+      <webElementGuid>c0e60e3a-a393-46b9-b12e-bf490283b811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_17_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__4397U  bg-[#fff] border-[#d9d9d9] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__Y445T&quot;]/div[@class=&quot;Card_wrap_content__YrYzc&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;Card_title_card_campaign__9rqCE&quot;]</value>
+      <webElementGuid>913cd5e5-f160-49e2-b493-3e4d98fd7ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_17_content']/div/div/div/div/div[4]/div/div/div/div/div</value>
+      <webElementGuid>92fb43ca-9a96-4544-b471-933082dfb246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::div[6]</value>
+      <webElementGuid>730606f7-8244-44f0-84c6-9ffbd5c9dd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mae@mail.com'])[1]/following::div[9]</value>
+      <webElementGuid>7b35bfc6-927e-404e-ae1f-6d24246b3b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='userbaru@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>1e12fdbe-87c5-4343-a334-398c0958a7c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[3]/preceding::div[5]</value>
+      <webElementGuid>83c3a34b-bc8a-4ef1-9e4a-573519df92c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div</value>
+      <webElementGuid>3f01df2d-17b3-48bd-a448-eccf4139bcc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lolo' or . = 'Lolo')]</value>
+      <webElementGuid>794318a6-3cb1-4bcf-bcdd-f635c4401873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

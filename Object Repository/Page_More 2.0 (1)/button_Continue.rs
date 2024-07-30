@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>92e5edc7-7f29-469d-ab9b-c9d33c7e07a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b2436824-2401-4a0a-9908-c047de5eb23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ConfirmationBox_submit__+uajG ConfirmationBox_yes__iOY3Z</value>
+      <webElementGuid>2d59851c-51dc-4c5c-a8d9-e52ab58e40f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>dcca0ad3-c128-4956-b793-ff8b1c8111b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;ConfirmationBox_wrap__CBqTD&quot;]/div[@class=&quot;ConfirmationBox_confirmation__RTUAv&quot;]/div[@class=&quot;ConfirmationBox_wrap_button__m-+sJ&quot;]/button[@class=&quot;ConfirmationBox_submit__+uajG ConfirmationBox_yes__iOY3Z&quot;]</value>
+      <webElementGuid>75c3388a-c50d-4ba7-a6db-1a41adcafecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div/div[3]/button</value>
+      <webElementGuid>b69db898-07dc-4374-b22d-ac788affdad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Again'])[1]/following::button[1]</value>
+      <webElementGuid>1d702bed-1523-4dde-b7d2-3d7d8cce15cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After click continue, the submission cannot be returned to previous status'])[1]/following::button[1]</value>
+      <webElementGuid>61f56756-dcce-46af-8bf5-984fe7799d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order List'])[1]/preceding::button[1]</value>
+      <webElementGuid>08fa986e-fe18-42f9-aac7-5b4b4ee6efbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>49702cc0-565a-4900-bf35-cd0eeaad2e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>f60a2bdf-5dca-4c1c-8c9f-260728af9857</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_C001-000022ELECTRONIC CITY INDONESIA, P_8244d0</name>
+   <tag></tag>
+   <elementGuidId>2b540c51-8119-4379-8888-db32e29b6ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_wrapper_card__X6tXz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_7_content']/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d3a73c8-231a-4e5e-9915-ab9b1336378d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_wrapper_card__X6tXz</value>
+      <webElementGuid>6ca35c0e-9bee-4eff-aa90-1d19125d6ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C001-000022ELECTRONIC CITY INDONESIA, PTEC-LS BDG62 620852433353JL. JEND. SUDIRMAN KV. 52- 53 KBT SUDIRMAN SENAYAN, KEBAYORAN BARU – JAKARTA </value>
+      <webElementGuid>67e7a000-f222-44bf-a397-f97784f8a296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_7_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__AftdC  bg-[#fff] border-[#d9d9d9] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__X6tXz&quot;]</value>
+      <webElementGuid>a04c4713-8d29-4ae1-810c-23522505de3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_7_content']/div/div/div/div/div[2]/div</value>
+      <webElementGuid>efeea536-1cb0-4810-bab2-eab08df4bd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[9]</value>
+      <webElementGuid>f2acba98-a003-4f43-aad7-13b9873ecd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Customer'])[1]/following::div[13]</value>
+      <webElementGuid>993c07fc-83cb-4bd4-b076-8359afb3d4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>5230b473-0047-433f-9a67-05cb57331d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'C001-000022ELECTRONIC CITY INDONESIA, PTEC-LS BDG62 620852433353JL. JEND. SUDIRMAN KV. 52- 53 KBT SUDIRMAN SENAYAN, KEBAYORAN BARU – JAKARTA ' or . = 'C001-000022ELECTRONIC CITY INDONESIA, PTEC-LS BDG62 620852433353JL. JEND. SUDIRMAN KV. 52- 53 KBT SUDIRMAN SENAYAN, KEBAYORAN BARU – JAKARTA ')]</value>
+      <webElementGuid>1d49d1e2-f83f-4268-980c-c943a31c1cd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

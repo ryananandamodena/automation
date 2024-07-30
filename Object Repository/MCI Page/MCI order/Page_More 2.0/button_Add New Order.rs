@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add New Order</name>
+   <tag></tag>
+   <elementGuidId>dcf32398-72b5-4c87-bced-b4af641e0ffc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_9757938']/div[2]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.add_button.float-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>64fd2472-3fae-410b-b09d-c261e9707a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add_button float-right</value>
+      <webElementGuid>76fee4d0-0ec4-4faa-a9a6-6e6ad132f778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Order</value>
+      <webElementGuid>64760d6f-b7c4-4956-9e88-c2221ffbee9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_9757938&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/button[@class=&quot;add_button float-right&quot;]</value>
+      <webElementGuid>f5e0e697-2d08-49ed-ab0d-83f6b16ed87b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_9757938']/div[2]/div[3]/button</value>
+      <webElementGuid>f244a9f0-3dee-445a-a908-86a4421d832e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>a229c25c-8dc4-4250-abc3-b256bf94368a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SO Number'])[2]/preceding::button[1]</value>
+      <webElementGuid>5c72be20-9597-4ad2-8255-665cac6556e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add New Order']/parent::*</value>
+      <webElementGuid>f633853a-b6fa-436f-b57b-6154d2583bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>6c70e0b7-f473-4a05-9dfa-adbf7f4de2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add New Order' or . = 'Add New Order')]</value>
+      <webElementGuid>a7d52d3f-7612-4f48-8e74-7f783cb15ae4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

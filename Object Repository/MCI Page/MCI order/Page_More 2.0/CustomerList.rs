@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CustomerList</name>
+   <tag></tag>
+   <elementGuidId>d802d73c-e57b-4e42-b00f-a83d79b2fb09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_7_content']/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_wrapper_card__X6tXz</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'C018-000404PROJECT OFFICIAL STORE (BUKALAPAK)BUKALAPAK-PROJECT OFFICIAL STORE (BUKA LAPAK)  ' or . = 'C018-000404PROJECT OFFICIAL STORE (BUKALAPAK)BUKALAPAK-PROJECT OFFICIAL STORE (BUKA LAPAK)  ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac0c15e4-1270-4a7f-8fe0-621d704750fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_wrapper_card__X6tXz</value>
+      <webElementGuid>57112c66-df55-44c0-ae46-76c2015574a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C018-000404PROJECT OFFICIAL STORE (BUKALAPAK)BUKALAPAK-PROJECT OFFICIAL STORE (BUKA LAPAK)  </value>
+      <webElementGuid>dee33bc6-d806-4ef0-adc9-53ad82f82323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_7_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__AftdC  bg-[#fff] border-[#d9d9d9] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__X6tXz&quot;]</value>
+      <webElementGuid>5c4cf06d-fa87-4fac-9d83-bd18af27fa34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_7_content']/div/div/div/div/div[2]/div</value>
+      <webElementGuid>343c2b15-03e5-43c5-9e58-2cb4087d0a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[9]</value>
+      <webElementGuid>ef53dcfe-1007-4216-8baf-facd51f843ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Customer'])[1]/following::div[13]</value>
+      <webElementGuid>97a29c99-3902-4ff4-811c-0e0426fdc3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>41099f57-c511-4435-a448-c510e83e53a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'C018-000404PROJECT OFFICIAL STORE (BUKALAPAK)BUKALAPAK-PROJECT OFFICIAL STORE (BUKA LAPAK)  ' or . = 'C018-000404PROJECT OFFICIAL STORE (BUKALAPAK)BUKALAPAK-PROJECT OFFICIAL STORE (BUKA LAPAK)  ')]</value>
+      <webElementGuid>1d1848d2-6ac3-44a0-bef5-dabec199eb43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

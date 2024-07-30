@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mall Taman Anggrek Primary62 8782787387_411d0c</name>
+   <tag></tag>
+   <elementGuidId>be7c0102-029d-41e5-9f12-a161b0174c9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_21_content']/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_wrapper_card__meNum</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03649fed-e8d2-4c8f-b96e-f11f7c124cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_wrapper_card__meNum</value>
+      <webElementGuid>396000b0-be49-4a2c-bff9-b1f67925e9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mall Taman Anggrek Primary+62 878278738733Jl. Letjen S. Parman No.Kav 21, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia, Jakarta Barat, DKI JakartaEdit|Reset Coordinate</value>
+      <webElementGuid>b0a25665-2db6-4bb6-bad2-344a57fe8cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_21_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__Y6l2b hover:bg-[#F0F1F8] hover:cursor-pointer  bg-[#EFF8FF] border-[#0000DB] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__meNum&quot;]</value>
+      <webElementGuid>6fd2b39f-3185-4b58-95b9-211e90143bdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_21_content']/div/div/div/div/div[2]/div</value>
+      <webElementGuid>e084b8a2-ece6-410a-82ba-859578d185b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[9]</value>
+      <webElementGuid>84a83004-0899-418c-947e-a4c651aeb486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Address'])[2]/following::div[14]</value>
+      <webElementGuid>cd26b2fb-bdf3-4438-8a28-ee1602e4a405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>246c0170-c2aa-4663-8b9c-cc8d030eddff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mall Taman Anggrek Primary+62 878278738733Jl. Letjen S. Parman No.Kav 21, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia, Jakarta Barat, DKI JakartaEdit|Reset Coordinate' or . = 'Mall Taman Anggrek Primary+62 878278738733Jl. Letjen S. Parman No.Kav 21, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470, Indonesia, Jakarta Barat, DKI JakartaEdit|Reset Coordinate')]</value>
+      <webElementGuid>973ddab9-ab7c-4267-afce-dd41d59092e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

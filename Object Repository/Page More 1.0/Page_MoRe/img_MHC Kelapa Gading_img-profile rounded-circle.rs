@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_MHC Kelapa Gading_img-profile rounded-circle</name>
+   <tag></tag>
+   <elementGuidId>bbaef3b0-e655-4d12-b61b-e19aa98d44c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='userDropdown']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-profile.rounded-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1de4b127-4581-4ac4-a678-cbf6ba70316b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-profile rounded-circle</value>
+      <webElementGuid>1ccd0166-7b12-404f-98c8-e7477356548a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/undraw_profile_1.c2807abf.svg</value>
+      <webElementGuid>2c06961c-4365-41e6-84d5-341fb5fe9a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userDropdown&quot;)/img[@class=&quot;img-profile rounded-circle&quot;]</value>
+      <webElementGuid>c2711b1e-3797-45b3-824a-09e289ce1c1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='userDropdown']/img</value>
+      <webElementGuid>2c7fe535-df5e-44ab-910d-6ae4f68db1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/img</value>
+      <webElementGuid>bc9a8dfc-0273-450a-ab66-a2fa29ee4487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/undraw_profile_1.c2807abf.svg']</value>
+      <webElementGuid>0803acbf-2bd8-4899-b842-f55c423ca8f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

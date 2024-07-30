@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Store_css-19bb58m</name>
+   <tag></tag>
+   <elementGuidId>75d6bbdf-9b55-4f10-89cf-935a3a2f0551</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/section/div/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5260ed49-9420-4ab2-a658-63dcac7dd7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-19bb58m</value>
+      <webElementGuid>fcdfaf26-c577-45a8-8e60-96553db83056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;css-9qrx1z-container&quot;]/div[@class=&quot;css-t3ipsp-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>9168f028-9adf-4dd5-8df7-162b3b34bd8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/section/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>c27af52d-7466-41c1-8773-21144546e30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/following::div[1]</value>
+      <webElementGuid>c80cb904-fbb2-45b6-be9d-922962f1518f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details about the current balance based on transaction history'])[1]/following::div[8]</value>
+      <webElementGuid>5ce43893-f9e4-4217-abf7-143ee71bb708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Stores'])[1]/preceding::div[3]</value>
+      <webElementGuid>0de0f0b7-189d-4f06-a7ff-1fc954e306ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHC01:MHC Kelapa Gading'])[1]/preceding::div[4]</value>
+      <webElementGuid>9bd5db62-d8b2-4f29-90bb-e4fd3178ae6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]</value>
+      <webElementGuid>87a3fc74-4789-4d54-b3f5-d0b4f69a9f9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

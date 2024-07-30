@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Request diassembling for current Produc_26fb57</name>
+   <tag></tag>
+   <elementGuidId>e9f78fd7-31ca-46d7-8ef1-e5785513db2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-checkbox-box.p-highlight.p-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[8]/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b68ad57-0385-44b7-9413-e57208ceb8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box p-highlight p-focus</value>
+      <webElementGuid>fd5b9386-1796-4bae-bad5-0010cd865aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;detail_wrap_main__yc8cl&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;detail_wrap1__ZMzE7&quot;]/div[@class=&quot;row  border-b pb-6&quot;]/div[@class=&quot;mt-4 col-lg-8 text-xs&quot;]/div[@class=&quot;items-center flex&quot;]/div[@class=&quot;p-checkbox p-component p-checkbox-checked p-checkbox-focused&quot;]/div[@class=&quot;p-checkbox-box p-highlight p-focus&quot;]</value>
+      <webElementGuid>130b8157-7f1e-4057-9242-0ebcd727126b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[8]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>d0367c89-19c2-4068-b22d-8d6f68a32745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request diassembling for current Product'])[1]/following::div[4]</value>
+      <webElementGuid>862684f2-6ee9-4cdc-ad47-18bfd9c9dece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installation'])[1]/following::div[9]</value>
+      <webElementGuid>53f95a45-1953-448c-873c-39e0bcb74815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request installation for new product'])[1]/preceding::div[1]</value>
+      <webElementGuid>b73a4193-1816-4208-9b4a-a3f92f200011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Cart'])[1]/preceding::div[6]</value>
+      <webElementGuid>34c6331b-ff4b-49b6-8891-214dde7761f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>544821be-9c6b-479f-8b5a-56a9c3bc0a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

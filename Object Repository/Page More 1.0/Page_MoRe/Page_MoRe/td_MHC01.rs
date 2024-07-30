@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MHC01</name>
+   <tag></tag>
+   <elementGuidId>72b30b14-0cf3-4ff4-8d6b-8db05b3a3fb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_7980554']/div[2]/div/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cd36f3ff-7176-45a4-bdde-bb7669e36548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MHC01</value>
+      <webElementGuid>9244db5c-4381-445d-a82a-6043a34a5ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_7980554&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 mtable-container&quot;]/table[@class=&quot;table table-condensed&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>547e3ef4-71ee-49bb-a79b-dbfc787ded5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_7980554']/div[2]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>5a3e3c66-2b89-445c-a7a3-c01f76db50c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MHC01-DISB-20240717144201'])[1]/following::td[1]</value>
+      <webElementGuid>b7649b0b-8b30-494f-8bb9-f87fa63abd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::td[3]</value>
+      <webElementGuid>5c0f32f2-1224-4195-b825-7f9fa7e8db7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MoRe-SO03-24000875'])[1]/preceding::td[1]</value>
+      <webElementGuid>4b0b9a98-028f-4837-af8e-36c6ae079a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asma testing 2'])[1]/preceding::td[3]</value>
+      <webElementGuid>1c65aef2-569e-4e7d-b141-9ed3934e4295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MHC01']/parent::*</value>
+      <webElementGuid>a65f0e1d-8495-497e-a764-adc3a9e98151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>c9cbf48c-c439-4fa5-8de5-b67992836ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'MHC01' or . = 'MHC01')]</value>
+      <webElementGuid>2d980b00-fe55-45df-ad91-4fe5cbf048e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

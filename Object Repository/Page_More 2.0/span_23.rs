@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_23</name>
+   <tag></tag>
+   <elementGuidId>187289b3-df99-4edc-ba7c-af3af9643d2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[31]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6c5ec87-925c-4570-bc8a-b0fa42c5c2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>83a5b20f-5e1c-45da-822c-21d476f278e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/div[@class=&quot;p-datepicker p-component p-ripple-disabled p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-datepicker-group-container&quot;]/div[@class=&quot;p-datepicker-group&quot;]/div[@class=&quot;p-datepicker-calendar-container&quot;]/table[@class=&quot;p-datepicker-calendar&quot;]/tbody[1]/tr[4]/td[3]/span[1]</value>
+      <webElementGuid>181e1006-a63a-44e3-8add-be8b702f8da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[24]</value>
+      <webElementGuid>9aafb778-a64b-49b8-8442-e1c466e9a695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[25]</value>
+      <webElementGuid>d8c50e29-3cc4-44e5-9169-235ab2924668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='23']/parent::*</value>
+      <webElementGuid>5a4a8599-a462-4b33-9a7f-864e06603b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/span</value>
+      <webElementGuid>8ba4d3a1-e443-4968-b157-45d3f8748009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '23' or . = '23')]</value>
+      <webElementGuid>dc5a95c9-f4c1-47a9-9120-6af0222923bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

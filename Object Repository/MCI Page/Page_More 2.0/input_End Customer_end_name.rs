@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_End Customer_end_name</name>
+   <tag></tag>
+   <elementGuidId>d3867da0-58f7-41f4-bfe3-d9aadb1404e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;end_name&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='end_name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3cc89c09-9943-4423-a2b6-486b927468ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1ad4df65-c53b-4611-8982-0c229a8295fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>end_name</value>
+      <webElementGuid>2be47f9d-9f13-4b05-a0c6-e2d4a733746b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail_input_search_menu__nE5OT cursor-pointer text-base max-[430px]:text-xs </value>
+      <webElementGuid>90ea86ff-9892-4c90-a8d1-12bd8a719252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select End Customer name</value>
+      <webElementGuid>0f1cf12a-f337-4368-9fc9-1e4c892e4871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;detail_wrap_main__jAM1f&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-12&quot;]/div[@class=&quot;detail_wrap_form3__Ze2CY&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;detail_input_search_menu__nE5OT cursor-pointer text-base max-[430px]:text-xs&quot;]</value>
+      <webElementGuid>84bfdbef-aace-4eaa-b4ae-e1120b179885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='end_name']</value>
+      <webElementGuid>a7f5b4a5-0a10-4268-b988-cf69d9858201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[2]/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>a4f0bb61-2e37-497f-b766-c90d8071d9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Customer'])[1]/following::input[1]</value>
+      <webElementGuid>7a5874aa-990f-4fc1-9c1a-d89a57e05408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::input[8]</value>
+      <webElementGuid>84a90594-d4d7-4eab-9143-0f673a7be235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Type'])[1]/preceding::input[3]</value>
+      <webElementGuid>bc1804d9-a4ef-4991-b339-e1648933f82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reguler'])[2]/preceding::input[4]</value>
+      <webElementGuid>03f11745-ada0-4932-bdb1-e8e0c6e3f0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>36ca49c9-0126-4626-9c28-cab0b9df22bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'end_name' and @placeholder = 'Select End Customer name']</value>
+      <webElementGuid>ef9dfe3f-2f60-45a9-a6eb-efdb20e36125</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

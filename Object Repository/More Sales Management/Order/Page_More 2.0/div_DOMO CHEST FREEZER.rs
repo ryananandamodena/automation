@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DOMO CHEST FREEZER</name>
+   <tag></tag>
+   <elementGuidId>41f8b87a-74aa-436e-b5b7-3ebb747008b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.list_item_name__9WyW1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>378efaf6-2f19-42bd-93db-6047372c3c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list_item_name__9WyW1</value>
+      <webElementGuid>4fe5afa5-4096-4717-a1b1-1552f9dabc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DOMO CHEST FREEZER</value>
+      <webElementGuid>a9237ee4-1a7a-4a1d-93ff-3b1153488d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;list_wrap_main__YGZfN&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-12&quot;]/div[@class=&quot;list_wrap_form2__YTXPS&quot;]/div[@class=&quot;list_wrapper_form2__+H4qV&quot;]/div[@class=&quot;row mt-7&quot;]/div[@class=&quot;col-lg-4 col-md-6 col-sm-6 col-12&quot;]/div[@class=&quot;cursor-pointer list_list_product__6ZNLQ&quot;]/div[@class=&quot;list_item_name__9WyW1&quot;]</value>
+      <webElementGuid>c0b1c130-30cf-458b-bccc-af9593787e54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>92464eed-c39d-4ef5-be5d-3402a29656ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[8]</value>
+      <webElementGuid>a8f3ab64-f873-4b01-8656-098373574ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Product'])[1]/following::div[14]</value>
+      <webElementGuid>048fe92f-ed9b-4f17-82cb-f7ff2a52f2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DF 0120'])[1]/preceding::div[1]</value>
+      <webElementGuid>e96f50e0-f8b9-4626-88c9-408786f292a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DF0110MAWH.IDAAB0A'])[1]/preceding::div[2]</value>
+      <webElementGuid>61715f2b-3b68-44c5-b8de-078ac43239fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DOMO CHEST FREEZER']/parent::*</value>
+      <webElementGuid>db3afb3e-dd7a-4325-9d42-c20f63af51f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>2034d596-5669-4d09-9f73-f87647da2f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DOMO CHEST FREEZER' or . = 'DOMO CHEST FREEZER')]</value>
+      <webElementGuid>0a7b9191-5915-4ca8-bc64-a294e85d249f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

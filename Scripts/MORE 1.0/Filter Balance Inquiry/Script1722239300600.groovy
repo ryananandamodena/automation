@@ -17,20 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/span_Balance Inquiry'))
 
-WebUI.navigateToUrl('https://more-dev.modena.com/')
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/div_Store_css-19bb58m'))
 
-WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
-    UserName)
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/div_MHC01MHC Kelapa Gading'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
-    Password)
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/td_MHC01'))
 
-WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/td_MHC01'))
 
-WebUI.verifyElementText(findTestObject('More Sales Management/Login/Page_More 2.0/img_Dashboard_sidebar_logo img_full'), 
-    '')
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/path'))
+
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/div_All Stores'))
+
+WebUI.click(findTestObject('Page_MoRe/img_acc1gmail.com_img-profile rounded-circle'))
+
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Page_MoRe/Page_MoRe/a_Logout'))
 
 WebUI.closeBrowser()
 

@@ -21,16 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://more-dev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
-    UserName)
+WebUI.setText(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/input_Email or Username_username'), 
+    'asma.nasyith')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
-    Password)
+WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/input_Password_password'), 
+    'W3hObB4uSEA=')
 
-WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/button_Login'))
 
-WebUI.verifyElementText(findTestObject('More Sales Management/Login/Page_More 2.0/img_Dashboard_sidebar_logo img_full'), 
-    '')
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/p_MODENA Indonesia (MODENA_LIVE)'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/p_Customer'))
+
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/a_Customer Info'))
+
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/img_Key Account Trading Term_customer_dot_m_b5e78c'))
+
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/a_View'))
+
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/b_Asma Karimah'))
+
+WebUI.click(findTestObject('Object Repository/More Sales Management/Customer/Page_More 2.0/li_Logout'))
 

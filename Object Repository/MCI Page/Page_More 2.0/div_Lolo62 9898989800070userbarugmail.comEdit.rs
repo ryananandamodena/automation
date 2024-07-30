@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lolo62 9898989800070userbarugmail.comEdit</name>
+   <tag></tag>
+   <elementGuidId>7a2def65-339f-4379-a9d8-7eddea15ed93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_17_content']/div/div/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d761707-68f1-4c12-94c3-3ea0c19c05cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_wrapper_card__Y445T</value>
+      <webElementGuid>5bd28b0d-3abe-46b4-a268-161bd324a7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lolo62 9898989800070userbaru@gmail.comEdit</value>
+      <webElementGuid>ef4abfc9-fffa-4951-b231-fd54263e3438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_17_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__4397U  bg-[#fff] border-[#d9d9d9] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__Y445T&quot;]</value>
+      <webElementGuid>57fd0d66-2036-4654-b062-b8551b466e33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_17_content']/div/div/div/div/div[4]/div</value>
+      <webElementGuid>2acdaee7-0a8c-4ece-bdab-44214f961f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::div[2]</value>
+      <webElementGuid>6ead75c8-d658-434c-ae2d-b844d67dd473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mae@mail.com'])[1]/following::div[5]</value>
+      <webElementGuid>313e1078-bc16-4279-a4d2-b97e3cf1f06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[4]/div</value>
+      <webElementGuid>ca92122f-588f-4888-8662-5a1826bc1245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lolo62 9898989800070userbaru@gmail.comEdit' or . = 'Lolo62 9898989800070userbaru@gmail.comEdit')]</value>
+      <webElementGuid>d50dfdb6-b031-4d26-a37c-46c4c52d3465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

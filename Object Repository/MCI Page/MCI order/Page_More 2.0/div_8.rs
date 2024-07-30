@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_8</name>
+   <tag></tag>
+   <elementGuidId>a68981d6-4f29-42ae-a8e1-1fc4ca543662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef41dd13-e9f0-40cd-95f3-ce9d41741f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-2 text-center list_product_image__u85dp</value>
+      <webElementGuid>c40efdc6-3975-49a2-b8f2-bdee96a58e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>95ced036-febc-47f6-8992-af1f847dacbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;list_wrap_main__YGZfN&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-12&quot;]/div[@class=&quot;list_wrap_form2__YTXPS&quot;]/div[@class=&quot;list_wrapper_form2__+H4qV&quot;]/div[@class=&quot;row mt-7&quot;]/div[@class=&quot;col-lg-4 col-md-6 col-sm-6 col-12&quot;]/div[@class=&quot;cursor-pointer list_list_product__6ZNLQ&quot;]/div[@class=&quot;lg:p-2 text-center list_product_image__u85dp&quot;]</value>
+      <webElementGuid>f59a6739-39db-4f30-979a-02b0abc2d938</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>20ef1150-747a-4516-a42d-e1b56f59a7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[4]</value>
+      <webElementGuid>ba8493d1-b7a5-4efe-87dc-e8a4c5dbdac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Product'])[1]/following::div[10]</value>
+      <webElementGuid>dc140074-e3f5-45bf-bce0-4594db1e3a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODENA ELECTRIC STORAGE WATER HEATER'])[1]/preceding::div[4]</value>
+      <webElementGuid>0b618dbe-af2c-4938-aae8-0e2a34ec1855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ES 10U'])[1]/preceding::div[5]</value>
+      <webElementGuid>0f67462c-5a7a-4902-b767-e670d451fb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>3ae8f360-4108-46b0-89a1-a04bf317e116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '8' or . = '8')]</value>
+      <webElementGuid>f0ef200a-3fd4-47ac-b095-52c478e94485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

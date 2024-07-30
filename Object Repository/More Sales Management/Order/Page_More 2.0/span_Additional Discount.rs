@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Additional Discount</name>
+   <tag></tag>
+   <elementGuidId>c9c88234-a896-4528-9254-011774fb46dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_19']/ul/li[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'p-tabview-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7ab7740-ee3c-4a94-aa91-469cfc259d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-tabview-title</value>
+      <webElementGuid>18e167b7-b0a4-4410-8f65-e8b6b9e3d165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Discount</value>
+      <webElementGuid>6e67f0c0-1ffa-4815-8f6b-bbb27e6b8f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content_cart&quot;]/div[2]/div[@class=&quot;list_wrap_main__7gEyx&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-md-12 mt-4&quot;]/div[@class=&quot;list_wrap_form2__viImv&quot;]/div[@class=&quot;order&quot;]/div[@id=&quot;pr_id_19&quot;]/div[@class=&quot;p-tabview-nav-container&quot;]/div[@id=&quot;pr_id_19&quot;]/ul[@class=&quot;p-tabview-nav&quot;]/li[@class=&quot;p-unselectable-text&quot;]/button[@class=&quot;p-tabview-nav-link&quot;]/span[@class=&quot;p-tabview-title&quot;]</value>
+      <webElementGuid>1941aed1-bd5a-4f00-a46a-9e9896f04114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_19']/ul/li[2]/button/span</value>
+      <webElementGuid>72b040e9-47b3-410c-9d32-6fb24103fd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo Product'])[1]/following::span[2]</value>
+      <webElementGuid>9f0d8087-c53c-43a2-84ad-c82e4aac4e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Promo'])[1]/following::span[3]</value>
+      <webElementGuid>f9dafb56-a5f1-417d-9579-79b256a0f070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to Use'])[1]/preceding::span[2]</value>
+      <webElementGuid>3170bcd6-3f9f-46bf-a929-9ee71428095f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BDGH'])[1]/preceding::span[2]</value>
+      <webElementGuid>0ece5cbe-f99b-4cee-a54f-d10bdb5b8559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button/span</value>
+      <webElementGuid>64664c6e-082f-40e5-971f-11da57135c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Additional Discount' or . = 'Additional Discount')]</value>
+      <webElementGuid>d398b50f-61e1-4539-9921-40ff2ea305a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

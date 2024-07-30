@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_End Customer</name>
+   <tag></tag>
+   <elementGuidId>741e3827-93a7-4885-b028-b6d8d27e6342</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_14']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dialog-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a986c40a-402d-4755-8f20-4810e523d677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dialog-header</value>
+      <webElementGuid>1ceedefd-df41-4d7f-bd41-1949f2abeab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>End Customer×</value>
+      <webElementGuid>e2838704-c043-4d69-9a5e-4e9d04ee5bae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_14&quot;)/div[@class=&quot;p-dialog-header&quot;]</value>
+      <webElementGuid>b6947c7d-f606-4329-9a5f-7f3bc2102487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_14']/div</value>
+      <webElementGuid>8e2c6946-d11f-46fe-82b3-2358c9700458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'pr_id_14', '&quot;', ')/div[@class=', '&quot;', 'p-dialog-header', '&quot;', ']')])[1]/following::div[3]</value>
+      <webElementGuid>15b48be6-d45b-4827-8951-1ec9a01d06a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::div[7]</value>
+      <webElementGuid>0a4a1cb8-a884-471a-bab3-0e2d14a136d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[3]/div/div</value>
+      <webElementGuid>5100901e-9c5a-4996-8ad9-88c10d88beb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'End Customer×' or . = 'End Customer×')]</value>
+      <webElementGuid>842e4665-b263-4140-b5b5-3add0f591f53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

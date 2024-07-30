@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Order</name>
+   <tag></tag>
+   <elementGuidId>32ff2272-31b9-45da-af84-5c7004f81cda</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Order' or . = 'Order')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Order' or . = 'Order')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>409370a0-0a4e-420d-85a3-b653bdb1c1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmation_button_primary__JkFlT </value>
+      <webElementGuid>749d44fb-e914-4360-a48e-d84f85c0be67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order</value>
+      <webElementGuid>237e80b5-6ff2-4c82-96c4-52ad1a984363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content_cart&quot;]/div[2]/div[@class=&quot;confirmation_wrap_main__sEGUp&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-md-12 mt-4&quot;]/div[7]/button[@class=&quot;confirmation_button_primary__JkFlT&quot;]</value>
+      <webElementGuid>dff7b964-66aa-4d33-b55a-285761a8b4be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[3]/div[7]/button</value>
+      <webElementGuid>f88b0c2e-b18f-45c2-9628-4ba3b3ab289c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*The above price includes VAT'])[1]/following::button[1]</value>
+      <webElementGuid>0d3eca0b-e139-48e6-9b2d-d927ee1d33fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 10.035.900'])[4]/following::button[1]</value>
+      <webElementGuid>8ac49b66-531e-43cf-9c94-663bdc49716d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>40e56fd7-2156-4eec-b2f3-9a1506712673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Order' or . = 'Order')]</value>
+      <webElementGuid>407699e1-0c42-4329-940b-73bd417459eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

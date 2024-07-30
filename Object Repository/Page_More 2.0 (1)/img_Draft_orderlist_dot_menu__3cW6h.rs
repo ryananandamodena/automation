@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Draft_orderlist_dot_menu__3cW6h</name>
+   <tag></tag>
+   <elementGuidId>70e42ff5-c4ad-40f4-977f-db24095185ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.orderlist_dot_menu__3cW6h</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_2948244']/div[3]/div/table/tbody/tr/td[10]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4b6c503c-2bf6-4506-9cd6-2e3b8c1cd5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/src/menu-dots.png</value>
+      <webElementGuid>0595d3de-f35e-4f43-ac1e-0304c4599116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orderlist_dot_menu__3cW6h</value>
+      <webElementGuid>7d6c4f32-50b8-44e8-a1a3-80bcffc51949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_2948244&quot;)/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed scroll&quot;]/table[@class=&quot;table m-table table-condensed&quot;]/tbody[@class=&quot;tb_bg&quot;]/tr[1]/td[@class=&quot;text-overflow-hidden&quot;]/div[@class=&quot;flex justify-content-center&quot;]/img[@class=&quot;orderlist_dot_menu__3cW6h&quot;]</value>
+      <webElementGuid>5d058f9e-ece4-4ffc-b236-240231fb9cda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_2948244']/div[3]/div/table/tbody/tr/td[10]/div/img</value>
+      <webElementGuid>c037c38c-ab1c-4335-8e35-ae347f60cfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::img[1]</value>
+      <webElementGuid>458e2ac5-733b-4998-899a-d32e033fd356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User Cabang'])[2]/following::img[1]</value>
+      <webElementGuid>d19f70fd-3a15-4e48-ab0b-820c83ea2ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MORE/SO/2400010261'])[1]/preceding::img[1]</value>
+      <webElementGuid>c19b440d-f51c-4bfd-854e-92c85cde063b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECTRONIC CITY INDONESIA, PT'])[2]/preceding::img[1]</value>
+      <webElementGuid>b32417ae-ba7d-4963-93e5-52eaf2761594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/img</value>
+      <webElementGuid>82403919-3575-4d72-b4b2-174312ab264d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/src/menu-dots.png']</value>
+      <webElementGuid>03fcbada-8474-4f55-a307-4e53c116c7d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Order</name>
+   <tag></tag>
+   <elementGuidId>d6de006c-ece2-4f3f-b33d-9adb9b054600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[3]/div[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b07d483d-b15f-4d28-ba67-bdfdf5e51c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmation_button_primary__JkFlT </value>
+      <webElementGuid>0fcc132d-ab2a-4997-b84d-f84f8f7a95d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order</value>
+      <webElementGuid>c3545dbc-ca5b-4e34-a12d-95f0416fb8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content_cart&quot;]/div[2]/div[@class=&quot;confirmation_wrap_main__sEGUp&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-md-12 mt-4&quot;]/div[7]/button[@class=&quot;confirmation_button_primary__JkFlT&quot;]</value>
+      <webElementGuid>ab607533-6956-4492-ac60-325bdb10637b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[3]/div[7]/button</value>
+      <webElementGuid>671476bb-10ef-4784-8fa1-df3a194efd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*The above price includes VAT'])[1]/following::button[1]</value>
+      <webElementGuid>f628d098-be04-454f-bded-239ae2d98c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 7.650.000'])[4]/following::button[1]</value>
+      <webElementGuid>d7905e43-00f4-4ec6-9dc4-df38fe98c66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>ec795d20-cc0e-45f7-87b9-fb71994d5749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Order' or . = 'Order')]</value>
+      <webElementGuid>9be1a286-f612-4cee-bbe0-2e1608090006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

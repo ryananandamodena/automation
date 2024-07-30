@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Login aja</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2bda07e1-c00c-4ba1-93b1-d0f109d9dd1b</testCaseGuid>
+   <testCaseGuid>f73c3640-b8d8-4320-a864-3827c9d15ad6</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>2e9e6b7a-23a7-4512-bd20-2db217e74fbb</variableId>
+      <variableId>a21b4e71-782f-4014-b97e-db638004ae23</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>a9393b81-0491-409a-a47c-de290a0fb818</variableId>
+      <variableId>1d40b924-4603-4788-bbd7-f74f9dfd2c1b</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2e9e6b7a-23a7-4512-bd20-2db217e74fbb</id>
-      <masked>false</masked>
-      <name>UserName</name>
+      <id>a21b4e71-782f-4014-b97e-db638004ae23</id>
+      <masked>true</masked>
+      <name>Username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a9393b81-0491-409a-a47c-de290a0fb818</id>
+      <id>1d40b924-4603-4788-bbd7-f74f9dfd2c1b</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>

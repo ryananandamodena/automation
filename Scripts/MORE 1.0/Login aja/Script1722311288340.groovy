@@ -19,18 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://more-dev.modena.com/')
+WebUI.navigateToUrl('https://sfadev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
-    UserName)
+WebUI.setText(findTestObject('Object Repository/Page More 1.0/Login More 1/Page_MoRe/input_User_username'), 'acc1@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
-    Password)
+WebUI.setText(findTestObject('Object Repository/Page More 1.0/Login More 1/Page_MoRe/input_Password_password'), 'P@ssw0rd')
 
-WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
-
-WebUI.verifyElementText(findTestObject('More Sales Management/Login/Page_More 2.0/img_Dashboard_sidebar_logo img_full'), 
-    '')
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page More 1.0/Login More 1/Page_MoRe/i_Login_fa fa-lock'))
 

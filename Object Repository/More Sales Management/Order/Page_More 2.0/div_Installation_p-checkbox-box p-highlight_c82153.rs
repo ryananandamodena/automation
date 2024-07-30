@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Installation_p-checkbox-box p-highlight_c82153</name>
+   <tag></tag>
+   <elementGuidId>80924b67-ff9b-40ac-9a8e-151215dabb8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-checkbox-box.p-highlight.p-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[7]/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06483d12-e684-4312-84c5-09e399f54408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box p-highlight p-focus</value>
+      <webElementGuid>44ba044d-a574-4901-9a16-b165e92cd165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;detail_wrap_main__yc8cl&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;detail_wrap1__ZMzE7&quot;]/div[@class=&quot;row  border-b pb-6&quot;]/div[@class=&quot;mt-4 col-lg-8 text-xs&quot;]/div[@class=&quot;items-center flex mb-2&quot;]/div[@class=&quot;p-checkbox p-component p-checkbox-checked p-checkbox-focused&quot;]/div[@class=&quot;p-checkbox-box p-highlight p-focus&quot;]</value>
+      <webElementGuid>656550bf-977d-4621-aea1-4bacad81b514</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[7]/div[2]/div/div/div[2]</value>
+      <webElementGuid>b6e0d2b7-7b98-465f-911d-0d519318cb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installation'])[1]/following::div[5]</value>
+      <webElementGuid>eb0f4485-9c8e-4f53-bffd-725b6083e0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Address'])[1]/following::div[9]</value>
+      <webElementGuid>26a2bc14-3020-4eba-96aa-fa160c36ae57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request diassembling for current Product'])[1]/preceding::div[1]</value>
+      <webElementGuid>44d6fdd4-ba33-409e-abaa-b09131a26014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request installation for new product'])[1]/preceding::div[4]</value>
+      <webElementGuid>f2d0f6c7-4a8a-4789-9602-b0f803c88f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div[2]</value>
+      <webElementGuid>2fce1cd0-23d4-4d5c-b60f-1bea32ad19f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

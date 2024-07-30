@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes</name>
+   <tag></tag>
+   <elementGuidId>6a71080b-69cb-4e80-b235-393ad510000e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ConfirmationCustomer_submit__-eDBH.ConfirmationCustomer_yes__O8llx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df14a667-db38-4794-8ecd-965272ff95a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ConfirmationCustomer_submit__-eDBH ConfirmationCustomer_yes__O8llx</value>
+      <webElementGuid>33e894a5-6ac3-49b1-9d02-ff0f4f8e97b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>71ae021f-806d-4961-b5cb-b7ba62e82634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[1]/div[@class=&quot;layout_MenuTopBar__HKr1j&quot;]/div[@class=&quot;layout_wrapper_header__ScPnq&quot;]/div[@class=&quot;row&quot;]/div[2]/div[@class=&quot;ConfirmationCustomer_wrap__O8LUl&quot;]/div[@class=&quot;ConfirmationCustomer_confirmation__693hh&quot;]/div[@class=&quot;ConfirmationCustomer_wrap_button__6BVs3&quot;]/button[@class=&quot;ConfirmationCustomer_submit__-eDBH ConfirmationCustomer_yes__O8llx&quot;]</value>
+      <webElementGuid>8fd5b5ab-a6ed-426c-83f0-b3306b4de5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]</value>
+      <webElementGuid>7f8e306c-a8ac-4b4d-9940-d8aef890616e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
+      <webElementGuid>e87cb561-8115-4e73-980a-03ff279f919d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you want to choose this company?'])[1]/following::button[2]</value>
+      <webElementGuid>76f25001-a55b-4e66-b582-3cb9d6f840bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item Lock'])[1]/preceding::button[1]</value>
+      <webElementGuid>dc86a79e-d03e-44f5-a17a-005e7700e105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::button[1]</value>
+      <webElementGuid>fe740df2-0605-47b0-83bc-8c0c464d5371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>acb21e63-7ffa-40c0-b65a-1375123f9fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>96751615-43a8-4fc3-86dc-6b6afedbb363</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

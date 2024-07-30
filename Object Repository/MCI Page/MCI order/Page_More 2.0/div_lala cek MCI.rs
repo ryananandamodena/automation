@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_lala cek MCI</name>
+   <tag></tag>
+   <elementGuidId>3f6b570d-3d8d-4b5b-8ea4-8d411b535b1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_14_content']/div/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Card_title_card_campaign__9rqCE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b892461e-e825-4cf2-aa9a-1a7650c4b53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card_title_card_campaign__9rqCE</value>
+      <webElementGuid>3ea9092e-3721-410e-8d19-5f247d168340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>lala cek MCI</value>
+      <webElementGuid>cb87ca22-42c4-454b-9931-fba0db5e2956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_14_content&quot;)/div[1]/div[@class=&quot;mr-2 ml-2 mb-2&quot;]/div[1]/div[1]/div[@class=&quot;Card_card__4397U  bg-[#fff] border-[#d9d9d9] border-[1px]&quot;]/div[@class=&quot;Card_wrapper_card__Y445T&quot;]/div[@class=&quot;Card_wrap_content__YrYzc&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;Card_title_card_campaign__9rqCE&quot;]</value>
+      <webElementGuid>e245d86f-015a-44c3-9b89-668a126807ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_14_content']/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d23ad262-b4ad-4750-98a0-9b97e43afe58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[13]</value>
+      <webElementGuid>0a8cd8f2-f214-4728-aad3-daa4d30f50ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Customer'])[2]/following::div[18]</value>
+      <webElementGuid>cb1921f2-2f52-465f-8f78-ca01643f8f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lala@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>ec8eea0a-c7dc-4f05-a4f6-78e8e7453bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::div[5]</value>
+      <webElementGuid>76cfc83f-f45b-481b-b691-ff743972fb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='lala cek MCI']/parent::*</value>
+      <webElementGuid>0a6ad54e-4fa1-485e-96fb-9d831e91f031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>50ec61d8-1202-46f5-90ec-b6b0de0b5f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'lala cek MCI' or . = 'lala cek MCI')]</value>
+      <webElementGuid>bdc8e0a7-7d65-4f28-959f-7a671e85685f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

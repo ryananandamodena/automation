@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_enEN - EnglishID - IndonesianUser Pusat_929346</name>
+   <tag></tag>
+   <elementGuidId>5d70c925-28f0-4c0b-bb87-dc963bf8dedb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a8d4724-1c55-4354-9532-310e1bd1cce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>04f02394-e616-448d-8f63-e6c38985924a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>enEN - EnglishID - IndonesianUser PusatMODENA IndonesiaView ProfileChange CompanyChange PasswordLogout</value>
+      <webElementGuid>3a888f1c-b818-45d1-9941-6bfdef86a91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[1]/div[@class=&quot;layout_MenuTopBar__HKr1j&quot;]/div[@class=&quot;layout_wrapper_header__ScPnq&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>f8cfde49-2adc-4a3e-af4d-439bd7621e40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>8cff88bc-9afa-4679-9426-d90c5192bbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimize'])[1]/following::div[6]</value>
+      <webElementGuid>58f031ef-2d7e-4ff0-ba72-7394a5c72486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval'])[1]/following::div[12]</value>
+      <webElementGuid>7a0ece72-6309-48ad-a3df-174f5e061bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>5e09015a-b717-43a4-89ec-f808b4b52bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'enEN - EnglishID - IndonesianUser PusatMODENA IndonesiaView ProfileChange CompanyChange PasswordLogout' or . = 'enEN - EnglishID - IndonesianUser PusatMODENA IndonesiaView ProfileChange CompanyChange PasswordLogout')]</value>
+      <webElementGuid>492d73c1-6134-46fd-a49c-b4fc5bd8bed9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

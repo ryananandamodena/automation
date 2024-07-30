@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create User CabangMODENA Indonesia</name>
+   <tag></tag>
+   <elementGuidId>0d36c42b-97b2-4395-a77f-57387f5cc4af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.layout_profile__037PL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a3895b1-e567-4670-be2f-93162347adee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout_profile__037PL</value>
+      <webElementGuid>511e15a2-9b4d-4e3a-bc05-b6e13267af92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create User CabangMODENA Indonesia</value>
+      <webElementGuid>16138a34-4cda-474b-9df4-5a6953619c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[1]/div[@class=&quot;layout_MenuTopBar__HKr1j&quot;]/div[@class=&quot;layout_wrapper_header__ScPnq&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;layout_topbar_status__YJQIs&quot;]/ul[1]/li[3]/div[@class=&quot;layout_topbar_profile__WZnsi&quot;]/div[@class=&quot;layout_profile__037PL&quot;]</value>
+      <webElementGuid>d585a50e-ff0e-4881-827f-b1f2a3bb32ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[3]/div/div</value>
+      <webElementGuid>b24448e3-23d2-495b-a2fd-561d5055f2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID - Indonesian'])[1]/following::div[3]</value>
+      <webElementGuid>062a4cd4-32ed-48a9-896a-7afd8e2f1844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN - English'])[1]/following::div[3]</value>
+      <webElementGuid>9b856c16-e051-46ad-8294-60314c760393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[1]/preceding::div[2]</value>
+      <webElementGuid>014bdd5e-4d60-47d2-b5aa-56fc77bad8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>19e421ad-edfe-4112-9fac-9056b1f2876b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create User CabangMODENA Indonesia' or . = 'Create User CabangMODENA Indonesia')]</value>
+      <webElementGuid>38809c8b-2b16-4033-8f04-fd7a8301edf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

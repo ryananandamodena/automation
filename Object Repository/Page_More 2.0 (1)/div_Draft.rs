@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Draft</name>
+   <tag></tag>
+   <elementGuidId>eb07742e-33f1-46d9-acf3-9257f1184539</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orderlist_status_badge_draft__so0Pq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_2948244']/div[3]/div/table/tbody/tr/td[9]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>423d8542-59fe-4f67-984f-be8af8a0b999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orderlist_status_badge_draft__so0Pq</value>
+      <webElementGuid>25e3e2f8-72be-4718-ad06-e1e42c0d9a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Draft</value>
+      <webElementGuid>2b8c92f9-5990-410a-9f60-e71b23040ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_2948244&quot;)/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed scroll&quot;]/table[@class=&quot;table m-table table-condensed&quot;]/tbody[@class=&quot;tb_bg&quot;]/tr[1]/td[@class=&quot;text-overflow-hidden&quot;]/div[@class=&quot;orderlist_status_badge_draft__so0Pq&quot;]</value>
+      <webElementGuid>a8391aed-b1dc-4f3e-b393-77fdc190eeb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_2948244']/div[3]/div/table/tbody/tr/td[9]/div</value>
+      <webElementGuid>1f42e386-08ac-489f-b3f0-ec67eea93da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create User Cabang'])[2]/following::div[1]</value>
+      <webElementGuid>0e5ed86e-8852-4432-a391-ead8b971c378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 0'])[1]/following::div[1]</value>
+      <webElementGuid>83227ea9-ba26-4b98-bfd4-a5a2affa50c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MORE/SO/2400010261'])[1]/preceding::div[2]</value>
+      <webElementGuid>f37ecc84-ff5d-48d8-96aa-ef23464c7d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECTRONIC CITY INDONESIA, PT'])[2]/preceding::div[3]</value>
+      <webElementGuid>0bd69d8d-ea23-417d-a929-032b9f59f92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div</value>
+      <webElementGuid>907bfef2-004e-4642-a089-4f32ce9b8dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Draft' or . = 'Draft')]</value>
+      <webElementGuid>00ad18ce-f02b-482c-a25f-5587bdc84375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Product</name>
+   <tag></tag>
+   <elementGuidId>5131b165-c503-478d-8fab-e4c461564ccc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[39]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.d-flex.align-items-center.justify-content-center.mb-5 > button.btn.btn-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7092780-7f04-4202-b006-18b2d2d7f209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark</value>
+      <webElementGuid>9a3e7220-266c-4657-b2d3-66c7d18559c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f243a3c-eb6e-44a5-bcb4-81c625949c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Product</value>
+      <webElementGuid>817b27be-dff6-4afc-9639-faa439593177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row d-block&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row d-flex align-items-center justify-content-center mb-5&quot;]/button[@class=&quot;btn btn-dark&quot;]</value>
+      <webElementGuid>4b8e0aa7-c27c-490b-95ec-d6fceb02be1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[39]</value>
+      <webElementGuid>d4d88071-55cb-4a66-8ec2-902ba50a3340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/section/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>97b7f5c5-d849-4932-b2e2-97d99e4c2082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Product'])[1]/following::button[1]</value>
+      <webElementGuid>3f41bcaf-e39a-4228-9e2b-43d73cf746e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='last_page'])[3]/following::button[1]</value>
+      <webElementGuid>36a7c695-7a39-4708-9d57-03b8f90af76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Modena Retail 2022'])[1]/preceding::button[1]</value>
+      <webElementGuid>49602dde-8a75-48de-8305-96a1615ad906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Product']/parent::*</value>
+      <webElementGuid>56416450-c6e1-400d-8ce0-1bd8cf8b4ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>bc374372-cd2b-4f00-9d32-06f05fbfa1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add Product' or . = ' Add Product')]</value>
+      <webElementGuid>b5459581-9493-4189-ac5d-7c75701261d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

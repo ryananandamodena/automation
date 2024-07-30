@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_MODENA Indonesia (MODENA_LIVE)</name>
+   <tag></tag>
+   <elementGuidId>dbf9e3e9-ddf5-4287-b76a-f2f169391a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal_card__NIIq7 > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_1_content']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>db7cc1a9-5021-4370-9cc6-0d8dfaf9be7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MODENA Indonesia (MODENA_LIVE)</value>
+      <webElementGuid>99cd03bc-de1c-4a52-8da2-fc974b7bda71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_1_content&quot;)/div[@class=&quot;pb-1&quot;]/div[@class=&quot;modal_card__NIIq7&quot;]/p[1]</value>
+      <webElementGuid>9a896fe1-26a4-4724-9717-5922882906e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_1_content']/div/div/p</value>
+      <webElementGuid>12f60f83-b5c8-4442-a49b-3c5d24569b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Company'])[1]/following::p[1]</value>
+      <webElementGuid>2aa7467a-8b44-4365-b555-cbd47dd29a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>0b91af72-4064-4e87-8756-8cf8af7cb338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MODENA Indonesia (MODENA_LIVE)']/parent::*</value>
+      <webElementGuid>1235f671-7ec0-4b2f-814f-44b9af3f9d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>bbd2b1e8-b316-42fb-bba8-29d62edc6cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'MODENA Indonesia (MODENA_LIVE)' or . = 'MODENA Indonesia (MODENA_LIVE)')]</value>
+      <webElementGuid>6b5cb0d0-c7b2-44ae-a74b-3a66b842c13a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

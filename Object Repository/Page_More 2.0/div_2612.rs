@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2612</name>
+   <tag></tag>
+   <elementGuidId>d65beed1-3959-4a08-bf03-1c8e85179d48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5e36eb8-5d2f-4d18-a527-a8c4c0819eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-2 text-center list_product_image__u85dp</value>
+      <webElementGuid>79952468-f843-4339-991e-77aea30616fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2612</value>
+      <webElementGuid>8e06f83c-e8bc-4ad7-8a26-a5a1f50c306e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[2]/div[@class=&quot;list_wrap_main__YGZfN&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-12&quot;]/div[@class=&quot;list_wrap_form2__YTXPS&quot;]/div[@class=&quot;list_wrapper_form2__+H4qV&quot;]/div[@class=&quot;row mt-7&quot;]/div[@class=&quot;col-lg-4 col-md-6 col-sm-6 col-12&quot;]/div[@class=&quot;cursor-pointer list_list_product__6ZNLQ&quot;]/div[@class=&quot;lg:p-2 text-center list_product_image__u85dp&quot;]</value>
+      <webElementGuid>7986d41d-7017-4c88-b087-300afb501e27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>02e0086f-0dbd-41c7-8ad9-3d520bac6b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[4]</value>
+      <webElementGuid>03620cf6-b2a6-4af1-b801-f237875d4c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Product'])[1]/following::div[10]</value>
+      <webElementGuid>7c3e4415-13a5-472d-9fa9-56d7ccb09c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODENA SLIM HOOD'])[1]/preceding::div[4]</value>
+      <webElementGuid>c4f322c2-9551-466a-b03d-0a1a7151a268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PX 6001'])[1]/preceding::div[5]</value>
+      <webElementGuid>eb06088f-f50e-4866-af0f-ecae2f36160c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>5fd05e06-3681-431e-a8a3-8b9d12351919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2612' or . = '2612')]</value>
+      <webElementGuid>f17ecefc-c0bf-46a1-b63c-a97f89c5c1a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

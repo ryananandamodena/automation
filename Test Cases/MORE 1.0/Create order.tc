@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3f4628c-214b-4072-a9e1-025164e0619a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>271efdb9-1737-4534-baeb-9db21c3e5ea6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eaed67c0-ab0e-48c2-9e5d-0a5195ec31c9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22c6cb11-9428-4f5d-8f00-0572f020569b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>271efdb9-1737-4534-baeb-9db21c3e5ea6</id>
+      <masked>false</masked>
+      <name>Customer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eaed67c0-ab0e-48c2-9e5d-0a5195ec31c9</id>
+      <masked>false</masked>
+      <name>Item</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22c6cb11-9428-4f5d-8f00-0572f020569b</id>
+      <masked>false</masked>
+      <name>Quantity</name>
+   </variable>
+</TestCaseEntity>

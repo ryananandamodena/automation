@@ -21,16 +21,31 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://more-dev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Email or Username_username'), 
-    UserName)
+WebUI.setText(findTestObject('Object Repository/Page_More 2.0 (1)/input_Email or Username_username'), 'user.cabang')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/input_Password_password'), 
-    Password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_More 2.0 (1)/input_Password_password'), 'W3hObB4uSEA=')
 
-WebUI.click(findTestObject('Object Repository/More Sales Management/Login/Page_More 2.0/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/button_Login'))
 
-WebUI.verifyElementText(findTestObject('More Sales Management/Login/Page_More 2.0/img_Dashboard_sidebar_logo img_full'), 
-    '')
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/p_MODENA Indonesia (MODENA_LIVE)'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/button_Yes'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/li_Order'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/a_Order'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/div_Draft'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/img_Draft_orderlist_dot_menu__3cW6h'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/a_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/button_Continue'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/div_Create User CabangMODENA Indonesia'))
+
+WebUI.click(findTestObject('Object Repository/Page_More 2.0 (1)/li_Logout'))
 
 WebUI.closeBrowser()
 
