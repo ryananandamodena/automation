@@ -36,25 +36,23 @@ WebUI.click(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dicti
 
 WebUI.click(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/button_New Performance Dictionary'))
 
-WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/input__kpi_name'), 'QA Tester 1')
+WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/input__kpi_name'), '')
 
 WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/textarea_100 x capaiantarget'), 
-    '100% x capaian/target')
+    '')
 
 WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/textarea_100 x capaiantarget_1'), 
-    '100% x capaian/target')
+    '')
 
 WebUI.click(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/div_Formula100 x capaiantarget'))
 
 WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/textarea_capaiantarget x 100_1'), 
-    'capaian/target x 100%')
+    '')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/select_Select CategoryMandatoryGeneral'), 
     'Mandatory', true)
 
 WebUI.click(findTestObject('Object Repository/HC PORTAL - HASTRI/Mandatory Dictionary/button_Save'))
-
-WebUI.verifyMatch('', '', false)
 
 WebUI.closeBrowser()
 

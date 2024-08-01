@@ -6,12 +6,12 @@
    <elementGuidId>bd80049c-ffc9-420d-a301-21cfcd26f1d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div/nav/div/div/div/div/div/div[10]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fb6d363b-3e37-44d9-a529-a31d0ee71eb7</webElementGuid>
+      <webElementGuid>00609733-5a21-4950-946a-e7653fe8b04a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>xl:text-sm text-xs font-medium text-white hover:text-emerald-500 pt-1 cursor-pointer</value>
-      <webElementGuid>834a83d3-3072-4739-8b2c-ad1cd0bfc6fe</webElementGuid>
+      <webElementGuid>5f9c6d42-5ea6-4493-aa75-ace090891bf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Master</value>
-      <webElementGuid>38297fb9-5511-46cc-bd52-a81cb4bb4c6e</webElementGuid>
+      <webElementGuid>c8c73f19-aec6-456f-b24f-25333c3995c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/nav[@class=&quot;w-full pb-6&quot;]/div[@class=&quot;false&quot;]/div[@class=&quot;px-8 pb-2 w-full&quot;]/div[@class=&quot;flex h-12 justify-between&quot;]/div[@class=&quot;flex xl:gap-6 sm:gap-4&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative group pr-6 pt-5&quot;]/div[@class=&quot;xl:text-sm text-xs font-medium text-white hover:text-emerald-500 pt-1 cursor-pointer&quot;]</value>
-      <webElementGuid>924c45c5-c3c6-47b0-96e2-20f325fc9eed</webElementGuid>
+      <webElementGuid>d86ee4e5-f43b-47f2-95f8-60c689dd8ab6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/nav/div/div/div/div/div/div[10]/div/div</value>
-      <webElementGuid>867b6ea0-f251-4800-9b55-b6b949262575</webElementGuid>
+      <webElementGuid>34ec0cec-bdc6-4f41-bc57-0c3a4ef41fa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Resign Report'])[1]/following::div[3]</value>
-      <webElementGuid>9478311d-a581-4c62-8219-d16c18b6177d</webElementGuid>
+      <webElementGuid>46aee247-7691-416a-b432-ca766dd17392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PMK Report'])[1]/following::div[4]</value>
-      <webElementGuid>1e122c4e-460b-4bf1-88b0-9ca6e52a6ae1</webElementGuid>
+      <webElementGuid>ac2b51d9-7a58-4147-aa83-6cf346f8c84f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MPP Period Setting'])[1]/preceding::div[2]</value>
-      <webElementGuid>6c4d54f9-85a9-4be9-a720-0fbaa71ad150</webElementGuid>
+      <webElementGuid>fe444c1c-bc52-4c0f-ab68-4adb6a3f8bda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alternate Approval Setting'])[1]/preceding::div[3]</value>
-      <webElementGuid>ede630f0-2586-4a4e-8f04-c761755f3a6d</webElementGuid>
+      <webElementGuid>9c0b0ff6-1cb6-405f-ac4a-f7ca4ee97fd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Master']/parent::*</value>
-      <webElementGuid>309d2f9c-7017-4de8-900f-4041b0a4633e</webElementGuid>
+      <webElementGuid>d09e7421-cfd7-4b64-962f-e86af505a70b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div</value>
-      <webElementGuid>5f100d55-ddf1-4148-b42d-d3c9d4689253</webElementGuid>
+      <webElementGuid>a93279e6-c000-4410-be31-77069b568c5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Master' or . = 'Master')]</value>
-      <webElementGuid>fbe00724-8f54-41b9-b618-e98398eebfd1</webElementGuid>
+      <webElementGuid>af8f1971-be17-4871-b22d-c5665ef955b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

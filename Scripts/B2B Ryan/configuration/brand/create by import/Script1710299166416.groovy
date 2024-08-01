@@ -39,7 +39,7 @@ WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/div_Import Data'))
 
 WebUI.delay(2)
 
-WebUI.uploadFile(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'C:\\Users\\ryan.ananda\\Downloads\\Sample_Brands.xlsx')
+WebUI.uploadFile(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input__kpi_name'), 'C:\\Users\\ryan.ananda\\Downloads\\Sample_Brands.xlsx')
 
 WebUI.delay(5)
 

@@ -25,7 +25,7 @@ WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/HC PORTAL - HASTRI/input_Email_username'), 'hastri.danahiswari@modena.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/HC PORTAL - HASTRI/input_Password_password_1'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/HC PORTAL - HASTRI/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/HC PORTAL - HASTRI/button_Sign in'))
 

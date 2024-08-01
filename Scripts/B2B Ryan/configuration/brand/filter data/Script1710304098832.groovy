@@ -44,7 +44,7 @@ WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/sel
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'COBA Update')
+WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input__kpi_name'), 'COBA Update')
 
 WebUI.delay(2)
 
@@ -82,7 +82,7 @@ WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/sel
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), '\'\'')
+WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input__kpi_name'), '\'\'')
 
 WebUI.delay(2)
 

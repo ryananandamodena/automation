@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>HC PORTAL - HASTRI</name>
+   <name>Dictionary HC Portal</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -12,13 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>12f74ed2-d252-4dca-9d22-f0016b9bbb30</testSuiteGuid>
    <testCaseLink>
-      <guid>e8eafa64-ee71-4af5-a626-c5c8b5c779fd</guid>
+      <guid>994630fc-328c-4c8d-8658-e9d80f7ab6e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HC PORTAL - HASTRI/Add Mandatory Dictionary</testCaseId>
+      <testCaseId>Test Cases/HC PORTAL - HASTRI/dictionary</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>13f15840-776b-4c01-b2bd-5a40f05fd0d1</id>
+         <id>a82aad9c-0edf-47c6-9222-2187b1d902de</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,22 +27,22 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>13f15840-776b-4c01-b2bd-5a40f05fd0d1</testDataLinkId>
+         <testDataLinkId>a82aad9c-0edf-47c6-9222-2187b1d902de</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>performancename</value>
-         <variableId>970dd7da-3c9a-4a9b-b9c9-93076878bfb0</variableId>
+         <variableId>45535738-8820-45ec-abdf-dbc4c056955a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>13f15840-776b-4c01-b2bd-5a40f05fd0d1</testDataLinkId>
+         <testDataLinkId>a82aad9c-0edf-47c6-9222-2187b1d902de</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>definition</value>
-         <variableId>e79fc9cb-cd21-42b5-bdc8-8d4da715412f</variableId>
+         <variableId>68f2b6be-cc4d-40c7-ae74-502b92ca1b5b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>13f15840-776b-4c01-b2bd-5a40f05fd0d1</testDataLinkId>
+         <testDataLinkId>a82aad9c-0edf-47c6-9222-2187b1d902de</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>formula</value>
-         <variableId>5e9255e8-d248-4446-b849-5c7e967e041c</variableId>
+         <variableId>5d7dc77c-3307-4cbf-b90d-29f7383f1b0f</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -6,4 +6,52 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>7b818787-8bfd-492c-9590-cda7a3abc838</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a38a456a-0960-4bdd-a247-e2807f717c1f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Hastri/Mandatory Dictionary HC Portal</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32e61f71-7bf6-4484-80c8-292e3548d478</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13f8e26e-cb26-4e52-9684-0a9765e7efac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79873691-ef99-4f1b-b114-5527381b7278</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32e61f71-7bf6-4484-80c8-292e3548d478</id>
+      <masked>false</masked>
+      <name>performancename</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13f8e26e-cb26-4e52-9684-0a9765e7efac</id>
+      <masked>false</masked>
+      <name>definition</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79873691-ef99-4f1b-b114-5527381b7278</id>
+      <masked>false</masked>
+      <name>formula</name>
+   </variable>
 </TestCaseEntity>
