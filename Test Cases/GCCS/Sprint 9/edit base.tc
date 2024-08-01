@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>edit cost</name>
+   <name>edit base</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d320b794-aef5-4dc7-a34b-a7cb55006b55</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92c70b92-7e57-440d-a7bb-0c589a8c9c40</testCaseGuid>
 </TestCaseEntity>

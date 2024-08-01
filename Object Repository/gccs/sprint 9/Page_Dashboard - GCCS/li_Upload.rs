@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Login</name>
+   <name>li_Upload</name>
    <tag></tag>
-   <elementGuidId>5e8d6f3b-a240-4546-b797-00de534cfeff</elementGuidId>
+   <elementGuidId>567ef072-4b60-42a4-afd4-4ebba23d0519</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.p-button-label.p-c</value>
+         <value>a:nth-of-type(7) > li.sub-sub-menu-list</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/form/div/button/span</value>
+         <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/ul/a[7]/li</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Login&quot;i</value>
+         <value>internal:role=link[name=&quot;Upload&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,71 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>32ce0744-3019-4c20-b18b-0d4b0308d1fe</webElementGuid>
+      <value>li</value>
+      <webElementGuid>20b84c32-a390-4cdd-ab01-31406fed660d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p-button-label p-c</value>
-      <webElementGuid>15900b62-907c-4d81-9e59-1b0f9cc53eff</webElementGuid>
+      <value>sub-sub-menu-list</value>
+      <webElementGuid>313d747e-047e-4eca-8770-c6358a00d770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>00d1e93b-ec4e-4be8-bdac-21f241055280</webElementGuid>
+      <value>Upload</value>
+      <webElementGuid>93731c9d-a038-43b8-a04e-31f14eaecdc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;flex justify-content-center align-items-center login-container&quot;]/form[@class=&quot;p-fluid login-form&quot;]/div[@class=&quot;inner-form&quot;]/button[@class=&quot;p-button p-component btn btn-primary  btn-regular&quot;]/span[@class=&quot;p-button-label p-c&quot;]</value>
-      <webElementGuid>54cb9128-a82e-4383-b8e5-e6e2f55182ca</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[5]/li[@class=&quot;sub-menu-list&quot;]/ul[@class=&quot;sub-sub-menu&quot;]/a[7]/li[@class=&quot;sub-sub-menu-list&quot;]</value>
+      <webElementGuid>01a663b2-d861-4f2b-90c8-3aef4a34d23a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div/button/span</value>
-      <webElementGuid>61cc2dee-eb84-43ef-a16b-3fe209026f53</webElementGuid>
+      <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/ul/a[7]/li</value>
+      <webElementGuid>57ae1c71-3110-40d0-8891-efa1150e6fd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>0f03f9a0-b650-4f19-be32-08082ef1d8c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapping Model'])[1]/following::li[1]</value>
+      <webElementGuid>91dda6dd-dc3d-4dd9-9083-57425da7dbb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::span[1]</value>
-      <webElementGuid>13406f9e-e234-4bd6-9655-1092f12194df</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost'])[1]/following::li[2]</value>
+      <webElementGuid>e87df777-3e9f-440e-abe9-053245b92577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GATOT KUSNARIANTO'])[1]/preceding::li[2]</value>
+      <webElementGuid>270c24e5-8485-4f9a-8057-43c628a7c0a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span</value>
-      <webElementGuid>a8ee9b77-462b-44ad-9cfe-21254f0f8f25</webElementGuid>
+      <value>//a[7]/li</value>
+      <webElementGuid>ac7ac391-7764-467c-87b1-775dddcad885</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>48777b7d-b6a3-4a44-8b26-e251af154a0e</webElementGuid>
+      <value>//li[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>cfd554f4-a85c-485a-bb69-2f1d39bbde78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

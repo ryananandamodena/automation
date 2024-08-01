@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_userName</name>
+   <name>div_Sign in_mectrl_headerPicture</name>
    <tag></tag>
-   <elementGuidId>d31c2576-7f45-466d-a20d-88554daa390a</elementGuidId>
+   <elementGuidId>441596c0-568e-42be-b50b-791e34e2281d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#userName</value>
+         <value>#mectrl_headerPicture</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='userName']</value>
+         <value>//div[@id='mectrl_headerPicture']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Input Your Username&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -28,119 +22,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>d24425f2-be90-4c87-ad82-6005908ce1ef</webElementGuid>
+      <value>div</value>
+      <webElementGuid>ca342d90-eac6-46cc-877e-2143eba9254d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>a90685ef-f286-4b7c-a119-ccfa9fa426d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>8cbbbb3a-ddad-4b31-85f4-d25af9d33ff6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Input Your Username</value>
-      <webElementGuid>81b52575-50bf-498a-b6ad-c4550adec43d</webElementGuid>
+      <value>mectrl_headerPicture</value>
+      <webElementGuid>17a2ddc1-d930-432e-9a6e-eebcca2fd446</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p-inputtext p-component p-filled form-input</value>
-      <webElementGuid>9c7438f8-5193-4ee7-ae93-69e54b8b11ef</webElementGuid>
+      <value>mectrl_profilepic mectrl_glyph mectrl_signIn_circle_glyph</value>
+      <webElementGuid>f5da23b9-c4be-4d33-8f15-04aaddd1977c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>aria-hidden</name>
       <type>Main</type>
-      <value>s</value>
-      <webElementGuid>6fa01ff8-6ab8-4835-b2f3-f82143602980</webElementGuid>
+      <value>true</value>
+      <webElementGuid>3c3cf710-b8f2-4c96-ae68-7dab67e013c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>77cb5bcc-e486-41cc-a1ff-fcdca14fa6ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;userName&quot;)</value>
-      <webElementGuid>0f4edeca-3d53-4ce3-b56d-cde26706d887</webElementGuid>
+      <value>id(&quot;mectrl_headerPicture&quot;)</value>
+      <webElementGuid>911b531a-9828-404c-8f16-42021cbebb80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='userName']</value>
-      <webElementGuid>e89d7040-bd7f-4ab3-8087-b103c2f822eb</webElementGuid>
+      <value>//div[@id='mectrl_headerPicture']</value>
+      <webElementGuid>4262fe01-ef76-4f4c-ab69-ad104b823943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div/div/input</value>
-      <webElementGuid>5cf7a29d-6067-48fb-8555-7e56b05566f1</webElementGuid>
+      <value>//a[@id='mectrl_main_trigger']/div/div[2]</value>
+      <webElementGuid>8fde13c4-ddfe-46bb-afb4-3bd37a15d305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::input[1]</value>
-      <webElementGuid>5734b622-c04f-42fd-a2bd-a2c4056ce294</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[1]</value>
+      <webElementGuid>66908266-1b43-4f24-a60e-7520c6049c94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GCCS'])[1]/following::input[1]</value>
-      <webElementGuid>b8d3d392-2e8e-4b79-90d3-1ba01c96c1ed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to your account'])[1]/following::div[3]</value>
+      <webElementGuid>a3174a9f-a894-4c7b-8ec3-c62ddf2bdf8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::input[1]</value>
-      <webElementGuid>278479c5-9553-4bd2-afde-ac099e000319</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='res.cdn.office.net/officehub'])[1]/preceding::div[3]</value>
+      <webElementGuid>5911947d-9770-4edb-8736-72808eab4ca0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::input[2]</value>
-      <webElementGuid>f00e596d-b37b-4f68-a77d-5425a4dd4dca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='True'])[1]/preceding::div[5]</value>
+      <webElementGuid>d6a29d69-2b43-4100-996a-597bc21c99f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>99702f79-ae89-498e-8a3b-fc295467f0a8</webElementGuid>
+      <value>//a/div/div[2]</value>
+      <webElementGuid>34a227d2-cd08-4d81-9999-61ff32c7f7f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'userName' and @name = 'userName' and @placeholder = 'Input Your Username']</value>
-      <webElementGuid>75f0a92a-2d1e-4c23-bc46-8c23f4232f8a</webElementGuid>
+      <value>//div[@id = 'mectrl_headerPicture']</value>
+      <webElementGuid>49509b13-58e3-48a2-9a02-07a820270337</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

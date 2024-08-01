@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cost</name>
+   <tag></tag>
+   <elementGuidId>5c44d0a9-e018-4fba-b9db-9e1eff29687b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> internal:text=&quot;Cost&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>186b99ce-e0e2-4807-bc9d-6d5855a531d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-tab false false</value>
+      <webElementGuid>ae777c5f-73a9-4bc8-a5ef-00aba16b69c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost</value>
+      <webElementGuid>2a3611ea-7c4e-46e2-ad11-c350de37d0b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;call-entry-list-product-membership-container&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-header&quot;]/div[@class=&quot;tab-container&quot;]/div[@class=&quot;align-items-center&quot;]/span[@class=&quot;sub-tab false false&quot;]</value>
+      <webElementGuid>339da301-51be-49ee-89e4-5b088267eced</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div[2]/div/div/div/div/div[4]/span</value>
+      <webElementGuid>4fcda1cb-fc09-4681-b2dc-33ce711bbe2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution'])[1]/following::span[1]</value>
+      <webElementGuid>a1ed00d7-3a12-468e-9a95-7bccd86d0fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapping Model'])[2]/following::span[2]</value>
+      <webElementGuid>ff760475-f812-4b6d-aac6-a1e28b5aa900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Data (0)'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff7d54cb-55dd-4623-be7b-68e328c17a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::span[3]</value>
+      <webElementGuid>66d15b07-31a6-4d71-8a68-111732a76491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>cf4e15ab-9045-4f4f-868c-0e81ede4aac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cost' or . = 'Cost')]</value>
+      <webElementGuid>15f7887f-2742-4eca-b0f1-20715ac988e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

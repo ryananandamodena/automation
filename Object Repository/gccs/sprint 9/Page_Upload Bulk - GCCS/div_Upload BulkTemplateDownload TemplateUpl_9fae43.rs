@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Master Knowledge</name>
+   <name>div_Upload BulkTemplateDownload TemplateUpl_9fae43</name>
    <tag></tag>
-   <elementGuidId>7bf4ddd7-0393-4ecb-afc9-5d85167f3fc9</elementGuidId>
+   <elementGuidId>e556ffe2-800c-4069-ba82-aecdcc37249d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a:nth-of-type(5) > li.sub-menu-list > div.sub-menu-content</value>
+         <value>div.p-card-content</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/div</value>
+         <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Master Knowledge&quot;i]</value>
+         <value>internal:text=&quot;Upload BulkTemplateDownload TemplateUploadUpload Fileformat: .xlsx, .xls (max 1 &quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1a4ffab2-2a10-4da3-a811-e115dc3f684e</webElementGuid>
+      <webElementGuid>1f41fead-0f25-4a2e-8232-c631c2bfdaa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sub-menu-content</value>
-      <webElementGuid>b8922c59-9ce7-447b-b1e6-5902b45d5778</webElementGuid>
+      <value>p-card-content</value>
+      <webElementGuid>48d3bbaa-642f-4ab8-8a47-420b57812d1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Master Knowledge</value>
-      <webElementGuid>a16b6b4a-c198-488e-86fd-657af74c6522</webElementGuid>
+      <value>Upload BulkTemplateDownload TemplateUploadUpload Fileformat: .xlsx, .xls (max 1 file)Submit</value>
+      <webElementGuid>e6c267d9-05bb-4622-b85c-1e30bf25eec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[5]/li[@class=&quot;sub-menu-list&quot;]/div[@class=&quot;sub-menu-content&quot;]</value>
-      <webElementGuid>264593dd-8006-4c4a-a293-31ec824b2c4f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[1]/div[@class=&quot;my-4&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]</value>
+      <webElementGuid>6dbf44ed-75b7-4648-bc84-4441edc9161d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/div</value>
-      <webElementGuid>e62ce9c8-ac5c-4714-9481-e71c2f838188</webElementGuid>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>46a8373f-24d1-4831-aab8-f4c714cf8d1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOC'])[1]/following::div[1]</value>
-      <webElementGuid>90bb3b98-42d4-4f4c-bcff-7e2db48b8526</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update existing Data'])[1]/following::div[4]</value>
+      <webElementGuid>d3ffe4be-0658-4d9b-b8ba-b5d1b10a8b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::div[2]</value>
-      <webElementGuid>8f69e2d9-84fe-4198-8b08-597fbe1b8256</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GATOT KUSNARIANTO'])[1]/preceding::div[9]</value>
-      <webElementGuid>a04d5c7e-6dc3-40e4-a52c-45845bd18e56</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert New Data'])[1]/following::div[5]</value>
+      <webElementGuid>af4e08d8-4aeb-4aa5-b4cc-996c53defa6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[5]/li/div</value>
-      <webElementGuid>071f8d32-7ac4-4165-bb70-b226c1404f6d</webElementGuid>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>31b5e458-a8cb-4270-86f9-d99db08ac37c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Master Knowledge' or . = 'Master Knowledge')]</value>
-      <webElementGuid>f6b190bd-af42-4bce-9a60-247b0f7c0197</webElementGuid>
+      <value>//div[(text() = 'Upload BulkTemplateDownload TemplateUploadUpload Fileformat: .xlsx, .xls (max 1 file)Submit' or . = 'Upload BulkTemplateDownload TemplateUploadUpload Fileformat: .xlsx, .xls (max 1 file)Submit')]</value>
+      <webElementGuid>ee034a8e-c8a1-41ee-9547-5e3347697058</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>cost</name>
+   <name>download tamplet</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>5e26f0db-fb15-4858-b3b3-ad579044160f</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>937e0b67-8a8f-47b4-aa3e-50e4c3b332d3</testCaseGuid>
 </TestCaseEntity>

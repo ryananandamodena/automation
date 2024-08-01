@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>base</name>
+   <name>cost</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebf299fa-abe2-4297-8b60-c2684dd59e16</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e26f0db-fb15-4858-b3b3-ad579044160f</testCaseGuid>
 </TestCaseEntity>
