@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Detail</name>
+   <tag></tag>
+   <elementGuidId>b1e32477-9362-4338-9c60-6c96def746f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slider-disney-new']/div/div/div[6]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Lihat Detail &quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3557fbd5-006d-424d-8897-092cd32b5e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.modena.com/id_id/limited-edition/seri-disney-100/dispenser-air-disney-dd-7302-zdoa</value>
+      <webElementGuid>19240fa6-bdec-4674-be22-de85bea7721d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>0e2f1a6d-0de2-46f6-a971-bc2f0b2a8495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-sb-16 c-gradient-blue slider-disney-link</value>
+      <webElementGuid>3e487b8f-4da2-4c72-be5d-dc5c9deb3d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b91abbd0-5219-43d4-bcd7-2198651fffbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail </value>
+      <webElementGuid>493f0e3c-4894-464b-a920-d26e73395383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider-disney-new&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;card__standard position-relative slick-slide slick-active&quot;]/div[@class=&quot;slider-disney-wrapper&quot;]/div[@class=&quot;row&quot;]/a[@class=&quot;title-sb-16 c-gradient-blue slider-disney-link&quot;]</value>
+      <webElementGuid>3ef48905-0750-4c88-b6ca-cee6ad0fa18f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider-disney-new']/div/div/div[6]/div/div/a</value>
+      <webElementGuid>8ffb8f96-42ae-4d22-a061-0e9710c487a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Detail')])[6]</value>
+      <webElementGuid>ad33b3fb-0608-4fb9-9590-fa63454aa17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISPENSER AIR DISNEY - DD 7302 ZDOA'])[2]/following::a[1]</value>
+      <webElementGuid>435267b9-2431-4d3b-ad68-925f1736cb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[5]/following::a[1]</value>
+      <webElementGuid>ac26bd16-63c4-403e-82cb-1698afe739e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WAJAN PENGGORENGAN DISNEY - ZK 2425 ZMCA'])[2]/preceding::a[1]</value>
+      <webElementGuid>8ebe34b8-633e-491e-8eec-4bf4c8f999fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[7]/preceding::a[1]</value>
+      <webElementGuid>088006a4-10af-4776-91b2-13678e7a3d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.modena.com/id_id/limited-edition/seri-disney-100/dispenser-air-disney-dd-7302-zdoa')])[2]</value>
+      <webElementGuid>2de9b050-af72-47a6-9bf9-509500f1f598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/a</value>
+      <webElementGuid>056ed78f-1281-4e38-9d4e-c12e3ece42e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.modena.com/id_id/limited-edition/seri-disney-100/dispenser-air-disney-dd-7302-zdoa' and (text() = 'Lihat Detail ' or . = 'Lihat Detail ')]</value>
+      <webElementGuid>4504615b-b2f6-468e-a4d8-caa6e6d3e0f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

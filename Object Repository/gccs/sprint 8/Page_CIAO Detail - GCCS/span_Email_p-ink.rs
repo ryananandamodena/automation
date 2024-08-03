@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email_p-ink</name>
+   <tag></tag>
+   <elementGuidId>75a8a739-d75a-4682-9c41-bd6c0e153c49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.btn.btn-success.mx-2.btn-regular > span.p-ink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_15_content']/div[2]/div/div[2]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41550cf8-e2fb-478f-94d2-8a24883f9881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>0e467d22-ebb9-46b5-bc13-0160f542228b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>bbca68ee-57f8-462f-8540-c5e03d39ba4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_15_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;align-items-center&quot;]/div[@class=&quot;flex my-5&quot;]/button[@class=&quot;p-button p-component btn btn-success mx-2 btn-regular&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>b9ea065b-026a-4eef-8348-1bde97784409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_15_content']/div[2]/div/div[2]/button/span[2]</value>
+      <webElementGuid>747de140-3fd3-4a24-bdfb-e4be87565aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span[2]</value>
+      <webElementGuid>ff1b41fe-c346-4ceb-92e1-62ead1f3b355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

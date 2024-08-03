@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ActionVOC NoVOC TitleVOC StatusCustomer_4ebce0</name>
+   <tag></tag>
+   <elementGuidId>f8fe386c-05c1-4697-83bd-fdf470724bd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-card.p-component.custom-card.mt-3 > div.p-card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5748a155-52e9-424c-892c-067c7fb422c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-card-body</value>
+      <webElementGuid>95841242-6636-46c1-ad19-b220416fffd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActionVOC NoVOC TitleVOC StatusCustomer NamePhoneRONRON Service CenterExplanationReceive MethodCustomer RequestProductModelStatisfaction TypeUrgentDepth 1Depth 2Depth 3Tgl InsertTgl ConfirmTgl CompletePenerimaNo results foundShowed 1 - 0 of 0 Page Size1010Page1</value>
+      <webElementGuid>8b98f420-eb31-4ce8-89f0-e815f19e57b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]</value>
+      <webElementGuid>2c29344c-724e-4aed-b545-c91b04f464e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/div</value>
+      <webElementGuid>517bc545-60cc-4e0b-a3e3-9de9b1e1f400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Data'])[1]/following::div[2]</value>
+      <webElementGuid>b6ef5ebe-6a35-4810-9c76-2a0fc1af13d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::div[2]</value>
+      <webElementGuid>33df9e20-daaa-4dab-a694-3433b5cd0a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div[2]/div</value>
+      <webElementGuid>1170c9fe-e05e-4e03-91cb-60b179076127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ActionVOC NoVOC TitleVOC StatusCustomer NamePhoneRONRON Service CenterExplanationReceive MethodCustomer RequestProductModelStatisfaction TypeUrgentDepth 1Depth 2Depth 3Tgl InsertTgl ConfirmTgl CompletePenerimaNo results foundShowed 1 - 0 of 0 Page Size1010Page1' or . = 'ActionVOC NoVOC TitleVOC StatusCustomer NamePhoneRONRON Service CenterExplanationReceive MethodCustomer RequestProductModelStatisfaction TypeUrgentDepth 1Depth 2Depth 3Tgl InsertTgl ConfirmTgl CompletePenerimaNo results foundShowed 1 - 0 of 0 Page Size1010Page1')]</value>
+      <webElementGuid>63ea85dc-166e-4e58-837e-ab65008136c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

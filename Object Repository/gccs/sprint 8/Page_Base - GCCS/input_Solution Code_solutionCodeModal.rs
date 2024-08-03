@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Solution Code_solutionCodeModal</name>
+   <tag></tag>
+   <elementGuidId>dd24426a-a255-4c43-bb8d-d395e3306180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;solutionCodeModal&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='solutionCodeModal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a9cb3ca4-218a-410c-b8a1-18704a5892ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>solutionCodeModal</value>
+      <webElementGuid>b92c9800-3ffb-43ba-8b7a-b17a16b372a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component form-input flex-fill</value>
+      <webElementGuid>410f2cdb-e40e-45db-87c3-7d7f8ad32b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9c6e698d-0684-4f5a-ab2f-90727f9cf691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Solution Code</value>
+      <webElementGuid>1b89c6f5-0592-45f8-b3c0-f2d6cf9f2aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-base_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/input[@class=&quot;p-inputtext p-component form-input flex-fill&quot;]</value>
+      <webElementGuid>264d62cd-f6ad-4bf9-a48f-b42a45bb0a46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='solutionCodeModal']</value>
+      <webElementGuid>9c360901-f7f2-4b32-9f0c-df3f310d7087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-base_content']/div[2]/div/div/div[5]/div[2]/input</value>
+      <webElementGuid>42be0ba6-facf-4a84-afea-5228d0a35c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Code'])[1]/following::input[1]</value>
+      <webElementGuid>82cbebb4-ef5c-4b6f-9f91-83249bbf17ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIS - VISIT'])[4]/following::input[1]</value>
+      <webElementGuid>08e77895-63b8-4b68-98c8-9c9f6f998c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Name'])[1]/preceding::input[1]</value>
+      <webElementGuid>e3e7bd85-840b-4d81-894e-fda60f28eaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[1]/preceding::input[2]</value>
+      <webElementGuid>8263e99a-13c9-42b9-919f-11a42fc4c167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>2f102a99-33d3-4b70-bbc4-3f883d3bb563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'solutionCodeModal' and @type = 'text' and @placeholder = 'Solution Code']</value>
+      <webElementGuid>0fb590fb-294d-497b-9366-59d90ff0db41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Unit</name>
+   <tag></tag>
+   <elementGuidId>9c803c73-e970-4c6d-85d6-626bead292cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[6]/a[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sidenav_sideitemChild__2qqTI.sidenav_sideitem__1am6W.active > span.sidenav_linkText__1WaD7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f5725b0-4403-4da4-a881-5b980c9e56f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenav_linkText__1WaD7</value>
+      <webElementGuid>9ff33ff9-1391-4c7f-98aa-c2b7a24305ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unit</value>
+      <webElementGuid>1eec2707-b0c4-47cf-b42d-30387172e1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;sidenavparent&quot;]/div[@class=&quot;sidenav_sidenavHover__2Ksz8&quot;]/div[@class=&quot;sidebar-placeholder&quot;]/a[@class=&quot;sidenav_sideitemChild__2qqTI sidenav_sideitem__1am6W active&quot;]/span[@class=&quot;sidenav_linkText__1WaD7&quot;]</value>
+      <webElementGuid>387e44e4-9781-45dd-b48a-4b65148a9bdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[6]/a[3]/span</value>
+      <webElementGuid>b32bc8e3-a959-4db1-aeab-2f1450362ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::span[1]</value>
+      <webElementGuid>a009c5f4-5430-427d-b6f3-8401e8329e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Setting'])[1]/following::span[2]</value>
+      <webElementGuid>723e3539-9eb7-41a5-b337-164962246b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::span[1]</value>
+      <webElementGuid>42310ff9-d128-40c4-9c16-20e9114a3fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef124448-0b7f-49d7-bc5d-53f2c463cdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a[3]/span</value>
+      <webElementGuid>6bf5746d-ff25-493f-8286-7a0a36117a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Unit' or . = 'Unit')]</value>
+      <webElementGuid>8f3a1b05-1ca4-44c3-9230-fd180d1582ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

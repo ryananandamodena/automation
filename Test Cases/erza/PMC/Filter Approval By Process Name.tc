@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Approval By Process Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>645d065b-60cb-4a17-b1a0-95a711716a3d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac11652a-aedb-4885-8416-ce8f4d269624</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac11652a-aedb-4885-8416-ce8f4d269624</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+</TestCaseEntity>

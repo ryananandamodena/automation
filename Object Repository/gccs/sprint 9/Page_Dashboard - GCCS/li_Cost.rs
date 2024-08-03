@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Cost</name>
+   <tag></tag>
+   <elementGuidId>9de27fa9-4fbd-45f1-9bb3-4a4d0c6fb16a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/ul/a[5]/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4420e929-1f19-4f0d-a4d0-c23eba1c7149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-sub-menu-list</value>
+      <webElementGuid>8524fcbd-9962-4d64-9995-27c1fa06c96c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost</value>
+      <webElementGuid>d9021c1d-20e8-4630-a9c4-3a8005398b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/nav[@class=&quot;sidebar&quot;]/ul[1]/li[@class=&quot;menu-container sidebar-show&quot;]/ul[@class=&quot;sub-menu&quot;]/a[5]/li[@class=&quot;sub-menu-list&quot;]/ul[@class=&quot;sub-sub-menu&quot;]/a[5]/li[@class=&quot;sub-sub-menu-list&quot;]</value>
+      <webElementGuid>3fa7192a-eba5-442b-8930-112ecc3399fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/ul/li[7]/ul/a[5]/li/ul/a[5]/li</value>
+      <webElementGuid>439ed4c7-7c70-49d5-8686-deeb0c806089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Base'])[1]/following::li[1]</value>
+      <webElementGuid>2e7aa519-a0bd-4cd9-bcef-8998f69363de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge'])[1]/following::li[2]</value>
+      <webElementGuid>f824f3c1-1e71-4d8f-a3c6-5dfefe8eacf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapping Model'])[1]/preceding::li[1]</value>
+      <webElementGuid>60150c9f-6b17-4058-aeb3-ae787c09fe3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::li[2]</value>
+      <webElementGuid>04393780-8fe7-4576-9bc5-d3d2c4f31751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/li/ul/a[5]/li</value>
+      <webElementGuid>0d8bda2e-4e7f-46da-a4c2-30595718ae0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Cost' or . = 'Cost')]</value>
+      <webElementGuid>690784bd-383c-4c6c-8138-06b19fb6b9d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

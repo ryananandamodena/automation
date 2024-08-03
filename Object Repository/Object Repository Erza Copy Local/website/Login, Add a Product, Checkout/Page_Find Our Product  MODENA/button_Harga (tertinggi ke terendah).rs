@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Harga (tertinggi ke terendah)</name>
+   <tag></tag>
+   <elementGuidId>631d7850-934a-4dea-aa76-d47471505c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-toggle.button-none.border.rounded.button-select.button-sort-by</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Harga (tertinggi ke terendah)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efc632f4-7b35-484e-b4ab-e12e9cd6d4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9443875a-f42f-4de0-ac8f-1b8add30f784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle button-none border rounded button-select button-sort-by</value>
+      <webElementGuid>b1b8ade4-fb11-4f58-8989-880c5f109afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>18015b53-1c65-4a6d-8754-b4ae9a58f2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7a36dabe-5ef3-4fcf-bc07-79d8e2ab585b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5675832f-8b8e-44b2-bda0-e8ecda2d9b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                         Harga (tertinggi ke terendah)
+                                            </value>
+      <webElementGuid>371ddf9a-d13d-4bf2-bbc0-79c128443199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;widget-hide&quot;]/div[@class=&quot;content-page-modena&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;container tp&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-lg-9&quot;]/div[@class=&quot;tag-replace&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 d-none d-md-block&quot;]/div[@class=&quot;products-sort&quot;]/div[2]/div[@class=&quot;btn-group sort-by-area&quot;]/button[@class=&quot;dropdown-toggle button-none border rounded button-select button-sort-by&quot;]</value>
+      <webElementGuid>0dad4d19-2efc-4d63-9de9-39000e405646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>d6dae607-974b-4cac-89fc-f744ac9344de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sortir dengan'])[1]/following::button[1]</value>
+      <webElementGuid>689806f3-dd0b-404f-971a-b136fb5d1e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk baru'])[1]/following::button[1]</value>
+      <webElementGuid>4f6ab6bd-bdba-46b9-90af-b93e89a15a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalog'])[1]/preceding::button[1]</value>
+      <webElementGuid>62ad010a-6f83-4090-bcd0-8c3728ddd2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga (terendah ke tertinggi)'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f52bc3d-79dd-4daf-b80f-912bc7f1f7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga (tertinggi ke terendah)']/parent::*</value>
+      <webElementGuid>49c38ea5-ba0d-4c2b-83a8-32a45e92645a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>1f1e1632-f80d-41c6-bdb8-ad3675c83de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '                         Harga (tertinggi ke terendah)
+                                            ' or . = '                         Harga (tertinggi ke terendah)
+                                            ')]</value>
+      <webElementGuid>db290506-4809-4554-a4a7-c972b800f1fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Department</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2be56b0-f318-4334-981c-f7ff2bb803f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c604a33a-a2b0-444b-8831-d574a0f7265b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2606caf-d0cc-4a04-ad9f-46dd44a80085</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a37dc66-7268-4fb1-8f2c-8b0af6875299</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c604a33a-a2b0-444b-8831-d574a0f7265b</id>
+      <masked>false</masked>
+      <name>deptcode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2606caf-d0cc-4a04-ad9f-46dd44a80085</id>
+      <masked>false</masked>
+      <name>deptname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a37dc66-7268-4fb1-8f2c-8b0af6875299</id>
+      <masked>false</masked>
+      <name>sortcode</name>
+   </variable>
+</TestCaseEntity>

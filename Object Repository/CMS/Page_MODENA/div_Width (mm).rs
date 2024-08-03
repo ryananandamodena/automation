@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Width (mm)</name>
+   <tag></tag>
+   <elementGuidId>641ee3b9-9eac-462f-9a4e-9d0a8b9d10bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]/div[4]/div/div[3]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .row > div:nth-child(2)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5b68797-7aa2-4dc2-8aaf-50150ec0586c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2</value>
+      <webElementGuid>536e9d5d-eeb2-49d3-ac08-44b29ec41c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Width (mm) </value>
+      <webElementGuid>113a9189-5770-4733-940a-4223111aca86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;form-create-product&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card-footer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]</value>
+      <webElementGuid>2f36f8a6-d08d-42bf-b85f-27336f93e4ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/section/div/div/div/div/form/div[2]/div[4]/div/div[3]/div[2]/div[2]</value>
+      <webElementGuid>dcf19b5f-799f-48b0-82c4-6d297eadef6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Height (mm)'])[2]/following::div[1]</value>
+      <webElementGuid>03169f8e-619f-47fb-9d27-0626b06afbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cut Out Dimension'])[1]/following::div[4]</value>
+      <webElementGuid>5414f33b-4762-4539-873d-3ef4c69c236c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Length (mm)'])[2]/preceding::div[1]</value>
+      <webElementGuid>be8648d7-1ea4-451b-8f2d-55b9ee268c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div[2]/div[2]</value>
+      <webElementGuid>7c4866f3-dff5-4b4b-9a3f-6b7c55d23344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Width (mm) ' or . = 'Width (mm) ')]</value>
+      <webElementGuid>985681ae-bade-4beb-a41b-975eac2cab0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

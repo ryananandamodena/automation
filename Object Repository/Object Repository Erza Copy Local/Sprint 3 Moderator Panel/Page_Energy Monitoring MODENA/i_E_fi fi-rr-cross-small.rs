@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_E_fi fi-rr-cross-small</name>
+   <tag></tag>
+   <elementGuidId>8d839270-7332-4908-953b-e694c63be3eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi.fi-rr-cross-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b17e3044-0f51-4135-97ad-0717ecdffe11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-cross-small</value>
+      <webElementGuid>35fad992-dcc2-42a2-b137-a8beceebe7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;ListPLTS_popup_wrap__4tDee&quot;]/div[@class=&quot;ListPLTS_content_popup__GADLz&quot;]/i[@class=&quot;fi fi-rr-cross-small&quot;]</value>
+      <webElementGuid>33f3dbfc-90af-4c05-8b29-6669e158bd82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/i</value>
+      <webElementGuid>701ee6aa-bab9-4c63-8b8d-d729f6c67612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/i</value>
+      <webElementGuid>95baa143-00e4-4ef4-b7d4-22228331faf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

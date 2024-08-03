@@ -42,7 +42,7 @@ WebUI.click(findTestObject('B2B/Brand/Page_B2B Portal/Filter'))
 WebUI.selectOptionByValue(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/select_Select fieldBrand NameStatus'), 'brand', 
     false)
 
-WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input_Filter_filter_value'), 'COBA Update')
+WebUI.setText(findTestObject('B2B/Brand/b2binput/Page_B2B Portal/input__kpi_name'), 'COBA Update')
 
 WebUI.delay(5)
 

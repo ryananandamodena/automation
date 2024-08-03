@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Is Active_react-toggle-track</name>
+   <tag></tag>
+   <elementGuidId>1efdf4c9-a36a-4719-b55f-f0be27c9dd7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-toggle-track</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-base_content']/div[2]/div/div/div[11]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be6ba305-236f-42a9-a691-bcb1938d196c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-toggle-track</value>
+      <webElementGuid>9cbe7743-8443-4979-ac80-1fe1a4551d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-base_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;react-toggle&quot;]/div[@class=&quot;react-toggle-track&quot;]</value>
+      <webElementGuid>6539ddda-fe34-4844-9613-878f55e53b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-base_content']/div[2]/div/div/div[11]/div[2]/div/div</value>
+      <webElementGuid>1dbae139-a1c1-4a30-8a0b-57b71df94a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[1]/following::div[3]</value>
+      <webElementGuid>97c2058c-5746-408d-9e33-09b5f8db51cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Name'])[1]/following::div[6]</value>
+      <webElementGuid>21e36793-af58-4849-a0d2-d2a938d969eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[4]</value>
+      <webElementGuid>cd8d2afd-3de1-443d-bea7-dee9337da39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/div</value>
+      <webElementGuid>e1d1e74c-e28e-4f51-9056-2061cfd6ee89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

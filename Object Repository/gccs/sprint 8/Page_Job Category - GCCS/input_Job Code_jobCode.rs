@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Job Code_jobCode</name>
+   <tag></tag>
+   <elementGuidId>05269624-5828-4554-b64b-f2ab7affa4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='jobCode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;jobCode&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1d773e0f-e549-48d5-b26a-8952c299ad7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jobCode</value>
+      <webElementGuid>f1ad2af7-f4f3-4bd0-bc1c-4f15bd5c2003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component form-input flex-fill</value>
+      <webElementGuid>5071f1b4-5410-45f5-9d6e-89b972175deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5e9fa649-ab99-4461-bff7-f718869de5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-category-modal_content&quot;)/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1 mr-5&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/input[@class=&quot;p-inputtext p-component form-input flex-fill&quot;]</value>
+      <webElementGuid>e2ab356a-892b-4ad2-b656-7f9adf4c6805</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='jobCode']</value>
+      <webElementGuid>90cb2070-bfbd-4413-99ee-cfc8b3435577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-category-modal_content']/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>7ecc38d2-39c7-4fe7-9388-bdaebe44764f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Code'])[8]/following::input[1]</value>
+      <webElementGuid>b3f911fb-4387-48a0-a32d-6c7762c8f989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Job Category'])[2]/following::input[1]</value>
+      <webElementGuid>92f44991-a2b5-4278-9674-c321e5d86d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Category'])[9]/preceding::input[1]</value>
+      <webElementGuid>66e1431c-24f1-4ad6-bd8f-37f6c3a73e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[8]/preceding::input[2]</value>
+      <webElementGuid>15a291b5-4548-468a-8f15-d26f7c15ac00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>ab06cda2-4131-4c7a-8ddf-94f8cd33b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'jobCode' and @type = 'text']</value>
+      <webElementGuid>54c521d8-552e-40cf-a242-e2d0762e4409</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

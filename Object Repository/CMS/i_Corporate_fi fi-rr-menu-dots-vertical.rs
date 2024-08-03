@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Corporate_fi fi-rr-menu-dots-vertical</name>
+   <tag></tag>
+   <elementGuidId>12c71a96-a457-49a6-a347-b4c8b11241d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Corporate Deactive Edit Delete&quot;i >> internal:role=link >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9b63876f-cfda-42f5-bd61-f86e366c1f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-menu-dots-vertical</value>
+      <webElementGuid>3e6cc8b8-6d60-4b9d-b6e4-2152135cac6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;section&quot;]/div[2]/ul[@class=&quot;sortable parent ui-sortable&quot;]/li[@class=&quot;ui-sortable-handle&quot;]/span[@class=&quot;wrapper&quot;]/div[@class=&quot;toggleInteraction&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;list-icons-item&quot;]/i[@class=&quot;fi fi-rr-menu-dots-vertical&quot;]</value>
+      <webElementGuid>42e98a08-bffd-4079-acd9-6bacd043235c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span/div/div/a/i</value>
+      <webElementGuid>b91059c9-dfdb-4815-95bd-47d0da0b4b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span/div/div/a/i</value>
+      <webElementGuid>d513482e-ba30-433e-ba65-90b983b1f114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

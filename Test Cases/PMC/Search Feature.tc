@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Feature</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cde0302-eee6-40ea-93f3-d32f5bb6dfc2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>265f5c90-e33f-4dc3-bbbd-4aa17533a032</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>265f5c90-e33f-4dc3-bbbd-4aa17533a032</id>
+      <masked>false</masked>
+      <name>Keywords</name>
+   </variable>
+</TestCaseEntity>

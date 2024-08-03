@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-- Select a product category --</name>
+   <tag></tag>
+   <elementGuidId>37d6f457-f4af-49d9-99dc-a84bb0717b03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-sub_category_id-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-sub_category_id-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;-- Select a product category --&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f69ffa13-b1d4-492f-91aa-c02f5081c5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>1415052b-6200-404c-aae1-0bef6b6738b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-sub_category_id-container</value>
+      <webElementGuid>358724a3-5dc3-416c-b913-6d85d6a4fcf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>-- Select a product category --</value>
+      <webElementGuid>fccbe44b-45d8-4b73-bdf5-72614ad86bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select a product category --</value>
+      <webElementGuid>21a27a3f-0758-4817-912c-a3b127f729f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-sub_category_id-container&quot;)</value>
+      <webElementGuid>2c0fd422-2b85-48cf-8622-853c631705bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-sub_category_id-container']</value>
+      <webElementGuid>94df77ec-5d7c-4bd4-99f9-5572d8a078b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-other-org-stock']/thead/tr[4]/td[2]/span/span/span/span</value>
+      <webElementGuid>b8387301-ac47-407d-867f-1a87692dff33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Category'])[1]/following::span[4]</value>
+      <webElementGuid>00460f89-f4ed-4b26-ba6c-6533637f2af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COOLING - PROFESSIONAL'])[2]/following::span[6]</value>
+      <webElementGuid>da0e60a1-6082-40b1-9d6c-e8c7f33ea776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Based Classification'])[1]/preceding::span[3]</value>
+      <webElementGuid>10b045da-1464-48a0-9741-8e7e56c2da51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select a base classification --'])[2]/preceding::span[3]</value>
+      <webElementGuid>3a0c4907-a4f7-4e84-8256-9cd3cb60bba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/span/span/span/span</value>
+      <webElementGuid>90a73143-6775-45f2-a897-7985c079960a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-sub_category_id-container' and @title = '-- Select a product category --' and (text() = '-- Select a product category --' or . = '-- Select a product category --')]</value>
+      <webElementGuid>b25d98d2-85b3-413f-af61-33c91e91d44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih salah satu..'])[3]/following::span[4]</value>
+      <webElementGuid>4f474d88-dccf-441d-ba05-1f769314395c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih salah satu..'])[4]/preceding::span[3]</value>
+      <webElementGuid>1f9644b0-cae1-430d-bb45-2100ec18934a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

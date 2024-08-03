@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__mt-16 add_criteria</name>
+   <tag></tag>
+   <elementGuidId>cd290601-8784-40aa-8c26-57656010d1ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div/form/div[2]/div/div[4]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mt-16.add_criteria</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9dc28d29-7826-4683-9075-298f5ca9ed15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/src/icon_add.png</value>
+      <webElementGuid>dc8f873d-4ee8-4808-8714-c8271b1613f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-16 add_criteria</value>
+      <webElementGuid>a2b32ed2-a8c2-47bb-88e8-e5cf0ba3811a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[3]/div[@class=&quot;form_wrapper_form__1t9z2&quot;]/form[1]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 action_criteria&quot;]/img[@class=&quot;mt-16 add_criteria&quot;]</value>
+      <webElementGuid>cd19ecb0-dcac-422c-828d-0e8946a3c729</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/div/form/div[2]/div/div[4]/img</value>
+      <webElementGuid>ee84f0c8-fa77-4912-b6f1-adfe00ef37fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/img</value>
+      <webElementGuid>64b99269-d025-4ba4-8c68-3f13a46ca717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/src/icon_add.png']</value>
+      <webElementGuid>39a8834c-5978-47b2-b943-df7a6a9a2e63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

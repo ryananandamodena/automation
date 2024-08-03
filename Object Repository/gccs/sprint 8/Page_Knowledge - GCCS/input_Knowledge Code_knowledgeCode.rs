@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Knowledge Code_knowledgeCode</name>
+   <tag></tag>
+   <elementGuidId>ad2de865-4742-4874-a597-f93e3c7964b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='knowledgeCode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;knowledgeCode&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0b657a6f-ef87-4f4e-b144-74e5c752b792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>knowledgeCode</value>
+      <webElementGuid>6d8ac15a-576f-4bb3-b0bb-c8f87bdab36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component form-input flex-fill</value>
+      <webElementGuid>10a6c880-7c58-4740-a51c-8f78de507d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a07ad9ff-a987-41c7-9a6f-d8a20c1110a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Knowledge Code</value>
+      <webElementGuid>e849be6f-3e22-45fd-b076-08084f2afc15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-knowledge-modal_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/input[@class=&quot;p-inputtext p-component form-input flex-fill&quot;]</value>
+      <webElementGuid>3161cbe8-c03a-4cda-901a-21ac7d612d7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='knowledgeCode']</value>
+      <webElementGuid>5ca5e545-f772-47e9-b32e-b231c3d2b4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-knowledge-modal_content']/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>99437bbe-69e0-45dc-9753-0ecad912b1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge Code'])[1]/following::input[1]</value>
+      <webElementGuid>712ce3ee-f2e4-4f3e-ab95-14f50914f6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Knowledge'])[2]/following::input[1]</value>
+      <webElementGuid>fa799939-933d-42ae-b5e3-a1fc1cf4cc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knowledge Name'])[1]/preceding::input[1]</value>
+      <webElementGuid>a97574df-b55d-4c25-be1e-2dc3ef290945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[1]/preceding::input[2]</value>
+      <webElementGuid>bd9cc938-70b7-4af5-b02b-ea4c983d6e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>6fe8ea2e-d576-4b14-aebe-805e564ac19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'knowledgeCode' and @type = 'text' and @placeholder = 'Knowledge Code']</value>
+      <webElementGuid>6a9f4c93-0088-4d0b-8f62-1c2ea79363de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

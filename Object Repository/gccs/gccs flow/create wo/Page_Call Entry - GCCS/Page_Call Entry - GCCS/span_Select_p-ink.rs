@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_p-ink</name>
+   <tag></tag>
+   <elementGuidId>460cb0e9-f0ee-4beb-8469-cde8734691e6</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Call Entry - GCCS/span_Select_p-ink.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div[7]/div/div[2]/div/form/div/div/div[4]/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Call Entry - GCCS/span_Select_p-ink.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a9b04fc-e156-4803-9b3f-3fe02f573d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c7da8a08-4244-4586-8a82-d362a924058e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>b5acdf46-c600-47bf-9668-16f3e5940b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;call-entry-container&quot;]/div[@class=&quot;call-entry-list-product-membership-container&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;mt-3&quot;]/form[1]/div[@class=&quot;flex&quot;]/div[1]/div[@class=&quot;form-control&quot;]/div[@class=&quot;input-full-container&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;p-button p-component btn btn-primary ml-3 w-30 btn-regular&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>ec144a57-67c1-4ef8-a671-26424d753a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[7]/div/div[2]/div/form/div/div/div[4]/div/div/button/span[2]</value>
+      <webElementGuid>3efc5ddd-08b2-47ba-b031-c371491a0caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]/div/div/button/span[2]</value>
+      <webElementGuid>4769b28b-e0a2-433c-9912-5cb8a5c632f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

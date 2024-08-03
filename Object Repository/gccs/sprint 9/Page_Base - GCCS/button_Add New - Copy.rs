@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add New - Copy</name>
+   <tag></tag>
+   <elementGuidId>4afbbf80-f1df-41e2-9769-c45ff8910cac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx-2.my-5.flex.align-items-center > button.p-button.p-component.btn.btn-info.ml-2.btn-regular</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[1]/div[2]/div/div/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f29c3717-a7ee-4f3f-b650-06d4c8f6451e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add New</value>
+      <webElementGuid>f6302f1c-feb1-4b55-b350-58ffcd303f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component btn btn-info ml-2 btn-regular</value>
+      <webElementGuid>97a84286-a7cf-4d9a-ace4-21ca7a3c2038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a3b9580-b2e5-4f17-9d30-dfb5cd139c50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New</value>
+      <webElementGuid>9cc9d76f-f1f9-4b45-baa4-0563b88ddbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-base_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/button[@class=&quot;p-button p-component btn btn-info ml-2 btn-regular&quot;]</value>
+      <webElementGuid>2fad8b00-e372-484d-b74b-6331ba47af92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>dbd5aee5-e6e7-4685-a1a5-ae443d3a6eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-base_content']/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>81942c6c-0cbc-467e-8900-f63f2723e2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Symptom'])[2]/following::button[1]</value>
+      <webElementGuid>945086aa-9de3-4183-9cdd-e9627c939595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Symptom'])[2]/following::button[1]</value>
+      <webElementGuid>2d26df77-7f96-4eb3-9e2a-80b6881e2da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cause'])[2]/preceding::button[1]</value>
+      <webElementGuid>c066d453-4975-4af5-af6e-a26c7e5b5a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>c67c22b8-c344-47e3-8250-caa23614515b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add New' or . = 'Add New')]</value>
+      <webElementGuid>94e6dc42-651e-4414-a670-21392675df43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

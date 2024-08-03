@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kebijakan privasi_row</name>
+   <tag></tag>
+   <elementGuidId>2909a1e8-9f8d-41b2-9d46-eab01ea82cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='calculator-form']/section[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#calculator-form div >> internal:has-text=&quot;Kembali Lihat hasil&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>920f1e00-a0d7-45e5-a1c9-2d16962bfffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>63651f1d-7b11-4379-9ce9-0dffc120cc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calculator-form&quot;)/section[@class=&quot;section-3 active-section&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>ce4eb45c-2cff-466f-acbb-7ef2cdb231b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='calculator-form']/section[3]/div[3]</value>
+      <webElementGuid>8bec0369-dbb1-4274-914d-422228d4d067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kebijakan privasi'])[2]/following::div[1]</value>
+      <webElementGuid>109a9bf2-f196-4185-bf96-e106e2b2195a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[3]</value>
+      <webElementGuid>2a90b313-d3c6-46e9-9545-79aad6d304c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

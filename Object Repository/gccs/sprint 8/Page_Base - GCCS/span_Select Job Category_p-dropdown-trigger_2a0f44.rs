@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Job Category_p-dropdown-trigger_2a0f44</name>
+   <tag></tag>
+   <elementGuidId>d17a9f12-33e6-43dd-a601-1b53a7d7be35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-base_content']/div[2]/div/div/div[4]/div[2]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b54a8c1-6236-40c7-8d39-57acb21def12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon p-clickable pi pi-chevron-down</value>
+      <webElementGuid>7519cdcf-65d4-41b7-9a34-64bf8b20c749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-base_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper p-dropdown-clearable flex-1&quot;]/div[@class=&quot;p-dropdown-trigger&quot;]/span[@class=&quot;p-dropdown-trigger-icon p-clickable pi pi-chevron-down&quot;]</value>
+      <webElementGuid>bd4c7547-969b-4633-9c10-e88bfe366f26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-base_content']/div[2]/div/div/div[4]/div[2]/div[3]/span</value>
+      <webElementGuid>865e789a-52e8-4d2d-bf74-08caecdb7e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Job Category'])[4]/following::span[1]</value>
+      <webElementGuid>37db694b-5880-4b43-8932-ef0259f1355b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Category'])[3]/following::span[2]</value>
+      <webElementGuid>bc9f53af-ed40-48e1-a3be-88399df70c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Code'])[1]/preceding::span[1]</value>
+      <webElementGuid>f01a3d91-8f59-4ae2-9393-d47a0cd147b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>2d7e971f-3195-456f-b87e-a2b0b4ab97ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[3]/span</value>
+      <webElementGuid>fa500cc0-f763-4eae-9700-fd5ff22800b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

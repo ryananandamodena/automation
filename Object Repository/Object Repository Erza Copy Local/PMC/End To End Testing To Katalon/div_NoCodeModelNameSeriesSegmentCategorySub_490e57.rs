@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NoCodeModelNameSeriesSegmentCategorySub_490e57</name>
+   <tag></tag>
+   <elementGuidId>7baff735-8d20-4b6e-a2df-d5695d2033ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mTableId_3197039']/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12.col-md-12.col-12.tbl-fixed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mTableId_3197039 div >> internal:has-text=&quot;NoCodeModelNameSeriesSegmentCategorySubcat.CountrySync?WebSync?1AX023567GB.BSBXC&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e500c7e2-de0d-4e65-a8ea-0e6294638dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-12 col-md-12 col-12 tbl-fixed</value>
+      <webElementGuid>d4c3ee20-383c-444a-92f9-582e270a6f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NoCodeModelNameSeriesSegmentCategorySubcat.CountrySync?WebSync?1AX023567GB.BSBXC4HAX 0235 67GBtestPROAXHome AppliancesCookingHoodBahamas The2AX123456GK.AUBHC7IAX 1234 56GKtestDMAXHome AppliancesCookingHoodAustralia3AX234567GK.AZBXC5KAX 2345 67GKtestENGAXHome AppliancesCookingHoodAzerbaijan4AX234566GK.AZBXC5KAX 2345 66GKtestENGAXHome AppliancesCookingHoodAzerbaijan5AX294246GK.AZBXC5KAX 2942 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan6AX224246GK.AZBXC5KAX 2242 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan7AX111432EL.AUADB6EAX 1114 32ELtestTYTAXHome AppliancesCookingHoodAustralia8AX224777RD.JPXDB5JAX 2247 77RDACURA TLX Type SHONAXHome AppliancesCookingHoodJapan9AX134558RD.JPXDB1JAX 1345 58RDACURA INTEGRA TYPE-RHONAXHome AppliancesCookingHoodJapan10AX645669RD.JPXDB6JAX 6456 69RDHONDA CIVIC TYPE-R (EK9)HONAXHome AppliancesCookingHoodJapan</value>
+      <webElementGuid>d501ea47-76be-4a41-9d51-f708a9e55f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_3197039&quot;)/div[2]/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed&quot;]</value>
+      <webElementGuid>687c6938-91f4-4ac8-a8b2-272c1e6bc0ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_3197039']/div[2]/div/div</value>
+      <webElementGuid>90d46c03-ae83-40f2-b48a-d9acbb4e189d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/following::div[3]</value>
+      <webElementGuid>c92ee2e2-f773-4705-ab33-db49a3a66b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[1]/following::div[6]</value>
+      <webElementGuid>b6f0bc07-ff3c-4f26-a86d-b135875df5b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>1ed6ce09-e6b7-4515-bc39-ffe3f0da4a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NoCodeModelNameSeriesSegmentCategorySubcat.CountrySync?WebSync?1AX023567GB.BSBXC4HAX 0235 67GBtestPROAXHome AppliancesCookingHoodBahamas The2AX123456GK.AUBHC7IAX 1234 56GKtestDMAXHome AppliancesCookingHoodAustralia3AX234567GK.AZBXC5KAX 2345 67GKtestENGAXHome AppliancesCookingHoodAzerbaijan4AX234566GK.AZBXC5KAX 2345 66GKtestENGAXHome AppliancesCookingHoodAzerbaijan5AX294246GK.AZBXC5KAX 2942 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan6AX224246GK.AZBXC5KAX 2242 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan7AX111432EL.AUADB6EAX 1114 32ELtestTYTAXHome AppliancesCookingHoodAustralia8AX224777RD.JPXDB5JAX 2247 77RDACURA TLX Type SHONAXHome AppliancesCookingHoodJapan9AX134558RD.JPXDB1JAX 1345 58RDACURA INTEGRA TYPE-RHONAXHome AppliancesCookingHoodJapan10AX645669RD.JPXDB6JAX 6456 69RDHONDA CIVIC TYPE-R (EK9)HONAXHome AppliancesCookingHoodJapan' or . = 'NoCodeModelNameSeriesSegmentCategorySubcat.CountrySync?WebSync?1AX023567GB.BSBXC4HAX 0235 67GBtestPROAXHome AppliancesCookingHoodBahamas The2AX123456GK.AUBHC7IAX 1234 56GKtestDMAXHome AppliancesCookingHoodAustralia3AX234567GK.AZBXC5KAX 2345 67GKtestENGAXHome AppliancesCookingHoodAzerbaijan4AX234566GK.AZBXC5KAX 2345 66GKtestENGAXHome AppliancesCookingHoodAzerbaijan5AX294246GK.AZBXC5KAX 2942 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan6AX224246GK.AZBXC5KAX 2242 46GKtestENGAXHome AppliancesCookingHoodAzerbaijan7AX111432EL.AUADB6EAX 1114 32ELtestTYTAXHome AppliancesCookingHoodAustralia8AX224777RD.JPXDB5JAX 2247 77RDACURA TLX Type SHONAXHome AppliancesCookingHoodJapan9AX134558RD.JPXDB1JAX 1345 58RDACURA INTEGRA TYPE-RHONAXHome AppliancesCookingHoodJapan10AX645669RD.JPXDB6JAX 6456 69RDHONDA CIVIC TYPE-R (EK9)HONAXHome AppliancesCookingHoodJapan')]</value>
+      <webElementGuid>a6e1b389-b870-40b4-9444-9469cb547dd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

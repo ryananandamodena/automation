@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Choose Formula</name>
+   <tag></tag>
+   <elementGuidId>9ea09fad-7551-4435-854f-8777ecd9ae7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='operator_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;operator_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d9974489-f2b1-4d36-8adc-b86e9c719cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>operator_id</value>
+      <webElementGuid>fe4cf52f-2332-4a23-b6bb-b57aa3b3cea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose Formula=>=&lt;=>&lt;</value>
+      <webElementGuid>3a858347-5291-412d-a11d-4b231a97f39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[3]/form[1]/div[@class=&quot;form_wrapper_form_formula__ZI9qN form_mt_70__XVK87&quot;]/div[@class=&quot;form_formula__dOw5b&quot;]/div[4]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;wrap_input mt-4&quot;]/div[@class=&quot;autocomplete_multiple select_component&quot;]/select[1]</value>
+      <webElementGuid>f825356b-6258-4dae-9c98-0db20b559369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='operator_id']</value>
+      <webElementGuid>37229b28-f5fc-4fdb-8233-6983ca305438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/form/div/div/div[4]/div/div[2]/div/div/select</value>
+      <webElementGuid>d358fd44-1f9c-44d2-89db-da03bf25426e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>d9e8b205-2f77-4529-8a33-743341c4800f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[2]</value>
+      <webElementGuid>79c539d0-349e-41cd-93ee-44b5ead4f5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>9696650a-065c-43a2-9014-ae44c611e52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Reward'])[1]/preceding::select[1]</value>
+      <webElementGuid>3f0a8ad7-dda5-4bb3-a7b4-add5eb0fe264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>1b541e28-7873-42a8-b117-bd411ab3143d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'operator_id' and (text() = 'Choose Formula=>=&lt;=>&lt;' or . = 'Choose Formula=>=&lt;=>&lt;')]</value>
+      <webElementGuid>e2844ee6-1d18-483b-9148-664f60bcdbf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

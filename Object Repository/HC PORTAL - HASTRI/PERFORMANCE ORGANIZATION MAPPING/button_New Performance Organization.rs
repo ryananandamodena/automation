@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Performance Organization</name>
+   <tag></tag>
+   <elementGuidId>b77f509b-e33d-4c37-8400-2d8a5449547d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;add-circle New Performance Organization&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91604edf-8a64-4bb6-9855-b514f9380987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>abd0e694-91e7-469e-90d5-a6a0b1c30a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center gap-1 rounded-full  px-2.5 py-1 text-xs h-9 font-semibold text-white shadow-sm  bg-pink-600 hover:bg-pink-500</value>
+      <webElementGuid>b272f4fb-fc02-4633-9cca-232061516a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Performance Organization</value>
+      <webElementGuid>299a7147-dcf9-4731-9607-a0c5e1313030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/nav[@class=&quot;w-full pb-6&quot;]/div[@class=&quot;h-16 mx-auto&quot;]/div[@class=&quot;flex justify-between px-8 pt-4&quot;]/div[@class=&quot;pt-2&quot;]/a[1]/button[@class=&quot;flex justify-center items-center gap-1 rounded-full  px-2.5 py-1 text-xs h-9 font-semibold text-white shadow-sm  bg-pink-600 hover:bg-pink-500&quot;]</value>
+      <webElementGuid>1fd9089f-4275-4e3f-b6c0-865851ca405d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>04221bf5-deb3-4dca-b438-bfea5005e049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div[2]/div/div[2]/a/button</value>
+      <webElementGuid>5e4d614e-61a3-419e-946e-bcbb2de58b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::button[1]</value>
+      <webElementGuid>5021a74c-eca6-42d8-b258-7dc9418435f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Performance Plan Monitoring Detail Approval'])[1]/following::button[2]</value>
+      <webElementGuid>e50dbc8d-5573-4a0b-ac90-ace43cdee0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>75ca63de-ff21-4fcc-b4bf-44e5ebfd8fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Level'])[1]/preceding::button[1]</value>
+      <webElementGuid>2d13eeff-ac9b-4ca4-a2e4-f57ffb9339b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Performance Organization']/parent::*</value>
+      <webElementGuid>1495508c-aa36-4b39-924f-e696533f2a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>f9417688-b7d8-4bb8-abf4-d7d2217a8981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New Performance Organization' or . = 'New Performance Organization')]</value>
+      <webElementGuid>c27ab322-1b3b-4b05-976a-2f8f2851af6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Sleman, Jawa Tengah_fi fi-rr-angle-small-right</name>
+   <tag></tag>
+   <elementGuidId>7550548d-3a7b-4e32-b729-4203c49bde1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next-testimoni']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fi.fi-rr-angle-small-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#next-testimoni</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4ee50672-ec7f-440b-86c1-d3ce45b40cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-angle-small-right</value>
+      <webElementGuid>acc8d381-c3cc-4135-8c8e-7bfdc16eda27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next-testimoni&quot;)/i[@class=&quot;fi fi-rr-angle-small-right&quot;]</value>
+      <webElementGuid>1df6f197-5665-4f93-a9a0-b3fa5f3f0783</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='next-testimoni']/i</value>
+      <webElementGuid>dd59aaea-91e7-4afb-9097-52c64fdbe9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>c726087f-c433-402b-b76d-3b74609295ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

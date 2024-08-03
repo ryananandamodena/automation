@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Is Active_react-toggle-track</name>
+   <tag></tag>
+   <elementGuidId>aa124bef-f62b-4846-90da-cc068e4cc297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-toggle-track</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-service-area_content']/div[2]/div/div/div[5]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8c81e53-d85f-43a5-bdbf-14b24299d240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-toggle-track</value>
+      <webElementGuid>d8e7b639-9e8f-4efc-a503-2d493573d06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-service-area_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;react-toggle form-toggle&quot;]/div[@class=&quot;react-toggle-track&quot;]</value>
+      <webElementGuid>621b41a0-cfc4-439d-ac42-a0a3b116499b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-service-area_content']/div[2]/div/div/div[5]/div[2]/div/div</value>
+      <webElementGuid>629f92df-c25a-464a-88cd-9cce791b2c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[12]/following::div[3]</value>
+      <webElementGuid>a06f63e2-e514-4b08-a83f-5332481fec3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP'])[8]/following::div[6]</value>
+      <webElementGuid>68fc4dee-72ef-47f4-b2f9-de2e26c61d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Warranty'])[1]/preceding::div[4]</value>
+      <webElementGuid>29a1c88d-fa72-4457-9f29-f00b325fa756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[12]</value>
+      <webElementGuid>b7a9ceae-4fbf-4fe6-86da-97c0e5ab8e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div</value>
+      <webElementGuid>a2bafd7b-90b0-445a-9270-27045361ae27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

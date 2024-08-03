@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign InEmailPasswordLogin failed Enter _85da44</name>
+   <tag></tag>
+   <elementGuidId>1c8ecee9-912e-4583-aabd-74495307a7b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.h-100.d-flex.justify-content-center.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Sign InEmailPasswordLogin failed! Enter the correct username and password.Sign I&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b2650ff-45b1-4cc5-8a6b-91844801f457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6 h-100 d-flex justify-content-center align-items-center</value>
+      <webElementGuid>ff31c2a1-1e2c-43d2-a48c-1bf2bafdd146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign InEmailPasswordLogin failed! Enter the correct username and password.Sign In</value>
+      <webElementGuid>2a3df7b9-94ae-48dd-ad04-0c659ac95281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-6 h-100 d-flex justify-content-center align-items-center&quot;]</value>
+      <webElementGuid>9b71ea8b-1ab7-433a-8f27-191aab62f36d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]</value>
+      <webElementGuid>2c7c9eeb-dc5f-4e2e-b7b2-41d38982ae4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>77de8fbb-802f-4ef1-82e0-489bfedcaaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign InEmailPasswordLogin failed! Enter the correct username and password.Sign In' or . = 'Sign InEmailPasswordLogin failed! Enter the correct username and password.Sign In')]</value>
+      <webElementGuid>8e072259-0cfc-4cfc-ba18-a9c3890645e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Page SizePage_p-dropdown-trigger-icon p-clickable pi pi-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>359a575b-80a8-46ed-9d47-4a3f79cea746</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dropdown.p-component.p-inputwrapper.p-inputwrapper-filled.ml-3.mr-3.small-dropdown.text-medium > div.p-dropdown-trigger > span.p-dropdown-trigger-icon.p-clickable.pi.pi-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>211ed519-890c-4b48-aeeb-94203bedefdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon p-clickable pi pi-chevron-down</value>
+      <webElementGuid>e497e31f-6436-4802-9abb-40d44e908090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-card p-component custom-card  mt-3&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content mt-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-horizontal p-datatable-responsive-stack p-datatable-striped custom-table p-datatable-sm table-gray&quot;]/div[@class=&quot;p-paginator p-component p-paginator-bottom&quot;]/div[@class=&quot;flex align-items-center mr-2 small-page-size-datatable&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper p-inputwrapper-filled ml-3 mr-3 small-dropdown text-medium&quot;]/div[@class=&quot;p-dropdown-trigger&quot;]/span[@class=&quot;p-dropdown-trigger-icon p-clickable pi pi-chevron-down&quot;]</value>
+      <webElementGuid>b8865a59-9fad-412e-b2a0-fbc883dbd8f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/span</value>
+      <webElementGuid>b49f6af3-51f0-4d65-a8b2-556db1e56b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/span</value>
+      <webElementGuid>2819f4d3-cb59-4ca8-8f90-94a136b05daa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

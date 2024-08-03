@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Solution created successfully</name>
+   <tag></tag>
+   <elementGuidId>a2e2d767-b585-47af-ae39-a33f45cc690b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-toast-summary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div[3]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7500594-1b2b-4ad5-872f-01e288f5919e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-toast-summary</value>
+      <webElementGuid>f5184c6e-b2b8-4c7f-9940-093ac8059acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solution created successfully.</value>
+      <webElementGuid>2ec45f05-4746-4a44-9efb-ccdc74a67721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;p-toast p-component p-toast-top-right&quot;]/div[1]/div[@class=&quot;p-toast-message p-toast-message-success p-toast-message-enter-done&quot;]/div[@class=&quot;p-toast-message-content&quot;]/div[@class=&quot;p-toast-message-text&quot;]/span[@class=&quot;p-toast-summary&quot;]</value>
+      <webElementGuid>80089ea5-d936-4611-935b-949fdf1d5523</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div[3]/div/div/div/div/span</value>
+      <webElementGuid>74dee0a1-3eb0-4000-bd6e-f359601749be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showed 1 - 10 of 86794'])[1]/following::span[6]</value>
+      <webElementGuid>4291e671-61cb-4596-8a11-c9c9ddd7e816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solution created successfully.']/parent::*</value>
+      <webElementGuid>4be17074-4062-4d35-b107-661242b6c274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span</value>
+      <webElementGuid>88e52266-29f9-4604-9e5d-8d2415b2b401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Solution created successfully.' or . = 'Solution created successfully.')]</value>
+      <webElementGuid>040f1af8-98ac-4b02-8741-2e1358e99d4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

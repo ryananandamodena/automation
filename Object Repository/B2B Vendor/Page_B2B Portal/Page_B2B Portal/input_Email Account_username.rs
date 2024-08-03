@@ -7,14 +7,21 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;username&quot;]</value>
+         <value>input[name=&quot;pr_need_date&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='username']</value>
+         <value>//input[@name='pr_need_date']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;pr_need_date&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,34 +29,90 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9da842f0-42ca-4cd5-808d-c1ef7f0fe33c</webElementGuid>
+      <webElementGuid>647e2091-b8f0-4fe0-bcd8-ee2b9471746a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>custom-input</value>
-      <webElementGuid>6d535dde-98da-4acf-aeeb-1528ebf7b736</webElementGuid>
+      <value>custom-inputb2b</value>
+      <webElementGuid>c0f63127-6ecb-4513-af27-9fcf672c01c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>df26aeb5-92c6-4187-b4e4-fcbc4a4c7998</webElementGuid>
+      <value>pr_need_date</value>
+      <webElementGuid>4f6f04a9-cc9d-46a9-8475-75074c076d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;login-container&quot;]/div[@class=&quot;login-form&quot;]/div[@class=&quot;d-flex&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-8 offset-2&quot;]/div[@class=&quot;form-group mh-2&quot;]/div[@class=&quot;inputDiv&quot;]/input[@class=&quot;custom-input&quot;]</value>
-      <webElementGuid>3138707d-72ad-4fd1-a453-5ae2c7fbbf8b</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[1]/div[@class=&quot;content-wrapper&quot;]/form[1]/section[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-header po-card-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[2]/section[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/div[1]/div[1]/input[@class=&quot;custom-inputb2b&quot;]</value>
+      <webElementGuid>576bd939-f0c7-4152-876a-02a822feaa82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>28a1d147-3195-44d9-9ebf-a0db3f414f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>2024-07-21</value>
+      <webElementGuid>574dff37-60ff-4fc7-a8bd-49e50b8dc306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>2024-07-21</value>
+      <webElementGuid>ad9da130-438e-4363-8b2c-3ea3503a1cf3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='pr_need_date']</value>
+      <webElementGuid>f72902df-c2ed-44a8-969a-12c515ad5b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/form/section/div/div/div/div/div[2]/section[2]/div/div/div/div/div/input</value>
+      <webElementGuid>45049e76-f8fc-45f2-a204-e5e798a8aa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/input</value>
+      <webElementGuid>92be322a-55ba-42a4-92f6-78de8aaa1681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date' and @name = 'pr_need_date' and @placeholder = '2024-07-21']</value>
+      <webElementGuid>f0fc9c48-6f58-4f3c-a7c0-f9a6b78a1bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

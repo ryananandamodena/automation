@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Corporasi Nihonggo_fi fi-rr-menu-dots-vertical</name>
+   <tag></tag>
+   <elementGuidId>9887c8a0-2d82-4597-9fb4-226f182d6213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/div/ul/li[2]/span/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li:nth-child(8) > .dropdown--item > .sortable > li:nth-child(2) > .wrapper > .toggleInteraction > .dropdown > .list-icons-item</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>92e1ddce-1be7-4ba1-8ba9-9e6781d11365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-menu-dots-vertical</value>
+      <webElementGuid>401ab518-54c6-43f9-ad16-80bd7e9e682b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;section&quot;]/div[2]/ul[@class=&quot;sortable parent ui-sortable&quot;]/li[@class=&quot;has-child ui-sortable-handle&quot;]/div[@class=&quot;dropdown--item&quot;]/ul[@class=&quot;sortable child ui-sortable&quot;]/li[@class=&quot;this-child ui-sortable-handle&quot;]/span[@class=&quot;wrapper&quot;]/div[@class=&quot;toggleInteraction&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;list-icons-item&quot;]/i[@class=&quot;fi fi-rr-menu-dots-vertical&quot;]</value>
+      <webElementGuid>dce4fd71-7af2-4f60-bf62-958f9cf33812</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/div/ul/li[2]/span/div/div/a/i</value>
+      <webElementGuid>bddfa6bf-bb04-4c82-98c4-73ae179b2f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/div/ul/li[2]/span/div/div/a/i</value>
+      <webElementGuid>b0b345e5-9748-490f-88ef-77b05ae1f570</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

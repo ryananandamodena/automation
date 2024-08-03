@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View FAQ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9598e08a-fe92-4508-b1a0-2e750e756272</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3ea6d7f-1a7a-48cb-bb5f-aeafbcf63fe7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3ea6d7f-1a7a-48cb-bb5f-aeafbcf63fe7</id>
+      <masked>false</masked>
+      <name>categories</name>
+   </variable>
+</TestCaseEntity>

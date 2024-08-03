@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corporate      Deactive Edit Delete</name>
+   <tag></tag>
+   <elementGuidId>ebcdf5a5-2528-4874-bf40-0b575e95316c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Corporate Deactive Edit Delete&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9d3730d1-5b37-47eb-972e-e2c266b75df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrapper</value>
+      <webElementGuid>7929cb2b-5199-4609-a66c-737dec9c561d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Corporate      Deactive Edit Delete   </value>
+      <webElementGuid>4c24e14b-1abb-4499-bb87-8c97f17c2e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;section&quot;]/div[2]/ul[@class=&quot;sortable parent ui-sortable&quot;]/li[@class=&quot;ui-sortable-handle&quot;]/span[@class=&quot;wrapper&quot;]</value>
+      <webElementGuid>456f07b1-71ab-44f0-8e59-64dbe972efc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/ul/li[8]/span</value>
+      <webElementGuid>b3a62f08-f850-4263-b928-5de16e43bda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new sub menu'])[7]/following::span[1]</value>
+      <webElementGuid>edd66e60-03f2-46c9-85d9-35540ecc6365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[25]/following::span[1]</value>
+      <webElementGuid>a7df7dd2-12d9-4b63-9c13-2e43ce68583d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span</value>
+      <webElementGuid>98f87388-9eba-4b05-893f-dc8573e15ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Corporate      Deactive Edit Delete   ' or . = ' Corporate      Deactive Edit Delete   ')]</value>
+      <webElementGuid>bf353ce1-7287-4da7-ba60-afd85bee1b04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

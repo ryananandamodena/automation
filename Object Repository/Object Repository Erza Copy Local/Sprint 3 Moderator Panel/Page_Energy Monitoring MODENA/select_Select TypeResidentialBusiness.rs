@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select TypeResidentialBusiness</name>
+   <tag></tag>
+   <elementGuidId>3289e06e-4053-48aa-9324-a0cce1f44341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='stationType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;stationType&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;stationType&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7036a576-f744-4537-801f-c395a4c95f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>stationType</value>
+      <webElementGuid>a7097228-abf8-4080-a1a3-450666c6f83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select TypeResidentialBusiness</value>
+      <webElementGuid>c28ebc8f-527e-4c18-88fb-1ada4a042932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;wrap_admin&quot;]/div[@class=&quot;row vh-100&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ListPLTS_content_position__qPAoX row&quot;]/form[@class=&quot;ListPLTS_form__rj8dx&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/select[3]</value>
+      <webElementGuid>1426317e-2280-49f4-b34a-ae5ebabcdedd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='stationType']</value>
+      <webElementGuid>3d1eb205-55fa-4eb1-a521-8c7732551f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/form/div/div/select[3]</value>
+      <webElementGuid>bc35a27a-8725-4748-8642-f3009d6197c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Station Type'])[1]/following::select[1]</value>
+      <webElementGuid>6e077814-05fd-4d5e-a49e-c2dc15737ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Provider'])[1]/following::select[2]</value>
+      <webElementGuid>f08f48e7-d1d5-4f58-9b9b-6c4e04d6ba4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grid Connection Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>d7d7700c-a0b2-40b9-b77b-cc2a904e67a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date of Safe Running'])[1]/preceding::select[1]</value>
+      <webElementGuid>44ec1d93-18f4-4054-8204-20de5c0bf1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>d48fe7f6-2d36-4b4e-b725-0145868462b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'stationType' and (text() = 'Select TypeResidentialBusiness' or . = 'Select TypeResidentialBusiness')]</value>
+      <webElementGuid>a3c09c62-4ea8-4950-b7e5-6229165d194d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

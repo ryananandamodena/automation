@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Performance Dictionary</name>
+   <tag></tag>
+   <elementGuidId>c4c2e006-4821-4634-8871-a68cfa7011d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;add-circle New Performance Dictionary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11a83907-e096-4f02-b4a2-e40e58a5c1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>298cfabb-79d4-439a-82f1-42ed46509d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center gap-1 rounded-full  px-2.5 py-1 text-xs h-9 font-semibold text-white shadow-sm  bg-pink-600 hover:bg-pink-500</value>
+      <webElementGuid>812bc6e4-d912-4bdf-ad58-8c4ba5794e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Performance Dictionary</value>
+      <webElementGuid>701873c7-a678-4972-b166-f126759c37cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/nav[@class=&quot;w-full pb-6&quot;]/div[@class=&quot;h-16 mx-auto&quot;]/div[@class=&quot;flex justify-between px-8 pt-4&quot;]/div[@class=&quot;pt-2&quot;]/a[1]/button[@class=&quot;flex justify-center items-center gap-1 rounded-full  px-2.5 py-1 text-xs h-9 font-semibold text-white shadow-sm  bg-pink-600 hover:bg-pink-500&quot;]</value>
+      <webElementGuid>c8f70be9-c5b4-4a70-b179-5b053d329d59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>5fcbd68f-bf85-4be6-9eed-34e183610843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div[2]/div/div[2]/a/button</value>
+      <webElementGuid>515c631a-d753-4ef2-8f26-09ed6421f277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::button[1]</value>
+      <webElementGuid>f0f45841-85fb-4446-a862-96658a16dae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Performance Plan Monitoring Detail Approval'])[1]/following::button[2]</value>
+      <webElementGuid>79e26247-692a-456f-855d-6b9f44bace29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>ea6294f6-c24d-4e3a-bbf4-70cf7f41719a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>ed5f2d89-d0e3-4e34-a015-5b758f175086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Performance Dictionary']/parent::*</value>
+      <webElementGuid>d0664004-231b-4796-9a0b-0a8778c4792e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>2a3aee5f-b429-4143-890b-c70af12b0bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New Performance Dictionary' or . = 'New Performance Dictionary')]</value>
+      <webElementGuid>8afdee18-1bad-4e7d-8072-e2a5e2301cd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Position Level(0) Board of Di_8d3edc</name>
+   <tag></tag>
+   <elementGuidId>4f271b43-b80b-466f-9518-8173dd267447</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='position_level']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;position_level&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;position_level&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>56a2e45c-229d-4e3f-858c-ea767ae8a186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>position_level</value>
+      <webElementGuid>713d1142-96c1-4154-81f2-c90a8e6464c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block w-full rounded-lg border-0 px-2 py-3 text-gray-900 shadow-sm ring-1 ring-inset placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-pink-600 sm:text-md sm:leading-6</value>
+      <webElementGuid>24d2c779-f17f-435b-ae21-6bfdee48c66a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Position Level(0) Board of Director(1) Executive Vice President(2) Vice President(3) Senior Manager(4) Manager(5) Lead(6) Officer</value>
+      <webElementGuid>7449745e-674f-4629-8f3b-39986580e5bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/div[@class=&quot;mt-12 mx-12 pb-12&quot;]/div[@class=&quot;bg-gray-200 w-full rounded-xl h-fit&quot;]/div[@class=&quot;bg-white rounded-xl shadow-lg mt-6 mx-8 px-8 py-8&quot;]/div[@class=&quot;flex w-full justify-center&quot;]/div[@class=&quot;mt-6 w-8/12&quot;]/div[@class=&quot;grid grid-cols-3 gap-4&quot;]/div[@class=&quot;relative w-full&quot;]/select[@class=&quot;block w-full rounded-lg border-0 px-2 py-3 text-gray-900 shadow-sm ring-1 ring-inset placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-pink-600 sm:text-md sm:leading-6&quot;]</value>
+      <webElementGuid>4042ee20-c638-4b9e-984f-268aa6f0ccb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='position_level']</value>
+      <webElementGuid>ad87a5c9-6da5-488e-8a7c-e87f08409e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/select</value>
+      <webElementGuid>e964e740-dd63-4aed-8d28-49303b70b16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>604e6235-eba6-4023-bcd8-1325e7591ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>6128923f-1985-47ee-b48a-c02ab23512ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>fe55e594-e966-4779-a6fb-3aeff0a0787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'position_level' and (text() = 'Select Position Level(0) Board of Director(1) Executive Vice President(2) Vice President(3) Senior Manager(4) Manager(5) Lead(6) Officer' or . = 'Select Position Level(0) Board of Director(1) Executive Vice President(2) Vice President(3) Senior Manager(4) Manager(5) Lead(6) Officer')]</value>
+      <webElementGuid>2718f64c-c574-4a1d-ba85-2afe2ec96199</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

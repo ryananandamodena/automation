@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Products With Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2f596dc-3e7f-4b5b-844c-f5a647276d98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12fc8130-a80c-4c5b-ab9d-5fc002cece32</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12fc8130-a80c-4c5b-ab9d-5fc002cece32</id>
+      <masked>false</masked>
+      <name>Products</name>
+   </variable>
+</TestCaseEntity>

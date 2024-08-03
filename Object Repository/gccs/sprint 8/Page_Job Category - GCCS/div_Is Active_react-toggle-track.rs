@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Is Active_react-toggle-track</name>
+   <tag></tag>
+   <elementGuidId>1b419d76-f32f-4276-9f48-74a435d730d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='job-category-modal_content']/div[2]/div/div/div[3]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-toggle-track</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c956b2ad-1678-42ae-8b50-e80317d8fc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-toggle-track</value>
+      <webElementGuid>21216fb2-5d15-4017-a903-de162170ab8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;job-category-modal_content&quot;)/div[2]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-1 mr-5&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;react-toggle form-toggle&quot;]/div[@class=&quot;react-toggle-track&quot;]</value>
+      <webElementGuid>ee897e34-fa94-419c-be09-eb3c6071bd7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='job-category-modal_content']/div[2]/div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>7fac3735-3e03-45be-9c95-da9e762648e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Active'])[8]/following::div[3]</value>
+      <webElementGuid>89790c43-9d56-41c0-9629-eaaadd0f5a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Category'])[9]/following::div[6]</value>
+      <webElementGuid>9d5830c2-6a10-471c-86a7-5b6296aaa4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[4]</value>
+      <webElementGuid>4699015f-5263-40b8-975a-09a8e75f35e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>60ef5e8a-5e3e-47f0-945e-e0e2cdda6f01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_B2B PortalMenukeyboard_double_arrow_leftHide MenuDashboardVendorVendor ListBudgetItemPurchase RequestPurchase Req. ApprovalPurchase OrderPurchase Ord. ApprovalGoods ReceiptAsset ValidationAssetsPurchase InvoiceOutgoi</name>
+   <tag></tag>
+   <elementGuidId>15a95b79-b060-4513-809a-cc2240c3c5ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidenavparent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;B2B PortalMenukeyboard_double_arrow_leftHide MenuDashboardVendorVendor ListBudge&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>806d4df6-05cc-4671-bc26-d7771c035a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidenavparent</value>
+      <webElementGuid>8c1251bb-be07-4559-8fa6-fe0fc0785db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>B2B PortalMenukeyboard_double_arrow_leftHide MenuDashboardVendorVendor ListBudgetItemPurchase RequestPurchase Req. ApprovalPurchase OrderPurchase Ord. ApprovalGoods ReceiptAsset ValidationAssetsPurchase InvoiceOutgoing PaymentDealerDealer ListGoods IssueAR InvoiceIncoming PaymentSales OrderConfiguration SettingGeneral SettingAdditional Setting Document SettingIntegration SettingUser ManagementBrandUnit of MeasurementCurrencyTaxBranchDepartmentCountry</value>
+      <webElementGuid>74a07983-4ac1-4090-baa6-bdeb1666901b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;sidenavparent&quot;]</value>
+      <webElementGuid>d8ac5b91-348a-4bbe-852a-259818449450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div</value>
+      <webElementGuid>be15acd0-0554-46ab-8bfb-bbb12eb11a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>0706d5df-f469-43f6-8c69-2796da77baa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'B2B PortalMenukeyboard_double_arrow_leftHide MenuDashboardVendorVendor ListBudgetItemPurchase RequestPurchase Req. ApprovalPurchase OrderPurchase Ord. ApprovalGoods ReceiptAsset ValidationAssetsPurchase InvoiceOutgoing PaymentDealerDealer ListGoods IssueAR InvoiceIncoming PaymentSales OrderConfiguration SettingGeneral SettingAdditional Setting Document SettingIntegration SettingUser ManagementBrandUnit of MeasurementCurrencyTaxBranchDepartmentCountry' or . = 'B2B PortalMenukeyboard_double_arrow_leftHide MenuDashboardVendorVendor ListBudgetItemPurchase RequestPurchase Req. ApprovalPurchase OrderPurchase Ord. ApprovalGoods ReceiptAsset ValidationAssetsPurchase InvoiceOutgoing PaymentDealerDealer ListGoods IssueAR InvoiceIncoming PaymentSales OrderConfiguration SettingGeneral SettingAdditional Setting Document SettingIntegration SettingUser ManagementBrandUnit of MeasurementCurrencyTaxBranchDepartmentCountry')]</value>
+      <webElementGuid>e1cf15b8-f210-4732-b874-4896f8c67312</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

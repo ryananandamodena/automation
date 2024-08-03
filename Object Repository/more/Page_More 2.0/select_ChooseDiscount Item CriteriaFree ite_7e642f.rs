@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ChooseDiscount Item CriteriaFree ite_7e642f</name>
+   <tag></tag>
+   <elementGuidId>33220ab7-d41e-462b-8c6d-f8735c32e7dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='reward_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;reward_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3ea90549-6751-418e-b230-f03e0c2d4526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>reward_id</value>
+      <webElementGuid>2b1c9437-4f6a-4e65-838f-f1b3e33e3878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucher</value>
+      <webElementGuid>fb4727d1-80ee-4969-93e2-892298dc4d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;body full&quot;]/div[@class=&quot;wrapper_all&quot;]/div[@class=&quot;wrapper_content&quot;]/div[@class=&quot;form_campaign_wrap_form__0IKzI&quot;]/div[3]/form[1]/div[@class=&quot;form_wrapper_form_formula__ZI9qN form_mt_20__WPY7h&quot;]/div[@class=&quot;form_formula__dOw5b&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;wrap_input mt-4&quot;]/div[@class=&quot;autocomplete_multiple select_component&quot;]/select[1]</value>
+      <webElementGuid>cc129e79-0747-4958-bffb-265a4faea8fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='reward_id']</value>
+      <webElementGuid>fd227325-0981-4274-ac4f-f3664e7bcdf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div[2]/div[3]/div/div[3]/form/div[2]/div/div/div/div/div/div/select</value>
+      <webElementGuid>81e7e8ec-e3a8-4774-9dc0-e45eb30b9f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>81a16e09-d400-43d5-9097-104706a980a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Reward'])[1]/following::select[1]</value>
+      <webElementGuid>62c39aee-60ec-4b25-8adc-ed91653ccb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::select[1]</value>
+      <webElementGuid>a31c9de9-b58d-4de4-9168-cdf32786625a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::select[2]</value>
+      <webElementGuid>e5298929-359b-4e10-8737-453271a967f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/select</value>
+      <webElementGuid>519a99ec-16e5-48d3-9a6c-01d54257552d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'reward_id' and (text() = 'ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucher' or . = 'ChooseDiscount Item CriteriaFree itemDiscount Spesific ItemDiscount Item Non SelectedDiscount Item SelectedVoucher')]</value>
+      <webElementGuid>0a173d5a-976c-44c4-a487-ce356edc623d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

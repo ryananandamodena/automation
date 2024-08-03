@@ -21,12 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://b2b-dev.modena.com/')
 
-WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Email Account_username'), 'preddy.desmon@modena.com')
+WebUI.delay(2)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/select_-- Choose Your Company --Client Name 1'), 
+WebUI.setText(findTestObject('B2B/Brand/Page_B2B Portal/Username'), Username)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/B2B Vendor/Login/Page_B2B Portal/select_-- Choose Your Company --Client Name 1'), 
     '1', true)
 
-WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Password_password_1'), 'P@ssw0rd')
+WebUI.setText(findTestObject('Object Repository/B2B Vendor/Login/Page_B2B Portal/input_Password_password_1'), Password)
+
+not_run: WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Email Account_username'), Username)
+
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/select_-- Choose Your Company --Client Name 1'), 
+    '1', true)
+
+not_run: WebUI.setText(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/input_Password_password_1'), Password)
 
 WebUI.click(findTestObject('Object Repository/B2B Vendor/Page_B2B Portal/span_Login'))
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Solo, Jawa Tengah_fi fi-rr-angle-small-left</name>
+   <tag></tag>
+   <elementGuidId>956cbbce-477b-429e-bbd1-ba126c8af849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='prev-portofolio']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#prev-portofolio > i.fi.fi-rr-angle-small-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#prev-portofolio</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c46cbd61-83b5-412a-a1ca-e5a68c7164f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi fi-rr-angle-small-left</value>
+      <webElementGuid>d1a03889-84bd-4f3e-a439-2d0fbcd4f01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prev-portofolio&quot;)/i[@class=&quot;fi fi-rr-angle-small-left&quot;]</value>
+      <webElementGuid>fd0c5e14-f56b-489a-9d28-159e60e15a5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='prev-portofolio']/i</value>
+      <webElementGuid>a5b7612c-d75c-4991-ad9c-2537f85f19a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div/button/i</value>
+      <webElementGuid>0dcb71a8-37bf-419f-94bd-cb22d47b3840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

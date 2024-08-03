@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>top master</name>
+   <tag></tag>
+   <elementGuidId>7b40c8ad-0d21-4f97-a088-4b73ab33af1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/section/div/div/div/div/div/div[3]/div/div[2]/div[1]/div/table/tbody/tr[1]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;AX923566GB.BSBXC4H&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>77be88b4-a557-4e03-873e-1f6ea1652d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AX923566GB.BSBXC4H</value>
+      <webElementGuid>fb1f070b-4166-4a7f-8dd0-71554398f908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mTableId_5072819&quot;)/div[2]/div[@class=&quot;row tbl-container&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-12 tbl-fixed&quot;]/table[@class=&quot;table m-table table-condensed&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>8fb3e30e-905f-4223-a5fb-13da844ef550</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mTableId_5072819']/div[2]/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>3a8625ec-74e2-43b5-8a8a-fbb389b1ab3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebSync?'])[2]/following::td[3]</value>
+      <webElementGuid>3b2af537-ce6a-4590-b46c-93a9779f932d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync?'])[2]/following::td[3]</value>
+      <webElementGuid>9c5a9375-046a-45b8-8d22-ddeab0bfe942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AX 9235 66GB'])[1]/preceding::td[1]</value>
+      <webElementGuid>fe6ffdbb-d9f4-4eee-947a-fd23ebfb106e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::td[2]</value>
+      <webElementGuid>1597a744-34db-45e9-a4a9-fe9011614f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AX923566GB.BSBXC4H']/parent::*</value>
+      <webElementGuid>2c1d52c9-758f-4475-8573-a94976cc54ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>0475d65f-c241-43d1-8b0d-4dd1986def64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AX923566GB.BSBXC4H' or . = 'AX923566GB.BSBXC4H')]</value>
+      <webElementGuid>74c8a170-4203-483b-b6a1-b377ea210571</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deactive Edit Delete</name>
+   <tag></tag>
+   <elementGuidId>75c4f3b7-d5b7-459d-b4e4-085a72da1ff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/div[2]/ul/li[8]/span/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Corporate Deactive Edit Delete&quot;i >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9c1272e-856b-4131-85fd-610b4acf39d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>8736cca4-b1d1-4b6a-9a59-52f3abeaf561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Deactive Edit Delete   </value>
+      <webElementGuid>1c6e2af1-aa86-48e2-b5e4-167359669970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;section&quot;]/div[2]/ul[@class=&quot;sortable parent ui-sortable&quot;]/li[@class=&quot;ui-sortable-handle&quot;]/span[@class=&quot;wrapper&quot;]/div[@class=&quot;toggleInteraction&quot;]/div[@class=&quot;dropdown&quot;]</value>
+      <webElementGuid>de0ac542-a1aa-4d10-9333-e96635e38c05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/div[2]/ul/li[8]/span/div/div</value>
+      <webElementGuid>6a8df142-c1d8-41f4-beda-6670eb648f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate'])[2]/following::div[2]</value>
+      <webElementGuid>26bff3c1-9735-45e7-bd91-bcbd18564ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new sub menu'])[7]/following::div[2]</value>
+      <webElementGuid>8b4b7d40-8645-4921-b04a-59e8516e81eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span/div/div</value>
+      <webElementGuid>34523288-b648-4522-8f16-7fe0dcc6a236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '    Deactive Edit Delete   ' or . = '    Deactive Edit Delete   ')]</value>
+      <webElementGuid>2b3f227c-5ef2-4ed3-908c-4a63bcf83d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Mandatory Dictionary</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45d2aa11-e6d8-4643-8a50-413580ffb95c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>970dd7da-3c9a-4a9b-b9c9-93076878bfb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e79fc9cb-cd21-42b5-bdc8-8d4da715412f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e9255e8-d248-4446-b849-5c7e967e041c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>970dd7da-3c9a-4a9b-b9c9-93076878bfb0</id>
+      <masked>false</masked>
+      <name>performancename</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e79fc9cb-cd21-42b5-bdc8-8d4da715412f</id>
+      <masked>false</masked>
+      <name>definition</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e9255e8-d248-4446-b849-5c7e967e041c</id>
+      <masked>false</masked>
+      <name>formula</name>
+   </variable>
+</TestCaseEntity>

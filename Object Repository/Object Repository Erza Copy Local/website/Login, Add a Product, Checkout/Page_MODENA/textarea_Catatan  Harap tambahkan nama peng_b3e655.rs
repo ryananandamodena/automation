@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Catatan  Harap tambahkan nama peng_b3e655</name>
+   <tag></tag>
+   <elementGuidId>cc45efb5-9777-42e0-a408-0a36b3cdbc36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='notes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;notes&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tulis catatan untuk pengiriman di sini...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>041742d4-3763-4505-862c-13a8dbf08dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>notes</value>
+      <webElementGuid>2fb321ac-7db3-4a81-93d3-a5b520e5db9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control address mb-2 </value>
+      <webElementGuid>c0fc22bd-e31e-4cf6-8516-749082dd21f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>f266ca30-7478-42b4-9a66-41e5cd624936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tulis catatan untuk pengiriman di sini...</value>
+      <webElementGuid>9703b617-9bc8-4162-8e78-47e09817d019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action&quot;)/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;d-block&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-block&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-block col-md-12&quot;]/div[@class=&quot;row row-sm&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/textarea[@class=&quot;form-control address mb-2&quot;]</value>
+      <webElementGuid>9baa8e9e-55d3-4232-a3b4-466bd6c81206</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='notes']</value>
+      <webElementGuid>649c2aa3-3c97-497e-8a4d-84e45b0b882b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='action']/div/div[2]/div/div/div/div[4]/div/div/div[4]/div/div/div/textarea</value>
+      <webElementGuid>b2d01502-8489-43e8-bc4f-aacc6745787c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>44c8665c-929b-4a26-b1e4-da9adc5aa7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'notes' and @placeholder = 'Tulis catatan untuk pengiriman di sini...']</value>
+      <webElementGuid>50a26f29-db9d-4c44-98e3-6b1cabd407f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

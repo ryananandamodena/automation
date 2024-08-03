@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Email CC_p-inputtext p-chips-multiple-container</name>
+   <tag></tag>
+   <elementGuidId>b5176ce3-6aac-4dba-8c3b-581d8c202d34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[2]/div[2]/div/div/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>01077b7b-67a1-4199-926f-d26f99a043a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-chips-multiple-container</value>
+      <webElementGuid>d340625c-319a-42c9-bc36-10f1371f90ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ciao-send-email-modal_content&quot;)/div[@class=&quot;flex-1&quot;]/div[@class=&quot;mx-2 my-5  flex align-items-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;card p-fluid&quot;]/div[@class=&quot;p-chips p-component p-inputwrapper&quot;]/ul[@class=&quot;p-inputtext p-chips-multiple-container&quot;]</value>
+      <webElementGuid>16c15e25-23c9-4fa3-a700-4ef2734ffe04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ciao-send-email-modal_content']/div[2]/div[2]/div[2]/div/div/ul</value>
+      <webElementGuid>4a9adaae-8739-41d5-a182-28d7292f223c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email CC'])[1]/following::ul[1]</value>
+      <webElementGuid>023b69fc-fe27-4cb3-a90c-6330fa45f3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sefono5139@fincainc.com'])[1]/following::ul[1]</value>
+      <webElementGuid>52822464-a4a1-42ad-92ce-80dea31794b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Title'])[1]/preceding::ul[1]</value>
+      <webElementGuid>8546d414-06de-43de-bbd7-a7a6f0f35535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validity'])[3]/preceding::ul[1]</value>
+      <webElementGuid>d929efe3-f566-4fc6-97c4-fef399b43f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/ul</value>
+      <webElementGuid>5329a5bd-805e-4f63-b508-9ac82a752a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
