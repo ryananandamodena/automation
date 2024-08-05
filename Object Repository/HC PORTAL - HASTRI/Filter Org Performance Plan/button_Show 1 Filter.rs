@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Show 1 Filter</name>
+   <tag></tag>
+   <elementGuidId>314fe5f2-a394-44d8-b14b-25ab5a06aaa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Show 1 Filter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>31cc49bc-c2c6-41b3-b565-2080f1579213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0505e7d5-324f-4997-80ca-062d70bbdf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded bg-zinc-900 px-2 py-1 text-xs font-semibold text-white shadow-sm hover:bg-zinc-800 disabled:opacity-60</value>
+      <webElementGuid>c8aab6e3-b366-4f64-9741-8741fa0175fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show 1 Filter</value>
+      <webElementGuid>baf9d2dc-88e9-4777-9c78-882d6cb7d35f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/nav[@class=&quot;w-full pb-6&quot;]/div[@class=&quot;h-16 mx-auto&quot;]/div[2]/div[@class=&quot;bg-white rounded-lg w-96 z-50 mt-2 px-4 py-3 drop-shadow-lg&quot;]/div[@class=&quot;flex justify-between pt-4&quot;]/button[@class=&quot;rounded bg-zinc-900 px-2 py-1 text-xs font-semibold text-white shadow-sm hover:bg-zinc-800 disabled:opacity-60&quot;]</value>
+      <webElementGuid>4a97ae14-5aeb-4310-98a5-92ba94974275</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>d20389e6-7616-4a9e-b61e-d089fe1462cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/nav/div[2]/div[2]/div/div[6]/button[2]</value>
+      <webElementGuid>c0472b9b-2465-40dc-986b-8d889f4dd1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/following::button[1]</value>
+      <webElementGuid>3f3fbf43-2d65-46d9-84fb-0c1f923d721d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Number'])[1]/following::button[2]</value>
+      <webElementGuid>0fd0465b-c380-4998-9a9e-e61fc6e38bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>74567b86-02be-47da-8e8a-48fc8da5265b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Number'])[2]/preceding::button[1]</value>
+      <webElementGuid>210c981b-01ff-4876-8088-78f33ad8b7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show']/parent::*</value>
+      <webElementGuid>153809ca-7b45-43d1-bf00-30cb45b41ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>2821eab6-920f-4ba9-9a4c-3f2dbc18894e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Show 1 Filter' or . = 'Show 1 Filter')]</value>
+      <webElementGuid>aa403012-906e-4883-88c0-390eab5ebce3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
