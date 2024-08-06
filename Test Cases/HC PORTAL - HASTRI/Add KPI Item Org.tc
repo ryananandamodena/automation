@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add KPI Item Org</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee1d5fb4-adb4-4fea-b7e7-0fad135c411a</testCaseGuid>
+</TestCaseEntity>
