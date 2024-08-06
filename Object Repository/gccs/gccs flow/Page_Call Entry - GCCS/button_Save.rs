@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Upload File</name>
+   <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>c61373f8-7738-4501-9f6f-c7c60e00332d</elementGuidId>
+   <elementGuidId>27340d12-1b04-41fb-bab1-e8e1c3109e0b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/main/div[2]/div[1]/div/div/div[2]/div/div/div/div[2]/div[2]/div/div[2]/button</value>
+         <key>CSS</key>
+         <value>div:nth-of-type(10) > button.p-button.p-component.btn.btn-primary.btn-regular</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.flex.flex-1.justify-center.align-center > button.p-button.p-component.btn.btn-info.flex-1.btn-regular</value>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Upload File&quot;i</value>
+         <value>form >> internal:has-text=&quot;Sales ModelBH2835ZZAA - MODENA GAS HOB - BH 2835Existing ModelBH 2835 - MODENA G&quot;i >> internal:label=&quot;Save&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,102 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51b83eef-d775-4dbc-a773-b36d44b1d943</webElementGuid>
+      <webElementGuid>9f5d645d-c232-4db9-a468-b0662185ebff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Upload File</value>
-      <webElementGuid>89466ee5-ab93-4e82-8640-3aad62216205</webElementGuid>
+      <value>Save</value>
+      <webElementGuid>22e10e03-97a1-4c37-a65d-3b09c3048ddf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p-button p-component btn btn-info flex-1 btn-regular</value>
-      <webElementGuid>ac232aa9-5b95-40a0-9358-d59cfbeb3738</webElementGuid>
+      <value>p-button p-component btn btn-primary  btn-regular</value>
+      <webElementGuid>a94d68c7-847f-41f9-a746-ef53efb5f6f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>ed8279db-fe1e-4636-a989-7c512356acb0</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>7e73e7ac-5f59-439d-a9a8-7a6979d0042d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Upload File</value>
-      <webElementGuid>c719fa8c-ba63-49b3-baac-f056da88d96b</webElementGuid>
+      <value>Save</value>
+      <webElementGuid>2390d37a-5d74-4490-a7bc-0d7d3a0e0165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[1]/div[@class=&quot;my-4&quot;]/div[@class=&quot;custom-tab&quot;]/div[@class=&quot;custom-tab-content tab-content-open&quot;]/div[@class=&quot;p-card p-component custom-card&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;card-content [object Object]&quot;]/div[@class=&quot;wo-monitoring-filter-container upload-bulk&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;flex flex-1 justify-center align-center&quot;]/button[@class=&quot;p-button p-component btn btn-info flex-1 btn-regular&quot;]</value>
-      <webElementGuid>f749f902-4b6f-42f6-8cdd-e4d2d9b6d717</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout&quot;]/main[1]/div[@class=&quot;content-container&quot;]/div[@class=&quot;call-entry-container&quot;]/div[@class=&quot;call-entry-customer-product-container&quot;]/div[@class=&quot;call-entry-product-container&quot;]/form[1]/div[1]/div[10]/button[@class=&quot;p-button p-component btn btn-primary  btn-regular&quot;]</value>
+      <webElementGuid>fcdffb0c-bb37-4cc9-8301-af420605a9ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>1db2920e-4e76-4a8a-b932-e522d3e7ceaf</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>3d17d8bb-8dfe-4905-bc0a-b9c8bc525203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>207bb980-583c-4093-b38d-c1c190cc072e</webElementGuid>
+      <value>//div[@id='root']/div/main/div[2]/div/div/div[2]/form/div/div[10]/button</value>
+      <webElementGuid>b6501cdf-8918-4fd4-8ccd-e97c0e66381e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::button[1]</value>
-      <webElementGuid>8e8280ba-5c9b-4113-9c35-b2fedd60da76</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN WARRANTY'])[2]/following::button[1]</value>
+      <webElementGuid>666a07ba-5e8e-4235-b077-c67940bbf46f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Bulk'])[1]/following::button[2]</value>
-      <webElementGuid>d0ea4aee-af9e-4330-bca5-7bdd38ad2cbc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warranty Status'])[1]/following::button[1]</value>
+      <webElementGuid>ddcb236f-1947-43db-b7f0-d9594b387700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
-      <webElementGuid>bb73c126-3c40-48c1-8697-2def61180849</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>53ef4bdc-acaa-4aa7-9abf-ee369cfe492b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>c8fb76ae-b2c7-4f5e-994c-1be5021efe7f</webElementGuid>
+      <value>//div[10]/button</value>
+      <webElementGuid>26df9e77-d0d6-4e16-9586-b7038f61f72f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Upload File' or . = 'Upload File')]</value>
-      <webElementGuid>c72333a5-3972-4f31-9e5c-dee003bc4cc4</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>87ee2b6b-7ee7-4f43-a286-2a115ca0925f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
