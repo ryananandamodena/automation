@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search org approval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acc77e8f-a6e1-4501-9c67-3ce2c47783d5</testCaseGuid>
+</TestCaseEntity>
