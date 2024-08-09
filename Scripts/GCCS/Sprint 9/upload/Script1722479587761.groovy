@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/gccs/sprint 9/Page_Dashboard - GCC
 
 WebUI.click(findTestObject('Object Repository/gccs/sprint 9/Page_Dashboard - GCCS/li_Upload'))
 
-WebUI.uploadFile(findTestObject('Object Repository/gccs/sprint 9/Page_Upload Bulk - GCCS/button_Upload File'), 'C:\\\\Users\\\\ryan.ananda\\\\Downloads\\\\template.xlsx')
+WebUI.uploadFile(findTestObject('Object Repository/gccs/sprint 9/Page_Upload Bulk - GCCS/button_Upload File'), file)
 
 WebUI.click(findTestObject('Object Repository/gccs/sprint 9/Page_Upload Bulk - GCCS/button_Submit'))
 

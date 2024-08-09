@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>70efb520-435c-4ae2-afd2-5b0f8e481df0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>246dc677-ee97-4108-85a7-9dc4f17b0801</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\ryan.ananda\\\\Downloads\\\\template.xlsx'</defaultValue>
+      <description></description>
+      <id>246dc677-ee97-4108-85a7-9dc4f17b0801</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
 </TestCaseEntity>
